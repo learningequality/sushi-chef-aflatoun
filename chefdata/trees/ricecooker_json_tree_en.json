@@ -1,0 +1,2357 @@
+{
+  "kind": "ChannelNode",
+  "title": "NOT USED",
+  "language": "NOT USED",
+  "children": [
+    {
+      "kind": "TopicNode",
+      "dirname": "Aflatoun Series",
+      "source_id": "aflotoun:English/Aflatoun Series",
+      "title": "Aflatoun Series",
+      "description": null,
+      "language": "en",
+      "children": [
+        {
+          "kind": "TopicNode",
+          "dirname": "Book 4",
+          "source_id": "aflotoun:English/Aflatoun Series/Book 4",
+          "title": "Book 4",
+          "description": null,
+          "language": "en",
+          "children": [
+            {
+              "kind": "TopicNode",
+              "dirname": "aaafl41.1",
+              "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl41.1",
+              "title": "Introduction to Aflatoun",
+              "description": "Social and Financial Education",
+              "language": "en",
+              "children": [
+                {
+                  "kind": "DocumentNode",
+                  "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl41.1/02AAAflBk41.1IntroductionToAflatoun.pdf",
+                  "title": "Introduction to Aflatoun",
+                  "author": "Aflatoun",
+                  "description": null,
+                  "language": "en",
+                  "files": [
+                    {
+                      "file_type": "DocumentFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Aflatoun Series/Book 4/aaafl41.1/02AAAflBk41.1IntroductionToAflatoun.pdf",
+                      "language": "en"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "TopicNode",
+              "dirname": "aaafl41.2",
+              "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl41.2",
+              "title": "The Aflatoun Movement",
+              "description": "Social and Financial Education",
+              "language": "en",
+              "children": [
+                {
+                  "kind": "DocumentNode",
+                  "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl41.2/02AAAflBk41.2TheAflatounMovement.pdf",
+                  "title": "The Aflatoun Movement",
+                  "author": "Aflatoun",
+                  "description": null,
+                  "language": "en",
+                  "files": [
+                    {
+                      "file_type": "DocumentFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Aflatoun Series/Book 4/aaafl41.2/02AAAflBk41.2TheAflatounMovement.pdf",
+                      "language": "en"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "TopicNode",
+              "dirname": "aaafl41.3",
+              "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl41.3",
+              "title": "Starting the club",
+              "description": "Social and Financial Education",
+              "language": "en",
+              "children": [
+                {
+                  "kind": "DocumentNode",
+                  "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl41.3/02AAAflBk41.3Startingtheclub.pdf",
+                  "title": "Starting the club",
+                  "author": "Aflatoun",
+                  "description": null,
+                  "language": "en",
+                  "files": [
+                    {
+                      "file_type": "DocumentFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Aflatoun Series/Book 4/aaafl41.3/02AAAflBk41.3Startingtheclub.pdf",
+                      "language": "en"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "TopicNode",
+              "dirname": "aaafl41.4",
+              "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl41.4",
+              "title": "Institutions for Social Support",
+              "description": "Social and Financial Education",
+              "language": "en",
+              "children": [
+                {
+                  "kind": "DocumentNode",
+                  "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl41.4/02AAAflBk41.4InstitutionsforSocialSupport.pdf",
+                  "title": "Institutions for Social Support",
+                  "author": "Aflatoun",
+                  "description": null,
+                  "language": "en",
+                  "files": [
+                    {
+                      "file_type": "DocumentFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Aflatoun Series/Book 4/aaafl41.4/02AAAflBk41.4InstitutionsforSocialSupport.pdf",
+                      "language": "en"
+                    }
+                  ]
+                },
+                {
+                  "kind": "VideoNode",
+                  "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl41.4/04ImageTheatreAnimation.mp4",
+                  "title": "Image Theatre Animation",
+                  "author": "Aflatoun",
+                  "description": null,
+                  "language": "en",
+                  "derive_thumbnail": true,
+                  "files": [
+                    {
+                      "file_type": "VideoFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Aflatoun Series/Book 4/aaafl41.4/04ImageTheatreAnimation.mp4",
+                      "language": "en"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "TopicNode",
+              "dirname": "aaafl41.5",
+              "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl41.5",
+              "title": "Knowing One\u2019s Heights and Weight",
+              "description": "Social and Financial Education",
+              "language": "en",
+              "children": [
+                {
+                  "kind": "DocumentNode",
+                  "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl41.5/02AAAflBk41.5KnowingOne\u2019sHeightsandWeight.pdf",
+                  "title": "Knowing One\u2019s Heights and Weight",
+                  "author": "Aflatoun",
+                  "description": null,
+                  "language": "en",
+                  "files": [
+                    {
+                      "file_type": "DocumentFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Aflatoun Series/Book 4/aaafl41.5/02AAAflBk41.5KnowingOne\u2019sHeightsandWeight.pdf",
+                      "language": "en"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "TopicNode",
+              "dirname": "aaafl41.6",
+              "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl41.6",
+              "title": "Inspiring The Young To Meet Their Goals",
+              "description": "Social and Financial Education",
+              "language": "en",
+              "children": [
+                {
+                  "kind": "DocumentNode",
+                  "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl41.6/02AAAflBk41.6InspiringTheYoungToMeetTheirGoals.pdf",
+                  "title": "Inspiring The Young To Meet Their Goals",
+                  "author": "Aflatoun",
+                  "description": null,
+                  "language": "en",
+                  "files": [
+                    {
+                      "file_type": "DocumentFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Aflatoun Series/Book 4/aaafl41.6/02AAAflBk41.6InspiringTheYoungToMeetTheirGoals.pdf",
+                      "language": "en"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "TopicNode",
+              "dirname": "aaafl42.1",
+              "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl42.1",
+              "title": "Knowing One\u2019s Rights And Responsibilities",
+              "description": "Social and Financial Education",
+              "language": "en",
+              "children": [
+                {
+                  "kind": "DocumentNode",
+                  "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl42.1/02AAAflBk42.1KnowingOnesRightsAndResponsibilities.pdf",
+                  "title": "Knowing One\u2019s Rights And Responsibilities",
+                  "author": "Aflatoun",
+                  "description": null,
+                  "language": "en",
+                  "files": [
+                    {
+                      "file_type": "DocumentFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Aflatoun Series/Book 4/aaafl42.1/02AAAflBk42.1KnowingOnesRightsAndResponsibilities.pdf",
+                      "language": "en"
+                    }
+                  ]
+                },
+                {
+                  "kind": "VideoNode",
+                  "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl42.1/04KWLAnimation.mp4",
+                  "title": "KWL Chart Animation",
+                  "author": "Aflatoun",
+                  "description": null,
+                  "language": "en",
+                  "derive_thumbnail": true,
+                  "files": [
+                    {
+                      "file_type": "VideoFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Aflatoun Series/Book 4/aaafl42.1/04KWLAnimation.mp4",
+                      "language": "en"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "TopicNode",
+              "dirname": "aaafl42.2",
+              "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl42.2",
+              "title": "Safety And Risk",
+              "description": "Social and Financial Education",
+              "language": "en",
+              "children": [
+                {
+                  "kind": "DocumentNode",
+                  "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl42.2/02AAAflBk42.2SafetyAndRisk.pdf",
+                  "title": "Safety And Risk",
+                  "author": "Aflatoun",
+                  "description": null,
+                  "language": "en",
+                  "files": [
+                    {
+                      "file_type": "DocumentFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Aflatoun Series/Book 4/aaafl42.2/02AAAflBk42.2SafetyAndRisk.pdf",
+                      "language": "en"
+                    }
+                  ]
+                },
+                {
+                  "kind": "VideoNode",
+                  "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl42.2/04ImageTheatreAnimation.mp4",
+                  "title": "Image Theatre Animation",
+                  "author": "Aflatoun",
+                  "description": null,
+                  "language": "en",
+                  "derive_thumbnail": true,
+                  "files": [
+                    {
+                      "file_type": "VideoFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Aflatoun Series/Book 4/aaafl42.2/04ImageTheatreAnimation.mp4",
+                      "language": "en"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "TopicNode",
+              "dirname": "aaafl42.3",
+              "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl42.3",
+              "title": "Analysing Gender Bias ",
+              "description": "Social and Financial Education",
+              "language": "en",
+              "children": [
+                {
+                  "kind": "DocumentNode",
+                  "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl42.3/02AAAflBk42.3AnalysingGenderBias.pdf",
+                  "title": "Analysing Gender Bias",
+                  "author": "Aflatoun",
+                  "description": null,
+                  "language": "en",
+                  "files": [
+                    {
+                      "file_type": "DocumentFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Aflatoun Series/Book 4/aaafl42.3/02AAAflBk42.3AnalysingGenderBias.pdf",
+                      "language": "en"
+                    }
+                  ]
+                },
+                {
+                  "kind": "VideoNode",
+                  "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl42.3/04en_brainstorming.mp4",
+                  "title": "Benefits of Brainstorming",
+                  "author": "Aflatoun",
+                  "description": "The benefits of brainstorming as a classroom tool.",
+                  "language": "en",
+                  "derive_thumbnail": true,
+                  "files": [
+                    {
+                      "file_type": "VideoFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Aflatoun Series/Book 4/aaafl42.3/04en_brainstorming.mp4",
+                      "language": "en"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "TopicNode",
+              "dirname": "aaafl42.4",
+              "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl42.4",
+              "title": "Our History - Who We Are",
+              "description": "Social and Financial Education",
+              "language": "en",
+              "children": [
+                {
+                  "kind": "DocumentNode",
+                  "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl42.4/02AAAflBk42.4OurHistoryWhoWeAre.pdf",
+                  "title": "Our History - Who We Are",
+                  "author": "Aflatoun",
+                  "description": null,
+                  "language": "en",
+                  "files": [
+                    {
+                      "file_type": "DocumentFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Aflatoun Series/Book 4/aaafl42.4/02AAAflBk42.4OurHistoryWhoWeAre.pdf",
+                      "language": "en"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "TopicNode",
+              "dirname": "aaafl43.1",
+              "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl43.1",
+              "title": "Organising Savings",
+              "description": "Social and Financial Education",
+              "language": "en",
+              "children": [
+                {
+                  "kind": "DocumentNode",
+                  "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl43.1/02AAAflBk43.1OrganisingSavings.pdf",
+                  "title": "Organising Savings",
+                  "author": "Aflatoun",
+                  "description": null,
+                  "language": "en",
+                  "files": [
+                    {
+                      "file_type": "DocumentFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Aflatoun Series/Book 4/aaafl43.1/02AAAflBk43.1OrganisingSavings.pdf",
+                      "language": "en"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "TopicNode",
+              "dirname": "aaafl43.2",
+              "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl43.2",
+              "title": "Savings Options",
+              "description": "Social and Financial Education",
+              "language": "en",
+              "children": [
+                {
+                  "kind": "DocumentNode",
+                  "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl43.2/02AAAflBk43.2SavingsOptions.pdf",
+                  "title": "Savings Options",
+                  "author": "Aflatoun",
+                  "description": null,
+                  "language": "en",
+                  "files": [
+                    {
+                      "file_type": "DocumentFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Aflatoun Series/Book 4/aaafl43.2/02AAAflBk43.2SavingsOptions.pdf",
+                      "language": "en"
+                    }
+                  ]
+                },
+                {
+                  "kind": "VideoNode",
+                  "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl43.2/04en_brainstorming.mp4",
+                  "title": "Benefits of Brainstorming",
+                  "author": "Aflatoun",
+                  "description": "The benefits of brainstorming as a classroom tool.",
+                  "language": "en",
+                  "derive_thumbnail": true,
+                  "files": [
+                    {
+                      "file_type": "VideoFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Aflatoun Series/Book 4/aaafl43.2/04en_brainstorming.mp4",
+                      "language": "en"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "TopicNode",
+              "dirname": "aaafl43.3",
+              "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl43.3",
+              "title": "Managing One\u2019s Finances And Resources",
+              "description": "Social and Financial Education",
+              "language": "en",
+              "children": [
+                {
+                  "kind": "DocumentNode",
+                  "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl43.3/02AAAflBk43.3ManagingOnesFinancesAndResources.pdf",
+                  "title": "Managing One\u2019s Finances And Resources",
+                  "author": "Aflatoun",
+                  "description": null,
+                  "language": "en",
+                  "files": [
+                    {
+                      "file_type": "DocumentFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Aflatoun Series/Book 4/aaafl43.3/02AAAflBk43.3ManagingOnesFinancesAndResources.pdf",
+                      "language": "en"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "TopicNode",
+              "dirname": "aaafl43.4",
+              "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl43.4",
+              "title": "Saving As A Way Of Life",
+              "description": "Social and Financial Education",
+              "language": "en",
+              "children": [
+                {
+                  "kind": "DocumentNode",
+                  "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl43.4/02AAAflBk43.4SavingAsAWayOfLife.pdf",
+                  "title": "Saving As A Way Of Life",
+                  "author": "Aflatoun",
+                  "description": null,
+                  "language": "en",
+                  "files": [
+                    {
+                      "file_type": "DocumentFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Aflatoun Series/Book 4/aaafl43.4/02AAAflBk43.4SavingAsAWayOfLife.pdf",
+                      "language": "en"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "TopicNode",
+              "dirname": "aaafl43.5",
+              "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl43.5",
+              "title": "The Benefits And Damaging Aspects Of The Environment",
+              "description": "Social and Financial Education",
+              "language": "en",
+              "children": [
+                {
+                  "kind": "DocumentNode",
+                  "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl43.5/02AAAflBk43.5TheBenefitsAndDamagingAspectsOfTheEnvironment.pdf",
+                  "title": "The Benefits And Damaging Aspects Of The Environment",
+                  "author": "Aflatoun",
+                  "description": null,
+                  "language": "en",
+                  "files": [
+                    {
+                      "file_type": "DocumentFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Aflatoun Series/Book 4/aaafl43.5/02AAAflBk43.5TheBenefitsAndDamagingAspectsOfTheEnvironment.pdf",
+                      "language": "en"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "TopicNode",
+              "dirname": "aaafl44.1",
+              "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl44.1",
+              "title": "Organising an Enterprise",
+              "description": "Social and Financial Education",
+              "language": "en",
+              "children": [
+                {
+                  "kind": "DocumentNode",
+                  "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl44.1/02AAAflBk44.1OrganisinganEnterprise.pdf",
+                  "title": "Organising an Enterprise",
+                  "author": "Aflatoun",
+                  "description": null,
+                  "language": "en",
+                  "files": [
+                    {
+                      "file_type": "DocumentFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Aflatoun Series/Book 4/aaafl44.1/02AAAflBk44.1OrganisinganEnterprise.pdf",
+                      "language": "en"
+                    }
+                  ]
+                },
+                {
+                  "kind": "VideoNode",
+                  "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl44.1/04en_brainstorming.mp4",
+                  "title": "Benefits of Brainstorming",
+                  "author": "Aflatoun",
+                  "description": "The benefits of brainstorming as a classroom tool.",
+                  "language": "en",
+                  "derive_thumbnail": true,
+                  "files": [
+                    {
+                      "file_type": "VideoFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Aflatoun Series/Book 4/aaafl44.1/04en_brainstorming.mp4",
+                      "language": "en"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "TopicNode",
+              "dirname": "aaafl44.2",
+              "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl44.2",
+              "title": "Organising Aflatoun Day",
+              "description": "Social and Financial Education",
+              "language": "en",
+              "children": [
+                {
+                  "kind": "DocumentNode",
+                  "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl44.2/02AAAflBk44.2OrganisingAflatounDay.pdf",
+                  "title": "Organising Aflatoun Day",
+                  "author": "Aflatoun",
+                  "description": null,
+                  "language": "en",
+                  "files": [
+                    {
+                      "file_type": "DocumentFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Aflatoun Series/Book 4/aaafl44.2/02AAAflBk44.2OrganisingAflatounDay.pdf",
+                      "language": "en"
+                    }
+                  ]
+                },
+                {
+                  "kind": "VideoNode",
+                  "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl44.2/04en_brainstorming.mp4",
+                  "title": "Benefits of Brainstorming",
+                  "author": "Aflatoun",
+                  "description": "The benefits of brainstorming as a classroom tool.",
+                  "language": "en",
+                  "derive_thumbnail": true,
+                  "files": [
+                    {
+                      "file_type": "VideoFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Aflatoun Series/Book 4/aaafl44.2/04en_brainstorming.mp4",
+                      "language": "en"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "TopicNode",
+              "dirname": "aaafl44.3",
+              "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl44.3",
+              "title": "Long-, Medium- And Short-Term Goals",
+              "description": "Social and Financial Education",
+              "language": "en",
+              "children": [
+                {
+                  "kind": "DocumentNode",
+                  "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl44.3/02AAAflBk44.3LongMediumAndShortTermGoals.pdf",
+                  "title": "Long-, Medium- And Short-Term Goals",
+                  "author": "Aflatoun",
+                  "description": null,
+                  "language": "en",
+                  "files": [
+                    {
+                      "file_type": "DocumentFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Aflatoun Series/Book 4/aaafl44.3/02AAAflBk44.3LongMediumAndShortTermGoals.pdf",
+                      "language": "en"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "TopicNode",
+              "dirname": "aaafl44.4",
+              "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl44.4",
+              "title": "Collaboration Skills And Attributes For Group Work",
+              "description": "Social and Financial Education",
+              "language": "en",
+              "children": [
+                {
+                  "kind": "DocumentNode",
+                  "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl44.4/02AAAflBk44.4CollaborationSkillsAndAttributesForGroupWork.pdf",
+                  "title": "Collaboration Skills And Attributes For Group Work",
+                  "author": "Aflatoun",
+                  "description": null,
+                  "language": "en",
+                  "files": [
+                    {
+                      "file_type": "DocumentFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Aflatoun Series/Book 4/aaafl44.4/02AAAflBk44.4CollaborationSkillsAndAttributesForGroupWork.pdf",
+                      "language": "en"
+                    }
+                  ]
+                },
+                {
+                  "kind": "VideoNode",
+                  "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl44.4/04en_brainstorming.mp4",
+                  "title": "Benefits of Brainstorming",
+                  "author": "Aflatoun",
+                  "description": "The benefits of brainstorming as a classroom tool.",
+                  "language": "en",
+                  "derive_thumbnail": true,
+                  "files": [
+                    {
+                      "file_type": "VideoFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Aflatoun Series/Book 4/aaafl44.4/04en_brainstorming.mp4",
+                      "language": "en"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "TopicNode",
+              "dirname": "aaafl44.5",
+              "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl44.5",
+              "title": "Social Inclusion For Improvement of Livelihoods",
+              "description": "Social and Financial Education",
+              "language": "en",
+              "children": [
+                {
+                  "kind": "DocumentNode",
+                  "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl44.5/02AAAflBk44.5SocialInclusionForImprovementofLivelihoods.pdf",
+                  "title": "Social Inclusion For Improvement of Livelihoods",
+                  "author": "Aflatoun",
+                  "description": null,
+                  "language": "en",
+                  "files": [
+                    {
+                      "file_type": "DocumentFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Aflatoun Series/Book 4/aaafl44.5/02AAAflBk44.5SocialInclusionForImprovementofLivelihoods.pdf",
+                      "language": "en"
+                    }
+                  ]
+                },
+                {
+                  "kind": "VideoNode",
+                  "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl44.5/04en_brainstorming.mp4",
+                  "title": "Benefits of Brainstorming",
+                  "author": "Aflatoun",
+                  "description": "The benefits of brainstorming as a classroom tool.",
+                  "language": "en",
+                  "derive_thumbnail": true,
+                  "files": [
+                    {
+                      "file_type": "VideoFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Aflatoun Series/Book 4/aaafl44.5/04en_brainstorming.mp4",
+                      "language": "en"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "TopicNode",
+              "dirname": "aaafl44.6",
+              "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl44.6",
+              "title": "Financial Enterprises In A Community",
+              "description": "Social and Financial Education",
+              "language": "en",
+              "children": [
+                {
+                  "kind": "DocumentNode",
+                  "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl44.6/02AAAflBk44.6FinancialEnterprisesInACommunity.pdf",
+                  "title": "Financial Enterprises In A Community",
+                  "author": "Aflatoun",
+                  "description": null,
+                  "language": "en",
+                  "files": [
+                    {
+                      "file_type": "DocumentFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Aflatoun Series/Book 4/aaafl44.6/02AAAflBk44.6FinancialEnterprisesInACommunity.pdf",
+                      "language": "en"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "TopicNode",
+              "dirname": "aaafl44.7",
+              "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl44.7",
+              "title": "Career And Occupation Skills",
+              "description": "Social and Financial Education",
+              "language": "en",
+              "children": [
+                {
+                  "kind": "DocumentNode",
+                  "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl44.7/02AAAflBk44.7CareerAndOccupationSkills.pdf",
+                  "title": "Career And Occupation Skills",
+                  "author": "Aflatoun",
+                  "description": null,
+                  "language": "en",
+                  "files": [
+                    {
+                      "file_type": "DocumentFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Aflatoun Series/Book 4/aaafl44.7/02AAAflBk44.7CareerAndOccupationSkills.pdf",
+                      "language": "en"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "TopicNode",
+          "dirname": "Book 5",
+          "source_id": "aflotoun:English/Aflatoun Series/Book 5",
+          "title": "Book 5",
+          "description": null,
+          "language": "en",
+          "children": [
+            {
+              "kind": "TopicNode",
+              "dirname": "aaafl51.1",
+              "source_id": "aflotoun:English/Aflatoun Series/Book 5/aaafl51.1",
+              "title": "Introduction to Aflatoun",
+              "description": "Social and Financial Education",
+              "language": "en",
+              "children": [
+                {
+                  "kind": "DocumentNode",
+                  "source_id": "aflotoun:English/Aflatoun Series/Book 5/aaafl51.1/02AAAfl51.1LessonPlan.pdf",
+                  "title": "Introduction to Aflatoun",
+                  "author": "Aflatoun",
+                  "description": null,
+                  "language": "en",
+                  "files": [
+                    {
+                      "file_type": "DocumentFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Aflatoun Series/Book 5/aaafl51.1/02AAAfl51.1LessonPlan.pdf",
+                      "language": "en"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "TopicNode",
+              "dirname": "aaafl51.2",
+              "source_id": "aflotoun:English/Aflatoun Series/Book 5/aaafl51.2",
+              "title": "The Aflatoun Movement",
+              "description": "Social and Financial Education",
+              "language": "en",
+              "children": [
+                {
+                  "kind": "DocumentNode",
+                  "source_id": "aflotoun:English/Aflatoun Series/Book 5/aaafl51.2/02AAAfl51.2LessonPlan.pdf",
+                  "title": "The Aflatoun Movement",
+                  "author": "Aflatoun",
+                  "description": null,
+                  "language": "en",
+                  "files": [
+                    {
+                      "file_type": "DocumentFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Aflatoun Series/Book 5/aaafl51.2/02AAAfl51.2LessonPlan.pdf",
+                      "language": "en"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "TopicNode",
+              "dirname": "aaafl51.3",
+              "source_id": "aflotoun:English/Aflatoun Series/Book 5/aaafl51.3",
+              "title": "Starting an Aflatoun Club",
+              "description": "Social and Financial Education",
+              "language": "en",
+              "children": [
+                {
+                  "kind": "DocumentNode",
+                  "source_id": "aflotoun:English/Aflatoun Series/Book 5/aaafl51.3/02AAAfl51.3LessonPlan.pdf",
+                  "title": "Starting an Aflatoun Club",
+                  "author": "Aflatoun",
+                  "description": null,
+                  "language": "en",
+                  "files": [
+                    {
+                      "file_type": "DocumentFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Aflatoun Series/Book 5/aaafl51.3/02AAAfl51.3LessonPlan.pdf",
+                      "language": "en"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "TopicNode",
+              "dirname": "aaafl51.4",
+              "source_id": "aflotoun:English/Aflatoun Series/Book 5/aaafl51.4",
+              "title": "Social Inclusion And Equality",
+              "description": "Social and Financial Education",
+              "language": "en",
+              "children": [
+                {
+                  "kind": "DocumentNode",
+                  "source_id": "aflotoun:English/Aflatoun Series/Book 5/aaafl51.4/02AAAfl51.4LessonPlan.pdf",
+                  "title": "Social Inclusion And Equality",
+                  "author": "Aflatoun",
+                  "description": null,
+                  "language": "en",
+                  "files": [
+                    {
+                      "file_type": "DocumentFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Aflatoun Series/Book 5/aaafl51.4/02AAAfl51.4LessonPlan.pdf",
+                      "language": "en"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "TopicNode",
+              "dirname": "aaafl51.5",
+              "source_id": "aflotoun:English/Aflatoun Series/Book 5/aaafl51.5",
+              "title": "Interpreting Information Gathered From A Problem",
+              "description": "Social and Financial Education",
+              "language": "en",
+              "children": [
+                {
+                  "kind": "DocumentNode",
+                  "source_id": "aflotoun:English/Aflatoun Series/Book 5/aaafl51.5/02AAAfl51.5LessonPlan.pdf",
+                  "title": "Interpreting Information Gathered From A Problem",
+                  "author": "Aflatoun",
+                  "description": null,
+                  "language": "en",
+                  "files": [
+                    {
+                      "file_type": "DocumentFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Aflatoun Series/Book 5/aaafl51.5/02AAAfl51.5LessonPlan.pdf",
+                      "language": "en"
+                    }
+                  ]
+                },
+                {
+                  "kind": "VideoNode",
+                  "source_id": "aflotoun:English/Aflatoun Series/Book 5/aaafl51.5/04en_the_problem_tree.mp4",
+                  "title": "The Problem Tree",
+                  "author": "Aflatoun",
+                  "description": "It is a tool that trains children to think analytically, by encouraging children to identify the links between causes and effect.",
+                  "language": "en",
+                  "derive_thumbnail": true,
+                  "files": [
+                    {
+                      "file_type": "VideoFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Aflatoun Series/Book 5/aaafl51.5/04en_the_problem_tree.mp4",
+                      "language": "en"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "TopicNode",
+              "dirname": "aaafl51.6",
+              "source_id": "aflotoun:English/Aflatoun Series/Book 5/aaafl51.6",
+              "title": "Milestones To Achieving One\u2019s Goals",
+              "description": "Social and Financial Education",
+              "language": "en",
+              "children": [
+                {
+                  "kind": "DocumentNode",
+                  "source_id": "aflotoun:English/Aflatoun Series/Book 5/aaafl51.6/02AAAfl51.6LessonPlan.pdf",
+                  "title": "Milestones To Achieving One\u2019s Goals",
+                  "author": "Aflatoun",
+                  "description": null,
+                  "language": "en",
+                  "files": [
+                    {
+                      "file_type": "DocumentFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Aflatoun Series/Book 5/aaafl51.6/02AAAfl51.6LessonPlan.pdf",
+                      "language": "en"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "TopicNode",
+              "dirname": "aaafl52.1",
+              "source_id": "aflotoun:English/Aflatoun Series/Book 5/aaafl52.1",
+              "title": "Children\u2019s Rights And Barriers",
+              "description": "Social and Financial Education",
+              "language": "en",
+              "children": [
+                {
+                  "kind": "DocumentNode",
+                  "source_id": "aflotoun:English/Aflatoun Series/Book 5/aaafl52.1/02AAAfl52.1LessonPlan.pdf",
+                  "title": "Children\u2019s Rights And Barriers",
+                  "author": "Aflatoun",
+                  "description": null,
+                  "language": "en",
+                  "files": [
+                    {
+                      "file_type": "DocumentFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Aflatoun Series/Book 5/aaafl52.1/02AAAfl52.1LessonPlan.pdf",
+                      "language": "en"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "TopicNode",
+              "dirname": "aaafl52.2",
+              "source_id": "aflotoun:English/Aflatoun Series/Book 5/aaafl52.2",
+              "title": "Establishing Positive Relationships With Trusted Persons",
+              "description": "Social and Financial Education",
+              "language": "en",
+              "children": [
+                {
+                  "kind": "DocumentNode",
+                  "source_id": "aflotoun:English/Aflatoun Series/Book 5/aaafl52.2/02AAAfl52.2LessonPlan.pdf",
+                  "title": "Establishing Positive Relationships With Trusted Persons",
+                  "author": "Aflatoun",
+                  "description": null,
+                  "language": "en",
+                  "files": [
+                    {
+                      "file_type": "DocumentFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Aflatoun Series/Book 5/aaafl52.2/02AAAfl52.2LessonPlan.pdf",
+                      "language": "en"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "TopicNode",
+              "dirname": "aaafl52.3",
+              "source_id": "aflotoun:English/Aflatoun Series/Book 5/aaafl52.3",
+              "title": "Gender-Based Bias, Discrimination and Violence",
+              "description": "Social and Financial Education",
+              "language": "en",
+              "children": [
+                {
+                  "kind": "DocumentNode",
+                  "source_id": "aflotoun:English/Aflatoun Series/Book 5/aaafl52.3/02AAAfl52.3LessonPlan.pdf",
+                  "title": "Gender-Based Bias, Discrimination and Violence",
+                  "author": "Aflatoun",
+                  "description": null,
+                  "language": "en",
+                  "files": [
+                    {
+                      "file_type": "DocumentFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Aflatoun Series/Book 5/aaafl52.3/02AAAfl52.3LessonPlan.pdf",
+                      "language": "en"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "TopicNode",
+              "dirname": "aaafl52.4",
+              "source_id": "aflotoun:English/Aflatoun Series/Book 5/aaafl52.4",
+              "title": "Gender-Based Bias, Discrimination and Violence",
+              "description": "Social and Financial Education",
+              "language": "en",
+              "children": [
+                {
+                  "kind": "DocumentNode",
+                  "source_id": "aflotoun:English/Aflatoun Series/Book 5/aaafl52.4/02AAAfl52.4LessonPlan.pdf",
+                  "title": "New Ways To Look At Things",
+                  "author": "Aflatoun",
+                  "description": null,
+                  "language": "en",
+                  "files": [
+                    {
+                      "file_type": "DocumentFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Aflatoun Series/Book 5/aaafl52.4/02AAAfl52.4LessonPlan.pdf",
+                      "language": "en"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "TopicNode",
+              "dirname": "aaafl53.1",
+              "source_id": "aflotoun:English/Aflatoun Series/Book 5/aaafl53.1",
+              "title": "Organising Savings",
+              "description": "Social and Financial Education",
+              "language": "en",
+              "children": [
+                {
+                  "kind": "DocumentNode",
+                  "source_id": "aflotoun:English/Aflatoun Series/Book 5/aaafl53.1/02AAAfl53.1LessonPlan.pdf",
+                  "title": "Organising Savings",
+                  "author": "Aflatoun",
+                  "description": null,
+                  "language": "en",
+                  "files": [
+                    {
+                      "file_type": "DocumentFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Aflatoun Series/Book 5/aaafl53.1/02AAAfl53.1LessonPlan.pdf",
+                      "language": "en"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "TopicNode",
+              "dirname": "aaafl53.2",
+              "source_id": "aflotoun:English/Aflatoun Series/Book 5/aaafl53.2",
+              "title": "Making Financial Choices",
+              "description": "Social and Financial Education",
+              "language": "en",
+              "children": [
+                {
+                  "kind": "DocumentNode",
+                  "source_id": "aflotoun:English/Aflatoun Series/Book 5/aaafl53.2/02AAAfl53.2LessonPlan.pdf",
+                  "title": "Making Financial Choices",
+                  "author": "Aflatoun",
+                  "description": null,
+                  "language": "en",
+                  "files": [
+                    {
+                      "file_type": "DocumentFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Aflatoun Series/Book 5/aaafl53.2/02AAAfl53.2LessonPlan.pdf",
+                      "language": "en"
+                    }
+                  ]
+                },
+                {
+                  "kind": "VideoNode",
+                  "source_id": "aflotoun:English/Aflatoun Series/Book 5/aaafl53.2/04en_kwl_chart.mp4",
+                  "title": "The KWL Chart",
+                  "author": "Aflatoun",
+                  "description": "The KWL Charts helps bring structure to your lesson and make it more efficient.",
+                  "language": "en",
+                  "derive_thumbnail": true,
+                  "files": [
+                    {
+                      "file_type": "VideoFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Aflatoun Series/Book 5/aaafl53.2/04en_kwl_chart.mp4",
+                      "language": "en"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "TopicNode",
+              "dirname": "aaafl53.3",
+              "source_id": "aflotoun:English/Aflatoun Series/Book 5/aaafl53.3",
+              "title": "Personal Budget",
+              "description": "Social and Financial Education",
+              "language": "en",
+              "children": [
+                {
+                  "kind": "DocumentNode",
+                  "source_id": "aflotoun:English/Aflatoun Series/Book 5/aaafl53.3/02AAAfl53.3LessonPlan.pdf",
+                  "title": "Personal Budget",
+                  "author": "Aflatoun",
+                  "description": null,
+                  "language": "en",
+                  "files": [
+                    {
+                      "file_type": "DocumentFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Aflatoun Series/Book 5/aaafl53.3/02AAAfl53.3LessonPlan.pdf",
+                      "language": "en"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "TopicNode",
+              "dirname": "aaafl53.4",
+              "source_id": "aflotoun:English/Aflatoun Series/Book 5/aaafl53.4",
+              "title": "Consumption Habits Of Self, Family and Society",
+              "description": "Social and Financial Education",
+              "language": "en",
+              "children": [
+                {
+                  "kind": "DocumentNode",
+                  "source_id": "aflotoun:English/Aflatoun Series/Book 5/aaafl53.4/02AAAfl53.4LessonPlan.pdf",
+                  "title": "Consumption Habits Of Self, Family and Society",
+                  "author": "Aflatoun",
+                  "description": null,
+                  "language": "en",
+                  "files": [
+                    {
+                      "file_type": "DocumentFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Aflatoun Series/Book 5/aaafl53.4/02AAAfl53.4LessonPlan.pdf",
+                      "language": "en"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "TopicNode",
+              "dirname": "aaafl53.5",
+              "source_id": "aflotoun:English/Aflatoun Series/Book 5/aaafl53.5",
+              "title": "Natural And Man-Made Environmental Degradation",
+              "description": "Social and Financial Education",
+              "language": "en",
+              "children": [
+                {
+                  "kind": "DocumentNode",
+                  "source_id": "aflotoun:English/Aflatoun Series/Book 5/aaafl53.5/02AAAfl53.5LessonPlan.pdf",
+                  "title": "Natural And Man-Made Environmental Degradation",
+                  "author": "Aflatoun",
+                  "description": null,
+                  "language": "en",
+                  "files": [
+                    {
+                      "file_type": "DocumentFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Aflatoun Series/Book 5/aaafl53.5/02AAAfl53.5LessonPlan.pdf",
+                      "language": "en"
+                    }
+                  ]
+                },
+                {
+                  "kind": "VideoNode",
+                  "source_id": "aflotoun:English/Aflatoun Series/Book 5/aaafl53.5/04en_image_theatre.mp4",
+                  "title": "Image Theatre",
+                  "author": "Aflatoun",
+                  "description": "Image theatre is a tool that gives children the freedom to express their opinions and understanding of matteris in a quick and fun way.",
+                  "language": "en",
+                  "derive_thumbnail": true,
+                  "files": [
+                    {
+                      "file_type": "VideoFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Aflatoun Series/Book 5/aaafl53.5/04en_image_theatre.mp4",
+                      "language": "en"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "TopicNode",
+              "dirname": "aaafl54.1",
+              "source_id": "aflotoun:English/Aflatoun Series/Book 5/aaafl54.1",
+              "title": "Organising an Enterprise",
+              "description": "Social and Financial Education",
+              "language": "en",
+              "children": [
+                {
+                  "kind": "DocumentNode",
+                  "source_id": "aflotoun:English/Aflatoun Series/Book 5/aaafl54.1/02AAAfl54.1LessonPlan.pdf",
+                  "title": "Organising an Enterprise",
+                  "author": "Aflatoun",
+                  "description": null,
+                  "language": "en",
+                  "files": [
+                    {
+                      "file_type": "DocumentFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Aflatoun Series/Book 5/aaafl54.1/02AAAfl54.1LessonPlan.pdf",
+                      "language": "en"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "TopicNode",
+              "dirname": "aaafl54.2",
+              "source_id": "aflotoun:English/Aflatoun Series/Book 5/aaafl54.2",
+              "title": "Organising Aflatoun Day",
+              "description": "Social and Financial Education",
+              "language": "en",
+              "children": [
+                {
+                  "kind": "DocumentNode",
+                  "source_id": "aflotoun:English/Aflatoun Series/Book 5/aaafl54.2/02AAAfl54.2LessonPlan.pdf",
+                  "title": "Organising Aflatoun Day",
+                  "author": "Aflatoun",
+                  "description": null,
+                  "language": "en",
+                  "files": [
+                    {
+                      "file_type": "DocumentFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Aflatoun Series/Book 5/aaafl54.2/02AAAfl54.2LessonPlan.pdf",
+                      "language": "en"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "TopicNode",
+              "dirname": "aaafl54.3",
+              "source_id": "aflotoun:English/Aflatoun Series/Book 5/aaafl54.3",
+              "title": "Short-, Medium- And Long-Term Plans",
+              "description": "Social and Financial Education",
+              "language": "en",
+              "children": [
+                {
+                  "kind": "DocumentNode",
+                  "source_id": "aflotoun:English/Aflatoun Series/Book 5/aaafl54.3/02AAAfl54.3LessonPlan.pdf",
+                  "title": "Short-, Medium- And Long-Term Plans",
+                  "author": "Aflatoun",
+                  "description": null,
+                  "language": "en",
+                  "files": [
+                    {
+                      "file_type": "DocumentFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Aflatoun Series/Book 5/aaafl54.3/02AAAfl54.3LessonPlan.pdf",
+                      "language": "en"
+                    }
+                  ]
+                },
+                {
+                  "kind": "VideoNode",
+                  "source_id": "aflotoun:English/Aflatoun Series/Book 5/aaafl54.3/04en_kwl_chart.mp4",
+                  "title": "The KWL Chart",
+                  "author": "Aflatoun",
+                  "description": "The KWL Charts helps bring structure to your lesson and make it more efficient.",
+                  "language": "en",
+                  "derive_thumbnail": true,
+                  "files": [
+                    {
+                      "file_type": "VideoFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Aflatoun Series/Book 5/aaafl54.3/04en_kwl_chart.mp4",
+                      "language": "en"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "TopicNode",
+              "dirname": "aaafl54.4",
+              "source_id": "aflotoun:English/Aflatoun Series/Book 5/aaafl54.4",
+              "title": "Team Work",
+              "description": "Social and Financial Education",
+              "language": "en",
+              "children": [
+                {
+                  "kind": "DocumentNode",
+                  "source_id": "aflotoun:English/Aflatoun Series/Book 5/aaafl54.4/02AAAfl54.4LessonPlan.pdf",
+                  "title": "Team Work",
+                  "author": "Aflatoun",
+                  "description": null,
+                  "language": "en",
+                  "files": [
+                    {
+                      "file_type": "DocumentFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Aflatoun Series/Book 5/aaafl54.4/02AAAfl54.4LessonPlan.pdf",
+                      "language": "en"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "TopicNode",
+              "dirname": "aaafl54.5",
+              "source_id": "aflotoun:English/Aflatoun Series/Book 5/aaafl54.5",
+              "title": "Collective Action",
+              "description": "Social and Financial Education",
+              "language": "en",
+              "children": [
+                {
+                  "kind": "DocumentNode",
+                  "source_id": "aflotoun:English/Aflatoun Series/Book 5/aaafl54.5/02AAAfl54.5LessonPlan.pdf",
+                  "title": "Collective Action",
+                  "author": "Aflatoun",
+                  "description": null,
+                  "language": "en",
+                  "files": [
+                    {
+                      "file_type": "DocumentFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Aflatoun Series/Book 5/aaafl54.5/02AAAfl54.5LessonPlan.pdf",
+                      "language": "en"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "TopicNode",
+              "dirname": "aaafl54.6",
+              "source_id": "aflotoun:English/Aflatoun Series/Book 5/aaafl54.6",
+              "title": "The Market And Entrepreneur\u2019s Basics",
+              "description": "Social and Financial Education",
+              "language": "en",
+              "children": [
+                {
+                  "kind": "DocumentNode",
+                  "source_id": "aflotoun:English/Aflatoun Series/Book 5/aaafl54.6/02AAAfl54.6LessonPlan.pdf",
+                  "title": "The Market And Entrepreneur\u2019s Basics",
+                  "author": "Aflatoun",
+                  "description": null,
+                  "language": "en",
+                  "files": [
+                    {
+                      "file_type": "DocumentFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Aflatoun Series/Book 5/aaafl54.6/02AAAfl54.6LessonPlan.pdf",
+                      "language": "en"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "TopicNode",
+              "dirname": "aaafl54.7",
+              "source_id": "aflotoun:English/Aflatoun Series/Book 5/aaafl54.7",
+              "title": "Personal Skills, Interests and Professionalism",
+              "description": "Social and Financial Education",
+              "language": "en",
+              "children": [
+                {
+                  "kind": "DocumentNode",
+                  "source_id": "aflotoun:English/Aflatoun Series/Book 5/aaafl54.7/02AAAfl54.7LessonPlan.pdf",
+                  "title": "Personal Skills, Interests and Professionalism",
+                  "author": "Aflatoun",
+                  "description": null,
+                  "language": "en",
+                  "files": [
+                    {
+                      "file_type": "DocumentFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Aflatoun Series/Book 5/aaafl54.7/02AAAfl54.7LessonPlan.pdf",
+                      "language": "en"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "TopicNode",
+      "dirname": "Teacher Refresher Modules",
+      "source_id": "aflotoun:English/Teacher Refresher Modules",
+      "title": "Teacher Refresher Modules",
+      "description": null,
+      "language": "en",
+      "children": [
+        {
+          "kind": "TopicNode",
+          "dirname": "01en_origins_of_aflatoun",
+          "source_id": "aflotoun:English/Teacher Refresher Modules/01en_origins_of_aflatoun",
+          "title": "Origins of Aflatoun",
+          "description": "As a teacher in the Aflatoun programme you should know something of its origins. You will remember that the subject was covered on the first day of the teacher-training workshop you attended. By taking this module we hope your memory is refreshed",
+          "language": "en",
+          "children": [
+            {
+              "kind": "DocumentNode",
+              "source_id": "aflotoun:English/Teacher Refresher Modules/01en_origins_of_aflatoun/01_01_instruction.pdf",
+              "title": "Introduction and Instructions",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "en",
+              "files": [
+                {
+                  "file_type": "DocumentFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Teacher Refresher Modules/01en_origins_of_aflatoun/01_01_instruction.pdf",
+                  "language": "en"
+                }
+              ]
+            },
+            {
+              "kind": "DocumentNode",
+              "source_id": "aflotoun:English/Teacher Refresher Modules/01en_origins_of_aflatoun/02_01_introduction.pdf",
+              "title": "Origins of Aflatoun",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "en",
+              "files": [
+                {
+                  "file_type": "DocumentFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Teacher Refresher Modules/01en_origins_of_aflatoun/02_01_introduction.pdf",
+                  "language": "en"
+                }
+              ]
+            },
+            {
+              "kind": "AudioNode",
+              "source_id": "aflotoun:English/Teacher Refresher Modules/01en_origins_of_aflatoun/04_01_interview.mp3",
+              "title": "Interview with Lata Narayan on the founding of Aflatoun",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "en",
+              "files": [
+                {
+                  "file_type": "AudioFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Teacher Refresher Modules/01en_origins_of_aflatoun/04_01_interview.mp3",
+                  "language": "en"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "TopicNode",
+          "dirname": "02en_clubs_in_the_aflatoun_program",
+          "source_id": "aflotoun:English/Teacher Refresher Modules/02en_clubs_in_the_aflatoun_program",
+          "title": "Clubs in the Aflatoun Programme",
+          "description": "Aflatoun Clubs play a central role in the bigger Aflatoun Programme. At the teacher-training workshop you attended these would have been discussed briefly on the first day. By taking this module, we hope you find out more about the role of these clubs and how you can go about setting one up.",
+          "language": "en",
+          "children": [
+            {
+              "kind": "DocumentNode",
+              "source_id": "aflotoun:English/Teacher Refresher Modules/02en_clubs_in_the_aflatoun_program/01_02_instruction.pdf.pdf",
+              "title": "01_02_instruction.pdf.pdf",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "en",
+              "files": [
+                {
+                  "file_type": "DocumentFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Teacher Refresher Modules/02en_clubs_in_the_aflatoun_program/01_02_instruction.pdf.pdf",
+                  "language": "en"
+                }
+              ]
+            },
+            {
+              "kind": "DocumentNode",
+              "source_id": "aflotoun:English/Teacher Refresher Modules/02en_clubs_in_the_aflatoun_program/02_02_introduction.pdf",
+              "title": "Clubs in the Aflatoun Programme",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "en",
+              "files": [
+                {
+                  "file_type": "DocumentFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Teacher Refresher Modules/02en_clubs_in_the_aflatoun_program/02_02_introduction.pdf",
+                  "language": "en"
+                }
+              ]
+            },
+            {
+              "kind": "DocumentNode",
+              "source_id": "aflotoun:English/Teacher Refresher Modules/02en_clubs_in_the_aflatoun_program/04_02_text.pdf",
+              "title": "Starting the Club",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "en",
+              "files": [
+                {
+                  "file_type": "DocumentFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Teacher Refresher Modules/02en_clubs_in_the_aflatoun_program/04_02_text.pdf",
+                  "language": "en"
+                }
+              ]
+            },
+            {
+              "kind": "AudioNode",
+              "source_id": "aflotoun:English/Teacher Refresher Modules/02en_clubs_in_the_aflatoun_program/06_02_audio_story.mp3",
+              "title": "The Incredible Investigators Club",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "en",
+              "files": [
+                {
+                  "file_type": "AudioFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Teacher Refresher Modules/02en_clubs_in_the_aflatoun_program/06_02_audio_story.mp3",
+                  "language": "en"
+                }
+              ]
+            },
+            {
+              "kind": "AudioNode",
+              "source_id": "aflotoun:English/Teacher Refresher Modules/02en_clubs_in_the_aflatoun_program/08_02_audio_story.mp3",
+              "title": "The Super Savers Club",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "en",
+              "files": [
+                {
+                  "file_type": "AudioFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Teacher Refresher Modules/02en_clubs_in_the_aflatoun_program/08_02_audio_story.mp3",
+                  "language": "en"
+                }
+              ]
+            },
+            {
+              "kind": "DocumentNode",
+              "source_id": "aflotoun:English/Teacher Refresher Modules/02en_clubs_in_the_aflatoun_program/10_02_text.pdf",
+              "title": "Clubs and Elections Around the World",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "en",
+              "files": [
+                {
+                  "file_type": "DocumentFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Teacher Refresher Modules/02en_clubs_in_the_aflatoun_program/10_02_text.pdf",
+                  "language": "en"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "TopicNode",
+          "dirname": "03en_core_programme_activites",
+          "source_id": "aflotoun:English/Teacher Refresher Modules/03en_core_programme_activites",
+          "title": "Core Programme Activities",
+          "description": "It  is  important  to  make  sure  your  school  is  conducting  a  variety  of  different activities  as  part  of  its Aflatoun programme. In fact, we recommend that you include seven different sorts of activities to get the right balance. You have probably already looked at these briefly on the first day of your Aflatoun teacher-training  workshop.  By  taking  this  module  we  hope  that  you  refresh  your  memory, and  get some ideas about the sorts of exciting activities you could be doing with the children you teach.",
+          "language": "en",
+          "children": [
+            {
+              "kind": "DocumentNode",
+              "source_id": "aflotoun:English/Teacher Refresher Modules/03en_core_programme_activites/01_03_instruction.pdf",
+              "title": "Introduction and instructions",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "en",
+              "files": [
+                {
+                  "file_type": "DocumentFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Teacher Refresher Modules/03en_core_programme_activites/01_03_instruction.pdf",
+                  "language": "en"
+                }
+              ]
+            },
+            {
+              "kind": "VideoNode",
+              "source_id": "aflotoun:English/Teacher Refresher Modules/03en_core_programme_activites/02_03_animation.mp4",
+              "title": "The Aflatoun Core Programme Activities",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "en",
+              "derive_thumbnail": true,
+              "files": [
+                {
+                  "file_type": "VideoFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Teacher Refresher Modules/03en_core_programme_activites/02_03_animation.mp4",
+                  "language": "en"
+                }
+              ]
+            },
+            {
+              "kind": "DocumentNode",
+              "source_id": "aflotoun:English/Teacher Refresher Modules/03en_core_programme_activites/04_03_text.pdf",
+              "title": "How to Play the Core Programme Activities Game",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "en",
+              "files": [
+                {
+                  "file_type": "DocumentFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Teacher Refresher Modules/03en_core_programme_activites/04_03_text.pdf",
+                  "language": "en"
+                }
+              ]
+            },
+            {
+              "kind": "DocumentNode",
+              "source_id": "aflotoun:English/Teacher Refresher Modules/03en_core_programme_activites/06_03_text.pdf",
+              "title": "The Core Programme Activities Resource",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "en",
+              "files": [
+                {
+                  "file_type": "DocumentFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Teacher Refresher Modules/03en_core_programme_activites/06_03_text.pdf",
+                  "language": "en"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "TopicNode",
+          "dirname": "04en_crc_and_quality_of_education",
+          "source_id": "aflotoun:English/Teacher Refresher Modules/04en_crc_and_quality_of_education",
+          "title": "CRC and Quality of Education",
+          "description": "The United Nations Convention on the Rights of the Child gives us teachers some marvellous advice on the sortof education we must provide to children. The emphasis here is on qualityof education. We hope that you find this module inspiring and that in helps you develop your own classroom teaching style.",
+          "language": "en",
+          "children": [
+            {
+              "kind": "DocumentNode",
+              "source_id": "aflotoun:English/Teacher Refresher Modules/04en_crc_and_quality_of_education/01_04_instruction.pdf",
+              "title": "Introduction and Instructions",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "en",
+              "files": [
+                {
+                  "file_type": "DocumentFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Teacher Refresher Modules/04en_crc_and_quality_of_education/01_04_instruction.pdf",
+                  "language": "en"
+                }
+              ]
+            },
+            {
+              "kind": "DocumentNode",
+              "source_id": "aflotoun:English/Teacher Refresher Modules/04en_crc_and_quality_of_education/02_04_introduction.pdf",
+              "title": "The United Nations Convention on the Rights of the Child (UNCRC)",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "en",
+              "files": [
+                {
+                  "file_type": "DocumentFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Teacher Refresher Modules/04en_crc_and_quality_of_education/02_04_introduction.pdf",
+                  "language": "en"
+                }
+              ]
+            },
+            {
+              "kind": "AudioNode",
+              "source_id": "aflotoun:English/Teacher Refresher Modules/04en_crc_and_quality_of_education/04_04_interview.mp3",
+              "title": "Interview with Professor Jaap Doek",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "en",
+              "files": [
+                {
+                  "file_type": "AudioFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Teacher Refresher Modules/04en_crc_and_quality_of_education/04_04_interview.mp3",
+                  "language": "en"
+                }
+              ]
+            },
+            {
+              "kind": "DocumentNode",
+              "source_id": "aflotoun:English/Teacher Refresher Modules/04en_crc_and_quality_of_education/06_04_text.pdf",
+              "title": "What the UNCRC defines as good education for children",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "en",
+              "files": [
+                {
+                  "file_type": "DocumentFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Teacher Refresher Modules/04en_crc_and_quality_of_education/06_04_text.pdf",
+                  "language": "en"
+                }
+              ]
+            },
+            {
+              "kind": "TopicNode",
+              "dirname": "03_04_quiz_part1.exercise (Unzipped Files)",
+              "source_id": "aflotoun:English/Teacher Refresher Modules/04en_crc_and_quality_of_education/03_04_quiz_part1.exercise (Unzipped Files)",
+              "title": "03_04_quiz_part1.exercise (Unzipped Files)",
+              "description": null,
+              "language": "en",
+              "children": []
+            }
+          ]
+        },
+        {
+          "kind": "TopicNode",
+          "dirname": "05en_gender_equality_in_the_classroom",
+          "source_id": "aflotoun:English/Teacher Refresher Modules/05en_gender_equality_in_the_classroom",
+          "title": "Gender Equality in the Classroom",
+          "description": "Usually  on  Day  Two  of  an  Aflatoun teacher-training workshop there\u2019s a session dedicated to the question of ensuring gender equality in the classroom. One short session isn\u2019t long when you consider how serious the problem is. We hope that you enjoy this module, that it helps refresh your memory and maybe inspires you with some new ideas.",
+          "language": "en",
+          "children": [
+            {
+              "kind": "DocumentNode",
+              "source_id": "aflotoun:English/Teacher Refresher Modules/05en_gender_equality_in_the_classroom/01_05_instruction.pdf",
+              "title": "Introduction and Instructions",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "en",
+              "files": [
+                {
+                  "file_type": "DocumentFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Teacher Refresher Modules/05en_gender_equality_in_the_classroom/01_05_instruction.pdf",
+                  "language": "en"
+                }
+              ]
+            },
+            {
+              "kind": "DocumentNode",
+              "source_id": "aflotoun:English/Teacher Refresher Modules/05en_gender_equality_in_the_classroom/02_05_text.pdf",
+              "title": "Gender Equality in The Classroom",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "en",
+              "files": [
+                {
+                  "file_type": "DocumentFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Teacher Refresher Modules/05en_gender_equality_in_the_classroom/02_05_text.pdf",
+                  "language": "en"
+                }
+              ]
+            },
+            {
+              "kind": "AudioNode",
+              "source_id": "aflotoun:English/Teacher Refresher Modules/05en_gender_equality_in_the_classroom/06_05_interview.mp3",
+              "title": "The interview with Stacey Dixson of FHI360",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "en",
+              "files": [
+                {
+                  "file_type": "AudioFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Teacher Refresher Modules/05en_gender_equality_in_the_classroom/06_05_interview.mp3",
+                  "language": "en"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "TopicNode",
+          "dirname": "06en_children_and_saving",
+          "source_id": "aflotoun:English/Teacher Refresher Modules/06en_children_and_saving",
+          "title": "Children and Saving",
+          "description": "Clearly saving is a big part of any Aflatoun teacher-training workshop. What do you remember of the session on saving? We hope that you enjoy this module, that it helps refresh your memory and maybe inspires you with some new ideas.",
+          "language": "en",
+          "children": [
+            {
+              "kind": "DocumentNode",
+              "source_id": "aflotoun:English/Teacher Refresher Modules/06en_children_and_saving/01_06_instruction.pdf",
+              "title": "Introduction and Instructions",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "en",
+              "files": [
+                {
+                  "file_type": "DocumentFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Teacher Refresher Modules/06en_children_and_saving/01_06_instruction.pdf",
+                  "language": "en"
+                }
+              ]
+            },
+            {
+              "kind": "DocumentNode",
+              "source_id": "aflotoun:English/Teacher Refresher Modules/06en_children_and_saving/02_06_introduction.pdf",
+              "title": "Children and Saving Stories",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "en",
+              "files": [
+                {
+                  "file_type": "DocumentFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Teacher Refresher Modules/06en_children_and_saving/02_06_introduction.pdf",
+                  "language": "en"
+                }
+              ]
+            },
+            {
+              "kind": "DocumentNode",
+              "source_id": "aflotoun:English/Teacher Refresher Modules/06en_children_and_saving/04_06_text.pdf",
+              "title": "Six Categories of Saving",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "en",
+              "files": [
+                {
+                  "file_type": "DocumentFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Teacher Refresher Modules/06en_children_and_saving/04_06_text.pdf",
+                  "language": "en"
+                }
+              ]
+            },
+            {
+              "kind": "DocumentNode",
+              "source_id": "aflotoun:English/Teacher Refresher Modules/06en_children_and_saving/06_06_text.pdf",
+              "title": "Savings Systems",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "en",
+              "files": [
+                {
+                  "file_type": "DocumentFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Teacher Refresher Modules/06en_children_and_saving/06_06_text.pdf",
+                  "language": "en"
+                }
+              ]
+            },
+            {
+              "kind": "DocumentNode",
+              "source_id": "aflotoun:English/Teacher Refresher Modules/06en_children_and_saving/08_06_text.pdf",
+              "title": "Children Savings System Around the World",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "en",
+              "files": [
+                {
+                  "file_type": "DocumentFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Teacher Refresher Modules/06en_children_and_saving/08_06_text.pdf",
+                  "language": "en"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "TopicNode",
+          "dirname": "07en_child_social_and_financial_enterprise",
+          "source_id": "aflotoun:English/Teacher Refresher Modules/07en_child_social_and_financial_enterprise",
+          "title": "Child Social and Financial Enterprise",
+          "description": "Helping children to design and deliver their own little social and/or financial enterprises is one of the most distinctive aspects of the Aflatoun programme. On the last day of your Aflatoun teacher-training workshop you probably worked with a group of other teachers to design an imaginary enterprise. Do you remember that?We hope that you enjoy this module, that it helps refresh your memory, provides you will a fuller understanding of the sorts of enterprise projects children do around the world, and maybe inspires you with some new ideas.",
+          "language": "en",
+          "children": [
+            {
+              "kind": "DocumentNode",
+              "source_id": "aflotoun:English/Teacher Refresher Modules/07en_child_social_and_financial_enterprise/01_07_instruction.pdf",
+              "title": "Introduction and Instructions",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "en",
+              "files": [
+                {
+                  "file_type": "DocumentFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Teacher Refresher Modules/07en_child_social_and_financial_enterprise/01_07_instruction.pdf",
+                  "language": "en"
+                }
+              ]
+            },
+            {
+              "kind": "DocumentNode",
+              "source_id": "aflotoun:English/Teacher Refresher Modules/07en_child_social_and_financial_enterprise/02_07_introduction.pdf",
+              "title": "Child Social and Financial Enterprise: Case Studies",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "en",
+              "files": [
+                {
+                  "file_type": "DocumentFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Teacher Refresher Modules/07en_child_social_and_financial_enterprise/02_07_introduction.pdf",
+                  "language": "en"
+                }
+              ]
+            },
+            {
+              "kind": "DocumentNode",
+              "source_id": "aflotoun:English/Teacher Refresher Modules/07en_child_social_and_financial_enterprise/04_07_text.pdf",
+              "title": "Child Social and Financial Enterprise Checklist",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "en",
+              "files": [
+                {
+                  "file_type": "DocumentFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Teacher Refresher Modules/07en_child_social_and_financial_enterprise/04_07_text.pdf",
+                  "language": "en"
+                }
+              ]
+            },
+            {
+              "kind": "AudioNode",
+              "source_id": "aflotoun:English/Teacher Refresher Modules/07en_child_social_and_financial_enterprise/06_07_audio.mp3",
+              "title": "Story on Social and Financial Enterprises",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "en",
+              "files": [
+                {
+                  "file_type": "AudioFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Teacher Refresher Modules/07en_child_social_and_financial_enterprise/06_07_audio.mp3",
+                  "language": "en"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "TopicNode",
+          "dirname": "08en_teacher_talking_time_versus_student_talking_time",
+          "source_id": "aflotoun:English/Teacher Refresher Modules/08en_teacher_talking_time_versus_student_talking_time",
+          "title": "Teacher Talking Time versus Student Talking Time",
+          "description": "The biggest focus of any Aflatoun teacher-training workshop is naturally on practice teaching. Perhaps you remember these sessions? Teachers are given lesson plans from the Aflatoun books and asked to present a mock lesson. The other participants then critique their performance using a set list of questions. One ofthe aims of those micro-teaching  sessions is to help teachers use a variety of teaching methods, beyond simply lecturing. In this module we look more closely at one aspect of classroom teaching i.e. the ratio of Teacher Talking Time versus Student Talking Time as this is very often a reliable way of measuring  the  extent  to  which students are  actively engaged  in  their  own learning. We hope that you enjoy this module, that it helps refresh your memory, provides you with a fuller  understanding of this  aspect of active-learning  and maybe  even inspires you with some  new ideas.",
+          "language": "en",
+          "children": [
+            {
+              "kind": "DocumentNode",
+              "source_id": "aflotoun:English/Teacher Refresher Modules/08en_teacher_talking_time_versus_student_talking_time/01_08_instruction.pdf",
+              "title": "Introduction and Instructions",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "en",
+              "files": [
+                {
+                  "file_type": "DocumentFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Teacher Refresher Modules/08en_teacher_talking_time_versus_student_talking_time/01_08_instruction.pdf",
+                  "language": "en"
+                }
+              ]
+            },
+            {
+              "kind": "DocumentNode",
+              "source_id": "aflotoun:English/Teacher Refresher Modules/08en_teacher_talking_time_versus_student_talking_time/02_08_introduction.pdf",
+              "title": "Teacher Talking Time versus Student Talking Time",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "en",
+              "files": [
+                {
+                  "file_type": "DocumentFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Teacher Refresher Modules/08en_teacher_talking_time_versus_student_talking_time/02_08_introduction.pdf",
+                  "language": "en"
+                }
+              ]
+            },
+            {
+              "kind": "DocumentNode",
+              "source_id": "aflotoun:English/Teacher Refresher Modules/08en_teacher_talking_time_versus_student_talking_time/04_08_text.pdf",
+              "title": "Active Teaching Practice",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "en",
+              "files": [
+                {
+                  "file_type": "DocumentFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Teacher Refresher Modules/08en_teacher_talking_time_versus_student_talking_time/04_08_text.pdf",
+                  "language": "en"
+                }
+              ]
+            },
+            {
+              "kind": "VideoNode",
+              "source_id": "aflotoun:English/Teacher Refresher Modules/08en_teacher_talking_time_versus_student_talking_time/06_08_animation.mp4",
+              "title": "Animation about Teacher Talking Time versus Student Talking Time",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "en",
+              "derive_thumbnail": true,
+              "files": [
+                {
+                  "file_type": "VideoFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Teacher Refresher Modules/08en_teacher_talking_time_versus_student_talking_time/06_08_animation.mp4",
+                  "language": "en"
+                }
+              ]
+            },
+            {
+              "kind": "TopicNode",
+              "dirname": "03_08_quiz_part1.exercise (Unzipped Files)",
+              "source_id": "aflotoun:English/Teacher Refresher Modules/08en_teacher_talking_time_versus_student_talking_time/03_08_quiz_part1.exercise (Unzipped Files)",
+              "title": "03_08_quiz_part1.exercise (Unzipped Files)",
+              "description": null,
+              "language": "en",
+              "children": []
+            }
+          ]
+        },
+        {
+          "kind": "TopicNode",
+          "dirname": "09en_brainstorming",
+          "source_id": "aflotoun:English/Teacher Refresher Modules/09en_brainstorming",
+          "title": "Brainstorming",
+          "description": "In an Aflatoun teacher-training workshop  we normally  look at Brainstorming on the first day. Brainstorming is a very simple method on the face of it, and yet many of us teachers can find it a little bit challenging at first because it requires us to do many things that we might not be used to e.g. letting children talk in an unregulated way, not correcting their answers initially etc. We hope that you enjoy this module, that it helps refresh your memory, provides you with a fuller understanding of this aspect of active-learning and maybe even inspires you with some new ideas.",
+          "language": "en",
+          "children": [
+            {
+              "kind": "DocumentNode",
+              "source_id": "aflotoun:English/Teacher Refresher Modules/09en_brainstorming/01_09_instruction.pdf",
+              "title": "Introduction and Instructions Brainstorming",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "en",
+              "files": [
+                {
+                  "file_type": "DocumentFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Teacher Refresher Modules/09en_brainstorming/01_09_instruction.pdf",
+                  "language": "en"
+                }
+              ]
+            },
+            {
+              "kind": "AudioNode",
+              "source_id": "aflotoun:English/Teacher Refresher Modules/09en_brainstorming/02_09_interview.mp3",
+              "title": "Interview with April Coetzee of Warchild Holland",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "en",
+              "files": [
+                {
+                  "file_type": "AudioFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Teacher Refresher Modules/09en_brainstorming/02_09_interview.mp3",
+                  "language": "en"
+                }
+              ]
+            },
+            {
+              "kind": "VideoNode",
+              "source_id": "aflotoun:English/Teacher Refresher Modules/09en_brainstorming/04_09_animation.mp4",
+              "title": "The Benefits of Brainstorming animation.",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "en",
+              "derive_thumbnail": true,
+              "files": [
+                {
+                  "file_type": "VideoFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Teacher Refresher Modules/09en_brainstorming/04_09_animation.mp4",
+                  "language": "en"
+                }
+              ]
+            },
+            {
+              "kind": "VideoNode",
+              "source_id": "aflotoun:English/Teacher Refresher Modules/09en_brainstorming/06_09_animation.mp4",
+              "title": "The Brainstorming tips animation",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "en",
+              "derive_thumbnail": true,
+              "files": [
+                {
+                  "file_type": "VideoFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Teacher Refresher Modules/09en_brainstorming/06_09_animation.mp4",
+                  "language": "en"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "TopicNode",
+          "dirname": "10en_problem_trees",
+          "source_id": "aflotoun:English/Teacher Refresher Modules/10en_problem_trees",
+          "title": "Problem Tree",
+          "description": "A Problem Tree is a wonderful active-learning method, helping children to look at a problem or issue in terms of cause and effect. Problem Trees feature in many of the Aflatoun books. Do you remember a session on Problem Trees at your Aflatoun teacher-training workshop? We hope that you enjoy this module, that it helps refresh your memory, provides you with a fuller understanding of this aspect of active-learning and maybe even inspires you with some new ideas.",
+          "language": "en",
+          "children": [
+            {
+              "kind": "DocumentNode",
+              "source_id": "aflotoun:English/Teacher Refresher Modules/10en_problem_trees/01_10_instruction.pdf",
+              "title": "Introduction and Instructions",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "en",
+              "files": [
+                {
+                  "file_type": "DocumentFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Teacher Refresher Modules/10en_problem_trees/01_10_instruction.pdf",
+                  "language": "en"
+                }
+              ]
+            },
+            {
+              "kind": "VideoNode",
+              "source_id": "aflotoun:English/Teacher Refresher Modules/10en_problem_trees/02_10_animation.mp4",
+              "title": "Problem Trees Animation",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "en",
+              "derive_thumbnail": true,
+              "files": [
+                {
+                  "file_type": "VideoFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Teacher Refresher Modules/10en_problem_trees/02_10_animation.mp4",
+                  "language": "en"
+                }
+              ]
+            },
+            {
+              "kind": "DocumentNode",
+              "source_id": "aflotoun:English/Teacher Refresher Modules/10en_problem_trees/04_10_text.pdf",
+              "title": "Problem Tree Instructions and Advice",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "en",
+              "files": [
+                {
+                  "file_type": "DocumentFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Teacher Refresher Modules/10en_problem_trees/04_10_text.pdf",
+                  "language": "en"
+                }
+              ]
+            },
+            {
+              "kind": "DocumentNode",
+              "source_id": "aflotoun:English/Teacher Refresher Modules/10en_problem_trees/06_10_text.pdf",
+              "title": "Children's Rights and Barriers",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "en",
+              "files": [
+                {
+                  "file_type": "DocumentFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Teacher Refresher Modules/10en_problem_trees/06_10_text.pdf",
+                  "language": "en"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "TopicNode",
+          "dirname": "11en_image_theatre",
+          "source_id": "aflotoun:English/Teacher Refresher Modules/11en_image_theatre",
+          "title": "Image Theatre",
+          "description": "Image Theatre offers children a creative and playful active-learning method. Do you remember doing a session on Image Theatre at an Aflatoun teacher-training workshop? We hope that you enjoy this module, that it helps you refresh your memory, provides you with a fuller understanding of this aspect of active-learning and maybe even inspires you with some new ideas.",
+          "language": "en",
+          "children": [
+            {
+              "kind": "DocumentNode",
+              "source_id": "aflotoun:English/Teacher Refresher Modules/11en_image_theatre/01_11_instruction.pdf",
+              "title": "Introduction and Instructions",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "en",
+              "files": [
+                {
+                  "file_type": "DocumentFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Teacher Refresher Modules/11en_image_theatre/01_11_instruction.pdf",
+                  "language": "en"
+                }
+              ]
+            },
+            {
+              "kind": "VideoNode",
+              "source_id": "aflotoun:English/Teacher Refresher Modules/11en_image_theatre/02_11_animation.mp4",
+              "title": "Image Theatre",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "en",
+              "derive_thumbnail": true,
+              "files": [
+                {
+                  "file_type": "VideoFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Teacher Refresher Modules/11en_image_theatre/02_11_animation.mp4",
+                  "language": "en"
+                }
+              ]
+            },
+            {
+              "kind": "DocumentNode",
+              "source_id": "aflotoun:English/Teacher Refresher Modules/11en_image_theatre/05_11_trainingmanual.pdf",
+              "title": "Active Learning Method: Image Theatre",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "en",
+              "files": [
+                {
+                  "file_type": "DocumentFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Teacher Refresher Modules/11en_image_theatre/05_11_trainingmanual.pdf",
+                  "language": "en"
+                }
+              ]
+            },
+            {
+              "kind": "AudioNode",
+              "source_id": "aflotoun:English/Teacher Refresher Modules/11en_image_theatre/07_11_audio.mp3",
+              "title": "Interview about Image Theatre",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "en",
+              "files": [
+                {
+                  "file_type": "AudioFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Teacher Refresher Modules/11en_image_theatre/07_11_audio.mp3",
+                  "language": "en"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "TopicNode",
+          "dirname": "12en_kwl_charts",
+          "source_id": "aflotoun:English/Teacher Refresher Modules/12en_kwl_charts",
+          "title": "KWL  Charts",
+          "description": "KWL  Charts  provide a structure to your lesson and encourage the direct participation of children through brainstorming. We are sure you remember them from the Aflatoun teacher-training workshop. We hope that you enjoy this module, that it helps refresh your memory, provides you with a fuller understanding of this active-learning method and maybe even inspires you with some new ideas.",
+          "language": "en",
+          "children": [
+            {
+              "kind": "DocumentNode",
+              "source_id": "aflotoun:English/Teacher Refresher Modules/12en_kwl_charts/01_12_instruction.pdf",
+              "title": "Introduction and Instructions",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "en",
+              "files": [
+                {
+                  "file_type": "DocumentFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Teacher Refresher Modules/12en_kwl_charts/01_12_instruction.pdf",
+                  "language": "en"
+                }
+              ]
+            },
+            {
+              "kind": "VideoNode",
+              "source_id": "aflotoun:English/Teacher Refresher Modules/12en_kwl_charts/02_12_animation.mp4",
+              "title": "KWL Charts",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "en",
+              "derive_thumbnail": true,
+              "files": [
+                {
+                  "file_type": "VideoFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Teacher Refresher Modules/12en_kwl_charts/02_12_animation.mp4",
+                  "language": "en"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "TopicNode",
+          "dirname": "13en_memory_cards",
+          "source_id": "aflotoun:English/Teacher Refresher Modules/13en_memory_cards",
+          "title": "Memory Cards",
+          "description": "You may remember playing this card game at an Aflatoun teacher-training workshop as part of an exercise on Rights and Responsibilities. We hope that you enjoy this module, that it helps refresh your memory, provides you with a fuller understanding of this active-learning method and maybe even inspires you with some new ideas.",
+          "language": "en",
+          "children": [
+            {
+              "kind": "DocumentNode",
+              "source_id": "aflotoun:English/Teacher Refresher Modules/13en_memory_cards/01_13_instruction.pdf",
+              "title": "Introduction and Instructions",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "en",
+              "files": [
+                {
+                  "file_type": "DocumentFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Teacher Refresher Modules/13en_memory_cards/01_13_instruction.pdf",
+                  "language": "en"
+                }
+              ]
+            },
+            {
+              "kind": "VideoNode",
+              "source_id": "aflotoun:English/Teacher Refresher Modules/13en_memory_cards/02_13_animation.mp4",
+              "title": "Memory Cards Animation",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "en",
+              "derive_thumbnail": true,
+              "files": [
+                {
+                  "file_type": "VideoFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Teacher Refresher Modules/13en_memory_cards/02_13_animation.mp4",
+                  "language": "en"
+                }
+              ]
+            },
+            {
+              "kind": "DocumentNode",
+              "source_id": "aflotoun:English/Teacher Refresher Modules/13en_memory_cards/05_13_text.pdf",
+              "title": "Making Your Own Memory Card Games",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "en",
+              "files": [
+                {
+                  "file_type": "DocumentFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Teacher Refresher Modules/13en_memory_cards/05_13_text.pdf",
+                  "language": "en"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "TopicNode",
+          "dirname": "14en_group_work",
+          "source_id": "aflotoun:English/Teacher Refresher Modules/14en_group_work",
+          "title": "Group Work",
+          "description": "At some of the longer Aflatoun teacher-training workshops we do a session on group work in general, and the jigsaw method in particular. If you have participated in one of those sessions this module should help you recall ideas you might have forgotten. If you haven\u2019t been on one of those sessions, we hope this module might stimulate your curiosity about group work and maybe even inspire you with some ideas.",
+          "language": "en",
+          "children": [
+            {
+              "kind": "DocumentNode",
+              "source_id": "aflotoun:English/Teacher Refresher Modules/14en_group_work/01_14_instruction.pdf",
+              "title": "Introduction and Instructions",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "en",
+              "files": [
+                {
+                  "file_type": "DocumentFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Teacher Refresher Modules/14en_group_work/01_14_instruction.pdf",
+                  "language": "en"
+                }
+              ]
+            },
+            {
+              "kind": "VideoNode",
+              "source_id": "aflotoun:English/Teacher Refresher Modules/14en_group_work/02_14_animation.mp4",
+              "title": "Jigsaw Method Animation",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "en",
+              "derive_thumbnail": true,
+              "files": [
+                {
+                  "file_type": "VideoFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Teacher Refresher Modules/14en_group_work/02_14_animation.mp4",
+                  "language": "en"
+                }
+              ]
+            },
+            {
+              "kind": "AudioNode",
+              "source_id": "aflotoun:English/Teacher Refresher Modules/14en_group_work/04_14_audio.mp3",
+              "title": "Group Work audio",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "en",
+              "files": [
+                {
+                  "file_type": "AudioFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Teacher Refresher Modules/14en_group_work/04_14_audio.mp3",
+                  "language": "en"
+                }
+              ]
+            },
+            {
+              "kind": "DocumentNode",
+              "source_id": "aflotoun:English/Teacher Refresher Modules/14en_group_work/06_14_text.pdf",
+              "title": "Advice on Group Work",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "en",
+              "files": [
+                {
+                  "file_type": "DocumentFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Teacher Refresher Modules/14en_group_work/06_14_text.pdf",
+                  "language": "en"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "TopicNode",
+      "dirname": "Training Manual",
+      "source_id": "aflotoun:English/Training Manual",
+      "title": "Training Manual",
+      "description": null,
+      "language": "en",
+      "children": [
+        {
+          "kind": "DocumentNode",
+          "source_id": "aflotoun:English/Training Manual/en_trainingmanual.pdf",
+          "title": "Training Manual",
+          "author": "Aflatoun",
+          "description": "The Training Manual seeks to familiarize the reader not only with the core themes of Aflatoun's educational materials, but also with Aflatoun's preferred child-centered pedagogical approach.",
+          "language": "en",
+          "files": [
+            {
+              "file_type": "DocumentFile",
+              "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/English/Training Manual/en_trainingmanual.pdf",
+              "language": "en"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2277 @@
+{
+  "kind": "ChannelNode",
+  "title": "NOT USED",
+  "language": "NOT USED",
+  "children": [
+    {
+      "kind": "TopicNode",
+      "dirname": "Les Se\u0301ries Aflatoun",
+      "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun",
+      "title": "Les Se\u0301ries Aflatoun",
+      "description": null,
+      "language": "fr",
+      "children": [
+        {
+          "kind": "TopicNode",
+          "dirname": "Plan de lec\u0327on 4e\u0300me niveau",
+          "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 4e\u0300me niveau",
+          "title": "Plan de lec\u0327on 4e\u0300me niveau",
+          "description": null,
+          "language": "fr",
+          "children": [
+            {
+              "kind": "TopicNode",
+              "dirname": "faafl41.1",
+              "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 4e\u0300me niveau/faafl41.1",
+              "title": "Introduction a Aflatoun",
+              "description": "L \u0301\u00e9ducation sociale et financi\u00e8re",
+              "language": "fr",
+              "children": [
+                {
+                  "kind": "DocumentNode",
+                  "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 4e\u0300me niveau/faafl41.1/02FAAfl41.1PlandeCours.pdf",
+                  "title": "Introduction a Aflatoun",
+                  "author": "Aflatoun",
+                  "description": "Conna\u00eetre Aflatoun et sa devise, chanter la chanson Aflatoun",
+                  "language": "fr",
+                  "files": [
+                    {
+                      "file_type": "DocumentFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 4e\u0300me niveau/faafl41.1/02FAAfl41.1PlandeCours.pdf",
+                      "language": "fr"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "TopicNode",
+              "dirname": "faafl41.2",
+              "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 4e\u0300me niveau/faafl41.2",
+              "title": "Le movement Aflatoun",
+              "description": "L \u0301\u00e9ducation sociale et financi\u00e8re",
+              "language": "fr",
+              "children": [
+                {
+                  "kind": "DocumentNode",
+                  "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 4e\u0300me niveau/faafl41.2/02FAAfl41.2PlandeCours.pdf",
+                  "title": "Le movement Aflatoun",
+                  "author": "Aflatoun",
+                  "description": "Comprendre qu\u2019Aflatoun est un mouvement qui regroupe des enfants du monde entier",
+                  "language": "fr",
+                  "files": [
+                    {
+                      "file_type": "DocumentFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 4e\u0300me niveau/faafl41.2/02FAAfl41.2PlandeCours.pdf",
+                      "language": "fr"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "TopicNode",
+              "dirname": "faafl41.3",
+              "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 4e\u0300me niveau/faafl41.3",
+              "title": "Lancer le Club",
+              "description": "L \u0301\u00e9ducation sociale et financi\u00e8re",
+              "language": "fr",
+              "children": [
+                {
+                  "kind": "DocumentNode",
+                  "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 4e\u0300me niveau/faafl41.3/02FAAfl41.3PlandeCours.pdf",
+                  "title": "Lancer le Club",
+                  "author": "Aflatoun",
+                  "description": "Proposer les activit\u00e9s qu\u2019ils veulent mettre en place dans leur club Aflatoun",
+                  "language": "fr",
+                  "files": [
+                    {
+                      "file_type": "DocumentFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 4e\u0300me niveau/faafl41.3/02FAAfl41.3PlandeCours.pdf",
+                      "language": "fr"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "TopicNode",
+              "dirname": "faafl41.4",
+              "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 4e\u0300me niveau/faafl41.4",
+              "title": "Les Institutions d\u2019aide Sociale",
+              "description": "L \u0301\u00e9ducation sociale et financi\u00e8re",
+              "language": "fr",
+              "children": [
+                {
+                  "kind": "DocumentNode",
+                  "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 4e\u0300me niveau/faafl41.4/02FAAfl41.4PlandeCours.pdf",
+                  "title": "Les Institutions d\u2019aide Sociale",
+                  "author": "Aflatoun",
+                  "description": "D\u00e9finir et clarifier les institutions cl\u00e9s pour la famille, la communaut\u00e9, la soci\u00e9t\u00e9 au sens plus large ainsi que les autres autorit\u00e9s.",
+                  "language": "fr",
+                  "files": [
+                    {
+                      "file_type": "DocumentFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 4e\u0300me niveau/faafl41.4/02FAAfl41.4PlandeCours.pdf",
+                      "language": "fr"
+                    }
+                  ]
+                },
+                {
+                  "kind": "VideoNode",
+                  "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 4e\u0300me niveau/faafl41.4/04fa_image_theatre.mp4",
+                  "title": "Th\u00e9\u00e2tre d'image",
+                  "author": "Aflatoun",
+                  "description": "L \u0301\u00e9ducation sociale et financi\u00e8re",
+                  "language": "fr",
+                  "derive_thumbnail": true,
+                  "files": [
+                    {
+                      "file_type": "VideoFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 4e\u0300me niveau/faafl41.4/04fa_image_theatre.mp4",
+                      "language": "fr"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "TopicNode",
+              "dirname": "faafl41.5",
+              "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 4e\u0300me niveau/faafl41.5",
+              "title": "Conna\u00eetre Sa Taille et Son Poids",
+              "description": "L \u0301\u00e9ducation sociale et financi\u00e8re",
+              "language": "fr",
+              "children": [
+                {
+                  "kind": "DocumentNode",
+                  "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 4e\u0300me niveau/faafl41.5/02FAAfl41.5PlandeCours.pdf",
+                  "title": "Conna\u00eetre Sa Taille et Son Poids",
+                  "author": "Aflatoun",
+                  "description": "Comprendre, appliquer, analyser et \u00e9valuer les informations recueillies",
+                  "language": "fr",
+                  "files": [
+                    {
+                      "file_type": "DocumentFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 4e\u0300me niveau/faafl41.5/02FAAfl41.5PlandeCours.pdf",
+                      "language": "fr"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "TopicNode",
+              "dirname": "faafl41.6",
+              "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 4e\u0300me niveau/faafl41.6",
+              "title": "Inciter les jeunes \u00e0 atteindre leurs objectifs",
+              "description": "L \u0301\u00e9ducation sociale et financi\u00e8re",
+              "language": "fr",
+              "children": [
+                {
+                  "kind": "DocumentNode",
+                  "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 4e\u0300me niveau/faafl41.6/02FAAfl41.6PlandeCours.pdf",
+                  "title": "Inciter les jeunes \u00e0 atteindre leurs objectifs",
+                  "author": "Aflatoun",
+                  "description": "Savoir comment les autres peuvent nous aider ou nous emp\u00eacher d\u2019atteindre nos objectifs.",
+                  "language": "fr",
+                  "files": [
+                    {
+                      "file_type": "DocumentFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 4e\u0300me niveau/faafl41.6/02FAAfl41.6PlandeCours.pdf",
+                      "language": "fr"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "TopicNode",
+              "dirname": "faafl42.1",
+              "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 4e\u0300me niveau/faafl42.1",
+              "title": "Conna\u00eetre ses droits et ses responsabilit\u00e9s",
+              "description": "L \u0301\u00e9ducation sociale et financi\u00e8re",
+              "language": "fr",
+              "children": [
+                {
+                  "kind": "DocumentNode",
+                  "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 4e\u0300me niveau/faafl42.1/02FAAfl42.1PlandeCours.pdf",
+                  "title": "Conna\u00eetre ses droits et ses responsabilit\u00e9s",
+                  "author": "Aflatoun",
+                  "description": "Comprendre que tous les enfants ont des droits et des responsabilit\u00e9s, peu importe leur origine, leur race, leur sexe ou leurs capacit\u00e9s.",
+                  "language": "fr",
+                  "files": [
+                    {
+                      "file_type": "DocumentFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 4e\u0300me niveau/faafl42.1/02FAAfl42.1PlandeCours.pdf",
+                      "language": "fr"
+                    }
+                  ]
+                },
+                {
+                  "kind": "VideoNode",
+                  "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 4e\u0300me niveau/faafl42.1/04fa_diagramme_cva.mp4",
+                  "title": "Le Diagramme CVA",
+                  "author": "Aflatoun",
+                  "description": "Le Diagramme CVA permet de structurer et de bien conduire une le\u00e7on.",
+                  "language": "fr",
+                  "derive_thumbnail": true,
+                  "files": [
+                    {
+                      "file_type": "VideoFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 4e\u0300me niveau/faafl42.1/04fa_diagramme_cva.mp4",
+                      "language": "fr"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "TopicNode",
+              "dirname": "faafl42.2",
+              "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 4e\u0300me niveau/faafl42.2",
+              "title": "La s\u00e9curit\u00e9 et le danger",
+              "description": "L \u0301\u00e9ducation sociale et financi\u00e8re",
+              "language": "fr",
+              "children": [
+                {
+                  "kind": "DocumentNode",
+                  "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 4e\u0300me niveau/faafl42.2/02FAAfl42.2PlandeCours.pdf",
+                  "title": "La s\u00e9curit\u00e9 et le danger",
+                  "author": "Aflatoun",
+                  "description": "Conna\u00eetre les dangers qui nous guettent et savoir \u00e0 qui on peut demander de l\u2019aide.",
+                  "language": "fr",
+                  "files": [
+                    {
+                      "file_type": "DocumentFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 4e\u0300me niveau/faafl42.2/02FAAfl42.2PlandeCours.pdf",
+                      "language": "fr"
+                    }
+                  ]
+                },
+                {
+                  "kind": "VideoNode",
+                  "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 4e\u0300me niveau/faafl42.2/04_fa_image_theatre.mp4",
+                  "title": "Th\u00e9\u00e2tre d'image",
+                  "author": "Aflatoun",
+                  "description": "L \u0301\u00e9ducation sociale et financi\u00e8re",
+                  "language": "fr",
+                  "derive_thumbnail": true,
+                  "files": [
+                    {
+                      "file_type": "VideoFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 4e\u0300me niveau/faafl42.2/04_fa_image_theatre.mp4",
+                      "language": "fr"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "TopicNode",
+              "dirname": "faafl42.3",
+              "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 4e\u0300me niveau/faafl42.3",
+              "title": "Analyser les pr\u00e9jug\u00e9s sur les genres",
+              "description": "L \u0301\u00e9ducation sociale et financi\u00e8re",
+              "language": "fr",
+              "children": [
+                {
+                  "kind": "DocumentNode",
+                  "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 4e\u0300me niveau/faafl42.3/02FAAfl42.3PlandeCours.pdf",
+                  "title": "Analyser les pr\u00e9jug\u00e9s sur les genres",
+                  "author": "Aflatoun",
+                  "description": "Analyser les pr\u00e9jug\u00e9s sur les genres et leur impact au sein de la famille et de la classe.",
+                  "language": "fr",
+                  "files": [
+                    {
+                      "file_type": "DocumentFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 4e\u0300me niveau/faafl42.3/02FAAfl42.3PlandeCours.pdf",
+                      "language": "fr"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "TopicNode",
+              "dirname": "faafl42.4",
+              "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 4e\u0300me niveau/faafl42.4",
+              "title": "Notre histoire notre identit\u00e9",
+              "description": "L \u0301\u00e9ducation sociale et financi\u00e8re",
+              "language": "fr",
+              "children": [
+                {
+                  "kind": "DocumentNode",
+                  "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 4e\u0300me niveau/faafl42.4/02FAAfl42.4PlandeCours.pdf",
+                  "title": "Notre histoire notre identit\u00e9",
+                  "author": "Aflatoun",
+                  "description": "Appr\u00e9cier la diversit\u00e9 dans la culture, religion, soci\u00e9t\u00e9, les traditions et l\u2019h\u00e9ritage.",
+                  "language": "fr",
+                  "files": [
+                    {
+                      "file_type": "DocumentFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 4e\u0300me niveau/faafl42.4/02FAAfl42.4PlandeCours.pdf",
+                      "language": "fr"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "TopicNode",
+              "dirname": "faafl43.1",
+              "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 4e\u0300me niveau/faafl43.1",
+              "title": "A propos de l\u2019organisation de l\u2019\u00e9pargne",
+              "description": "L \u0301\u00e9ducation sociale et financi\u00e8re",
+              "language": "fr",
+              "children": [
+                {
+                  "kind": "DocumentNode",
+                  "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 4e\u0300me niveau/faafl43.1/02FAAfl43.1PlandeCours.pdf",
+                  "title": "A propos de l\u2019organisation de l\u2019\u00e9pargne",
+                  "author": "Aflatoun",
+                  "description": "Comprendre qu\u2019il existe diff\u00e9rentes mani\u00e8res d\u2019\u00e9pargner.",
+                  "language": "fr",
+                  "files": [
+                    {
+                      "file_type": "DocumentFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 4e\u0300me niveau/faafl43.1/02FAAfl43.1PlandeCours.pdf",
+                      "language": "fr"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "TopicNode",
+              "dirname": "faafl43.2",
+              "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 4e\u0300me niveau/faafl43.2",
+              "title": "Les options d\u2019\u00e9pargne",
+              "description": "L \u0301\u00e9ducation sociale et financi\u00e8re",
+              "language": "fr",
+              "children": [
+                {
+                  "kind": "DocumentNode",
+                  "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 4e\u0300me niveau/faafl43.2/02FAAfl43.2PlandeCours.pdf",
+                  "title": "Les options d\u2019\u00e9pargne",
+                  "author": "Aflatoun",
+                  "description": "Apprendre les strat\u00e9gies d\u2019\u00e9pargne et comprendre le fonctionnement des banques, des\nclubs d\u2019\u00e9pargne, des coop\u00e9ratives, les banques de village, des associations, etc.",
+                  "language": "fr",
+                  "files": [
+                    {
+                      "file_type": "DocumentFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 4e\u0300me niveau/faafl43.2/02FAAfl43.2PlandeCours.pdf",
+                      "language": "fr"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "TopicNode",
+              "dirname": "faafl43.3",
+              "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 4e\u0300me niveau/faafl43.3",
+              "title": "G\u00e9rer ses finances et ses resources",
+              "description": "L \u0301\u00e9ducation sociale et financi\u00e8re",
+              "language": "fr",
+              "children": [
+                {
+                  "kind": "DocumentNode",
+                  "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 4e\u0300me niveau/faafl43.3/02FAAfl43.3PlandeCours.pdf",
+                  "title": "G\u00e9rer ses finances et ses resources",
+                  "author": "Aflatoun",
+                  "description": "Comprendre en quoi les bonnes et les mauvaises d\u00e9cisions financi\u00e8res peuvent affecter\nnotre vie.",
+                  "language": "fr",
+                  "files": [
+                    {
+                      "file_type": "DocumentFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 4e\u0300me niveau/faafl43.3/02FAAfl43.3PlandeCours.pdf",
+                      "language": "fr"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "TopicNode",
+              "dirname": "faafl43.4",
+              "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 4e\u0300me niveau/faafl43.4",
+              "title": "L\u2019\u00e9pargne comme mode de vie",
+              "description": "L \u0301\u00e9ducation sociale et financi\u00e8re",
+              "language": "fr",
+              "children": [
+                {
+                  "kind": "DocumentNode",
+                  "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 4e\u0300me niveau/faafl43.4/02FAAfl43.4PlandeCours.pdf",
+                  "title": "L\u2019\u00e9pargne comme mode de vie",
+                  "author": "Aflatoun",
+                  "description": "Comprendre comment \u00e9pargner uniform\u00e9ment pour r\u00e9pondre aux besoins vitaux et utiliser les \u00e9conomies suppl\u00e9mentaires pour les envies.",
+                  "language": "fr",
+                  "files": [
+                    {
+                      "file_type": "DocumentFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 4e\u0300me niveau/faafl43.4/02FAAfl43.4PlandeCours.pdf",
+                      "language": "fr"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "TopicNode",
+              "dirname": "faafl43.5",
+              "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 4e\u0300me niveau/faafl43.5",
+              "title": "Les aspects b\u00e9n\u00e9fiques et n\u00e9fastes de l\u2019environnement",
+              "description": "L \u0301\u00e9ducation sociale et financi\u00e8re",
+              "language": "fr",
+              "children": [
+                {
+                  "kind": "DocumentNode",
+                  "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 4e\u0300me niveau/faafl43.5/02FAAfl43.5PlandeCours.pdf",
+                  "title": "Les aspects b\u00e9n\u00e9fiques et n\u00e9fastes de l\u2019environnement",
+                  "author": "Aflatoun",
+                  "description": "Faire la diff\u00e9rence entre les actions qui ont un impact positif sur l\u2019environnement et celles\nqui ont un impact n\u00e9gatif.",
+                  "language": "fr",
+                  "files": [
+                    {
+                      "file_type": "DocumentFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 4e\u0300me niveau/faafl43.5/02FAAfl43.5PlandeCours.pdf",
+                      "language": "fr"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "TopicNode",
+              "dirname": "faafl44.1",
+              "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 4e\u0300me niveau/faafl44.1",
+              "title": "Organiser une entreprise",
+              "description": "L \u0301\u00e9ducation sociale et financi\u00e8re",
+              "language": "fr",
+              "children": [
+                {
+                  "kind": "DocumentNode",
+                  "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 4e\u0300me niveau/faafl44.1/02faAfl44.1PlandeCours.pdf",
+                  "title": "Organiser une entreprise",
+                  "author": "Aflatoun",
+                  "description": "Planifier des actions pour r\u00e9ussir leur entreprise",
+                  "language": "fr",
+                  "files": [
+                    {
+                      "file_type": "DocumentFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 4e\u0300me niveau/faafl44.1/02faAfl44.1PlandeCours.pdf",
+                      "language": "fr"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "TopicNode",
+              "dirname": "faafl44.2",
+              "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 4e\u0300me niveau/faafl44.2",
+              "title": "Organiser une journ\u00e9e Aflatoun",
+              "description": "L \u0301\u00e9ducation sociale et financi\u00e8re",
+              "language": "fr",
+              "children": [
+                {
+                  "kind": "DocumentNode",
+                  "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 4e\u0300me niveau/faafl44.2/02FAAfl44.2PlandeCours.pdf",
+                  "title": "Organiser une journ\u00e9e Aflatoun",
+                  "author": "Aflatoun",
+                  "description": "Choisir des id\u00e9es \u00e0 partager et des activit\u00e9s \u00e0 mettre en place pour la journ\u00e9e Aflatoun",
+                  "language": "fr",
+                  "files": [
+                    {
+                      "file_type": "DocumentFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 4e\u0300me niveau/faafl44.2/02FAAfl44.2PlandeCours.pdf",
+                      "language": "fr"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "TopicNode",
+              "dirname": "faafl44.3",
+              "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 4e\u0300me niveau/faafl44.3",
+              "title": "Objectifs \u00e0 long moyen court terme",
+              "description": "L \u0301\u00e9ducation sociale et financi\u00e8re",
+              "language": "fr",
+              "children": [
+                {
+                  "kind": "DocumentNode",
+                  "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 4e\u0300me niveau/faafl44.3/02FAAfl44.3PlandeCours.pdf",
+                  "title": "Objectifs \u00e0 long moyen court terme",
+                  "author": "Aflatoun",
+                  "description": "D\u00e9velopper des plans sur le court, moyen et long terme.",
+                  "language": "fr",
+                  "files": [
+                    {
+                      "file_type": "DocumentFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 4e\u0300me niveau/faafl44.3/02FAAfl44.3PlandeCours.pdf",
+                      "language": "fr"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "TopicNode",
+              "dirname": "faafl44.4",
+              "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 4e\u0300me niveau/faafl44.4",
+              "title": "Comp\u00e9tences en mati\u00e8re de collaboration et de travail en groupe",
+              "description": "L \u0301\u00e9ducation sociale et financi\u00e8re",
+              "language": "fr",
+              "children": [
+                {
+                  "kind": "DocumentNode",
+                  "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 4e\u0300me niveau/faafl44.4/02FAAfl44.4PlandeCours.pdf",
+                  "title": "Comp\u00e9tences en mati\u00e8re de collaboration et de travail en groupe",
+                  "author": "Aflatoun",
+                  "description": "Choisir des activit\u00e9s au sein d\u2019un groupe, en utilisant des comp\u00e9tences d\u00e9mocratiques, de facilitation et de travail en \u00e9quipe.",
+                  "language": "fr",
+                  "files": [
+                    {
+                      "file_type": "DocumentFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 4e\u0300me niveau/faafl44.4/02FAAfl44.4PlandeCours.pdf",
+                      "language": "fr"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "TopicNode",
+              "dirname": "faafl44.5",
+              "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 4e\u0300me niveau/faafl44.5",
+              "title": "L\u2019inclusion sociale pour am\u00e9liorer les moyens de subsistance",
+              "description": "L \u0301\u00e9ducation sociale et financi\u00e8re",
+              "language": "fr",
+              "children": [
+                {
+                  "kind": "DocumentNode",
+                  "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 4e\u0300me niveau/faafl44.5/02FAAfl44.5PlandeCours.pdf",
+                  "title": "L\u2019inclusion sociale pour am\u00e9liorer les moyens de subsistance",
+                  "author": "Aflatoun",
+                  "description": "Susciter l\u2019int\u00e9r\u00eat et mettre en place des actions pour aider \u00e0 am\u00e9liorer la vie de famille, du quartier et des communaut\u00e9s.",
+                  "language": "fr",
+                  "files": [
+                    {
+                      "file_type": "DocumentFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 4e\u0300me niveau/faafl44.5/02FAAfl44.5PlandeCours.pdf",
+                      "language": "fr"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "TopicNode",
+              "dirname": "faafl44.6",
+              "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 4e\u0300me niveau/faafl44.6",
+              "title": "Les entreprises financi\u00e8res au sein d\u2019une communaut\u00e9",
+              "description": "L \u0301\u00e9ducation sociale et financi\u00e8re",
+              "language": "fr",
+              "children": [
+                {
+                  "kind": "DocumentNode",
+                  "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 4e\u0300me niveau/faafl44.6/02FAAfl44.6PlandeCours.pdf",
+                  "title": "Les entreprises financi\u00e8res au sein d\u2019une communaut\u00e9",
+                  "author": "Aflatoun",
+                  "description": "Identifier des exemples d\u2019entreprises financi\u00e8res dans la communaut\u00e9 et d\u00e9terminer les\nfacteurs de r\u00e9ussite.",
+                  "language": "fr",
+                  "files": [
+                    {
+                      "file_type": "DocumentFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 4e\u0300me niveau/faafl44.6/02FAAfl44.6PlandeCours.pdf",
+                      "language": "fr"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "TopicNode",
+              "dirname": "faafl44.7",
+              "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 4e\u0300me niveau/faafl44.7",
+              "title": "Comp\u00e9tences en mati\u00e8re de carri\u00e8re et de profession",
+              "description": "L \u0301\u00e9ducation sociale et financi\u00e8re",
+              "language": "fr",
+              "children": [
+                {
+                  "kind": "DocumentNode",
+                  "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 4e\u0300me niveau/faafl44.7/02FAAfl44.7PlandeCours.pdf",
+                  "title": "Comp\u00e9tences en mati\u00e8re de carri\u00e8re et de profession",
+                  "author": "Aflatoun",
+                  "description": "Comprendre que de nombreuses professions exigent des comp\u00e9tences sp\u00e9cifiques.",
+                  "language": "fr",
+                  "files": [
+                    {
+                      "file_type": "DocumentFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 4e\u0300me niveau/faafl44.7/02FAAfl44.7PlandeCours.pdf",
+                      "language": "fr"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "TopicNode",
+          "dirname": "Plan de lec\u0327on 5e\u0300me niveau",
+          "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 5e\u0300me niveau",
+          "title": "Plan de lec\u0327on 5e\u0300me niveau",
+          "description": null,
+          "language": "fr",
+          "children": [
+            {
+              "kind": "TopicNode",
+              "dirname": "faafl51.1",
+              "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 5e\u0300me niveau/faafl51.1",
+              "title": "Introduction a Aflatoun",
+              "description": "Education Sociale et Financi\u00e8re pour Enfants",
+              "language": "fr",
+              "children": [
+                {
+                  "kind": "DocumentNode",
+                  "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 5e\u0300me niveau/faafl51.1/02FAAfl51.1PlandeCours.pdf",
+                  "title": "Introduction a Aflatoun",
+                  "author": "Aflatoun",
+                  "description": "Se r\u00e9jouir \u00e0 l\u2019id\u00e9e d\u2019apprendre en compagnie d\u2019Aflatoun et d\u2019appliquer sa devise.",
+                  "language": "fr",
+                  "files": [
+                    {
+                      "file_type": "DocumentFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 5e\u0300me niveau/faafl51.1/02FAAfl51.1PlandeCours.pdf",
+                      "language": "fr"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "TopicNode",
+              "dirname": "faafl51.2",
+              "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 5e\u0300me niveau/faafl51.2",
+              "title": "Le movement Aflatoun",
+              "description": "Education Sociale et Financi\u00e8re pour Enfants",
+              "language": "fr",
+              "children": [
+                {
+                  "kind": "DocumentNode",
+                  "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 5e\u0300me niveau/faafl51.2/02FAAfl51.2PlandeCours.pdf",
+                  "title": "Le movement Aflatoun",
+                  "author": "Aflatoun",
+                  "description": "Comprendre qu\u2019Aflatoun est un mouvement qui regroupe des enfants du monde entier.",
+                  "language": "fr",
+                  "files": [
+                    {
+                      "file_type": "DocumentFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 5e\u0300me niveau/faafl51.2/02FAAfl51.2PlandeCours.pdf",
+                      "language": "fr"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "TopicNode",
+              "dirname": "faafl51.3",
+              "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 5e\u0300me niveau/faafl51.3",
+              "title": "Cr\u00e9er un club Aflatoun",
+              "description": "Education Sociale et Financi\u00e8re pour Enfants",
+              "language": "fr",
+              "children": [
+                {
+                  "kind": "DocumentNode",
+                  "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 5e\u0300me niveau/faafl51.3/02FAAfl51.3PlandeCours.pdf",
+                  "title": "Cr\u00e9er un club Aflatoun",
+                  "author": "Aflatoun",
+                  "description": "Proposer des activit\u00e9s \u00e0 mettre en place au sein de leur club.",
+                  "language": "fr",
+                  "files": [
+                    {
+                      "file_type": "DocumentFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 5e\u0300me niveau/faafl51.3/02FAAfl51.3PlandeCours.pdf",
+                      "language": "fr"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "TopicNode",
+              "dirname": "faafl51.4",
+              "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 5e\u0300me niveau/faafl51.4",
+              "title": "Int\u00e9gration sociale et \u00e9galit\u00e9",
+              "description": "Education Sociale et Financi\u00e8re pour Enfants",
+              "language": "fr",
+              "children": [
+                {
+                  "kind": "DocumentNode",
+                  "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 5e\u0300me niveau/faafl51.4/02FAAfl51.4PlandeCours.pdf",
+                  "title": "Int\u00e9gration sociale et \u00e9galit\u00e9",
+                  "author": "Aflatoun",
+                  "description": "\u00c9tendue de l\u2019int\u00e9gration et engagement de qualit\u00e9.",
+                  "language": "fr",
+                  "files": [
+                    {
+                      "file_type": "DocumentFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 5e\u0300me niveau/faafl51.4/02FAAfl51.4PlandeCours.pdf",
+                      "language": "fr"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "TopicNode",
+              "dirname": "faafl51.5",
+              "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 5e\u0300me niveau/faafl51.5",
+              "title": "Interpr\u00e9ter des informations tir\u00e9es d\u2019un probl\u00e8me",
+              "description": "Education Sociale et Financi\u00e8re pour Enfants",
+              "language": "fr",
+              "children": [
+                {
+                  "kind": "DocumentNode",
+                  "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 5e\u0300me niveau/faafl51.5/02FAAfl51.5PlandeCours.pdf",
+                  "title": "Interpr\u00e9ter des informations tir\u00e9es d\u2019un probl\u00e8me",
+                  "author": "Aflatoun",
+                  "description": "Interpr\u00e9ter et analyser les informations obtenues.",
+                  "language": "fr",
+                  "files": [
+                    {
+                      "file_type": "DocumentFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 5e\u0300me niveau/faafl51.5/02FAAfl51.5PlandeCours.pdf",
+                      "language": "fr"
+                    }
+                  ]
+                },
+                {
+                  "kind": "VideoNode",
+                  "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 5e\u0300me niveau/faafl51.5/04fa_arbre_problemes.mp4",
+                  "title": "L'arbre \u00e0 Probl\u00e8mes",
+                  "author": "Aflatoun",
+                  "description": "Les techniques d'enseignement traditionnelles ont avant tout pour objectif d'apporter des r\u00e9ponses aux enfants.",
+                  "language": "fr",
+                  "derive_thumbnail": true,
+                  "files": [
+                    {
+                      "file_type": "VideoFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 5e\u0300me niveau/faafl51.5/04fa_arbre_problemes.mp4",
+                      "language": "fr"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "TopicNode",
+              "dirname": "faafl51.6",
+              "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 5e\u0300me niveau/faafl51.6",
+              "title": "Les \u00e9tapes importantes pour r\u00e9aliser ses objectifs",
+              "description": "Education Sociale et Financi\u00e8re pour Enfants",
+              "language": "fr",
+              "children": [
+                {
+                  "kind": "DocumentNode",
+                  "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 5e\u0300me niveau/faafl51.6/02FAAfl51.6PlandeCours.pdf",
+                  "title": "Les \u00e9tapes importantes pour r\u00e9aliser ses objectifs",
+                  "author": "Aflatoun",
+                  "description": "Identifier les \u00e9tapes cl\u00e9s ou les obstacles pour atteindre ses objectifs.",
+                  "language": "fr",
+                  "files": [
+                    {
+                      "file_type": "DocumentFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 5e\u0300me niveau/faafl51.6/02FAAfl51.6PlandeCours.pdf",
+                      "language": "fr"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "TopicNode",
+              "dirname": "faafl52.1",
+              "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 5e\u0300me niveau/faafl52.1",
+              "title": "Les droits des enfants et les obstacles",
+              "description": "Education Sociale et Financi\u00e8re pour Enfants",
+              "language": "fr",
+              "children": [
+                {
+                  "kind": "DocumentNode",
+                  "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 5e\u0300me niveau/faafl52.1/02FAAfl52.1PlandeCours.pdf",
+                  "title": "Les droits des enfants et les obstacles",
+                  "author": "Aflatoun",
+                  "description": "Identifier les obstacles \u00e0 l\u2019exercice de ses droits et se soutenir les uns les autres pour pouvoir jouir de nos droits (par la sensibilisation, la m\u00e9diation et l\u2019information).",
+                  "language": "fr",
+                  "files": [
+                    {
+                      "file_type": "DocumentFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 5e\u0300me niveau/faafl52.1/02FAAfl52.1PlandeCours.pdf",
+                      "language": "fr"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "TopicNode",
+              "dirname": "faafl52.2",
+              "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 5e\u0300me niveau/faafl52.2",
+              "title": "\u00c9tablir des relations positives avec des personnes de confiance",
+              "description": "Education Sociale et Financi\u00e8re pour Enfants",
+              "language": "fr",
+              "children": [
+                {
+                  "kind": "DocumentNode",
+                  "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 5e\u0300me niveau/faafl52.2/02FAAfl52.2PlandeCours.pdf",
+                  "title": "\u00c9tablir des relations positives avec des personnes de confiance",
+                  "author": "Aflatoun",
+                  "description": "\u00catre capable d\u2019identifier des personnes fiables et d\u2019\u00e9tablir des relations positives.",
+                  "language": "fr",
+                  "files": [
+                    {
+                      "file_type": "DocumentFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 5e\u0300me niveau/faafl52.2/02FAAfl52.2PlandeCours.pdf",
+                      "language": "fr"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "TopicNode",
+              "dirname": "faafl52.3",
+              "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 5e\u0300me niveau/faafl52.3",
+              "title": "Pr\u00e9jug\u00e9s, discrimination et violence li\u00e9s au genre",
+              "description": "Education Sociale et Financi\u00e8re pour Enfants",
+              "language": "fr",
+              "children": [
+                {
+                  "kind": "DocumentNode",
+                  "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 5e\u0300me niveau/faafl52.3/02FAAfl52.3PlandeCours.pdf",
+                  "title": "Pr\u00e9jug\u00e9s, discrimination et violence li\u00e9s au genre",
+                  "author": "Aflatoun",
+                  "description": "\u00catre capable d\u2019aborder et de traiter la question des pr\u00e9jug\u00e9s, de la discrimination et de la violence li\u00e9s au genre avec des camarades, des parents et des professeurs, dans le but de changer les choses.",
+                  "language": "fr",
+                  "files": [
+                    {
+                      "file_type": "DocumentFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 5e\u0300me niveau/faafl52.3/02FAAfl52.3PlandeCours.pdf",
+                      "language": "fr"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "TopicNode",
+              "dirname": "faafl52.4",
+              "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 5e\u0300me niveau/faafl52.4",
+              "title": "Voir les choses diff\u00e9remment",
+              "description": "Education Sociale et Financi\u00e8re pour Enfants",
+              "language": "fr",
+              "children": [
+                {
+                  "kind": "DocumentNode",
+                  "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 5e\u0300me niveau/faafl52.4/02FAAfl52.4PlandeCours.pdf",
+                  "title": "Voir les choses diff\u00e9remment",
+                  "author": "Aflatoun",
+                  "description": "\u00c9couter et respecter les avis diff\u00e9rents, les id\u00e9es et les croyances des autres.",
+                  "language": "fr",
+                  "files": [
+                    {
+                      "file_type": "DocumentFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 5e\u0300me niveau/faafl52.4/02FAAfl52.4PlandeCours.pdf",
+                      "language": "fr"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "TopicNode",
+              "dirname": "faafl53.1",
+              "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 5e\u0300me niveau/faafl53.1",
+              "title": "G\u00e9rer son \u00e9pargne",
+              "description": "Education Sociale et Financi\u00e8re pour Enfants",
+              "language": "fr",
+              "children": [
+                {
+                  "kind": "DocumentNode",
+                  "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 5e\u0300me niveau/faafl53.1/02FAAfl53.1PlandeCours.pdf",
+                  "title": "G\u00e9rer son \u00e9pargne",
+                  "author": "Aflatoun",
+                  "description": "Comprendre qu\u2019il existe diff\u00e9rentes fa\u00e7ons d\u2019\u00e9conomiser.",
+                  "language": "fr",
+                  "files": [
+                    {
+                      "file_type": "DocumentFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 5e\u0300me niveau/faafl53.1/02FAAfl53.1PlandeCours.pdf",
+                      "language": "fr"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "TopicNode",
+              "dirname": "faafl53.2",
+              "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 5e\u0300me niveau/faafl53.2",
+              "title": "Faire des choix financiers",
+              "description": "Education Sociale et Financi\u00e8re pour Enfants",
+              "language": "fr",
+              "children": [
+                {
+                  "kind": "DocumentNode",
+                  "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 5e\u0300me niveau/faafl53.2/02FAAfl53.2PlandeCours.pdf",
+                  "title": "Faire des choix financiers",
+                  "author": "Aflatoun",
+                  "description": "Comprendre comment faire des choix pour \u00e9pargner, d\u00e9penser et partager de l\u2019argent.",
+                  "language": "fr",
+                  "files": [
+                    {
+                      "file_type": "DocumentFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 5e\u0300me niveau/faafl53.2/02FAAfl53.2PlandeCours.pdf",
+                      "language": "fr"
+                    }
+                  ]
+                },
+                {
+                  "kind": "VideoNode",
+                  "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 5e\u0300me niveau/faafl53.2/04fa_diagramme_cva.mp4",
+                  "title": "Le Diagramme CVA",
+                  "author": "Aflatoun",
+                  "description": "Le Diagramme CVA permet de structurer et de bien conduire une le\u00e7on.",
+                  "language": "fr",
+                  "derive_thumbnail": true,
+                  "files": [
+                    {
+                      "file_type": "VideoFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 5e\u0300me niveau/faafl53.2/04fa_diagramme_cva.mp4",
+                      "language": "fr"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "TopicNode",
+              "dirname": "faafl53.3",
+              "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 5e\u0300me niveau/faafl53.3",
+              "title": "Mon budget personnel",
+              "description": "Education Sociale et Financi\u00e8re pour Enfants",
+              "language": "fr",
+              "children": [
+                {
+                  "kind": "DocumentNode",
+                  "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 5e\u0300me niveau/faafl53.3/02FAAfl53.3PlandeCours.pdf",
+                  "title": "Mon budget personnel",
+                  "author": "Aflatoun",
+                  "description": "g\u00e9rer leurs finances dans le but de contr\u00f4ler leur argent, leurs d\u00e9penses et leur \u00e9pargne.",
+                  "language": "fr",
+                  "files": [
+                    {
+                      "file_type": "DocumentFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 5e\u0300me niveau/faafl53.3/02FAAfl53.3PlandeCours.pdf",
+                      "language": "fr"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "TopicNode",
+              "dirname": "faafl53.4",
+              "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 5e\u0300me niveau/faafl53.4",
+              "title": "Nos habitudes de consommation, celles de notre famille, celles de la soci\u00e9t\u00e9",
+              "description": "Education Sociale et Financi\u00e8re pour Enfants",
+              "language": "fr",
+              "children": [
+                {
+                  "kind": "DocumentNode",
+                  "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 5e\u0300me niveau/faafl53.4/02FAAfl53.4PlandeCours.pdf",
+                  "title": "Nos habitudes de consommation, celles de notre famille, celles de la soci\u00e9t\u00e9",
+                  "author": "Aflatoun",
+                  "description": "L\u2019utilisation appropri\u00e9e des ressources : une approche des produits alimentaires habituels.",
+                  "language": "fr",
+                  "files": [
+                    {
+                      "file_type": "DocumentFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 5e\u0300me niveau/faafl53.4/02FAAfl53.4PlandeCours.pdf",
+                      "language": "fr"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "TopicNode",
+              "dirname": "faafl53.5",
+              "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 5e\u0300me niveau/faafl53.5",
+              "title": "La d\u00e9gradation de l\u2019environnement naturelle et caus\u00e9e par l\u2019homme",
+              "description": "Education Sociale et Financi\u00e8re pour Enfants",
+              "language": "fr",
+              "children": [
+                {
+                  "kind": "DocumentNode",
+                  "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 5e\u0300me niveau/faafl53.5/02FAAfl53.5PlandeCours.pdf",
+                  "title": "La d\u00e9gradation de l\u2019environnement naturelle et caus\u00e9e par l\u2019homme",
+                  "author": "Aflatoun",
+                  "description": "Les processus de d\u00e9gradation de l\u2019environnement.",
+                  "language": "fr",
+                  "files": [
+                    {
+                      "file_type": "DocumentFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 5e\u0300me niveau/faafl53.5/02FAAfl53.5PlandeCours.pdf",
+                      "language": "fr"
+                    }
+                  ]
+                },
+                {
+                  "kind": "VideoNode",
+                  "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 5e\u0300me niveau/faafl53.5/04fa_image_theatre.mp4",
+                  "title": "Le Th\u00e9\u00e2tre d'images",
+                  "author": "Aflatoun",
+                  "description": "Le Th\u00e9\u00e2tre d\u2019images est un outil qui permet aux enfants d\u2019exprimer leur opinion librement et de comprendre des choses rapidement et d\u2019une fa\u00e7on amusante. Un avantage suppl\u00e9mentaire : la technique est simple \u00e0 enseigner et \u00e0 apprendre et ne n\u00e9cessite aucun mat\u00e9riel. Non seulement le th\u00e9\u00e2tre d\u2019images aide les enseignants \u00e0 suivre les plans de cours Aflatoun, mais il peut s\u2019appliquer \u00e0 n\u2019importe quel domaine du programme d\u2019enseignement national d\u2019un pays.",
+                  "language": "fr",
+                  "derive_thumbnail": true,
+                  "files": [
+                    {
+                      "file_type": "VideoFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 5e\u0300me niveau/faafl53.5/04fa_image_theatre.mp4",
+                      "language": "fr"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "TopicNode",
+              "dirname": "faafl54.1",
+              "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 5e\u0300me niveau/faafl54.1",
+              "title": "Mettre en place une entreprise",
+              "description": "Education Sociale et Financi\u00e8re pour Enfants",
+              "language": "fr",
+              "children": [
+                {
+                  "kind": "DocumentNode",
+                  "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 5e\u0300me niveau/faafl54.1/02FAAfl54.1PlandeCours.pdf",
+                  "title": "Mettre en place une entreprise",
+                  "author": "Aflatoun",
+                  "description": "Planifier des actions pour mener \u00e0 bien leur entreprise.",
+                  "language": "fr",
+                  "files": [
+                    {
+                      "file_type": "DocumentFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 5e\u0300me niveau/faafl54.1/02FAAfl54.1PlandeCours.pdf",
+                      "language": "fr"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "TopicNode",
+              "dirname": "faafl54.2",
+              "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 5e\u0300me niveau/faafl54.2",
+              "title": "Organiser une journ\u00e9e Aflatoun",
+              "description": "Education Sociale et Financi\u00e8re pour Enfants",
+              "language": "fr",
+              "children": [
+                {
+                  "kind": "DocumentNode",
+                  "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 5e\u0300me niveau/faafl54.2/02FAAfl54.2PlandeCours.pdf",
+                  "title": "Organiser une journ\u00e9e Aflatoun",
+                  "author": "Aflatoun",
+                  "description": "Choisir des id\u00e9es \u00e0 partager et des activit\u00e9s \u00e0 mettre en place pour la journ\u00e9e Aflatoun",
+                  "language": "fr",
+                  "files": [
+                    {
+                      "file_type": "DocumentFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 5e\u0300me niveau/faafl54.2/02FAAfl54.2PlandeCours.pdf",
+                      "language": "fr"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "TopicNode",
+              "dirname": "faafl54.3",
+              "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 5e\u0300me niveau/faafl54.3",
+              "title": "Planification \u00e0 court, moyen et long terme",
+              "description": "Education Sociale et Financi\u00e8re pour Enfants",
+              "language": "fr",
+              "children": [
+                {
+                  "kind": "DocumentNode",
+                  "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 5e\u0300me niveau/faafl54.3/02FAAfl54.3PlandeCours.pdf",
+                  "title": "Planification \u00e0 court, moyen et long terme",
+                  "author": "Aflatoun",
+                  "description": "Organiser sa vie pour atteindre ses objectifs.",
+                  "language": "fr",
+                  "files": [
+                    {
+                      "file_type": "DocumentFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 5e\u0300me niveau/faafl54.3/02FAAfl54.3PlandeCours.pdf",
+                      "language": "fr"
+                    }
+                  ]
+                },
+                {
+                  "kind": "VideoNode",
+                  "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 5e\u0300me niveau/faafl54.3/04fa_diagramme_cva.mp4",
+                  "title": "Le Diagramme CVA",
+                  "author": "Aflatoun",
+                  "description": "Le Diagramme CVA permet de structurer et de bien conduire une le\u00e7on.",
+                  "language": "fr",
+                  "derive_thumbnail": true,
+                  "files": [
+                    {
+                      "file_type": "VideoFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 5e\u0300me niveau/faafl54.3/04fa_diagramme_cva.mp4",
+                      "language": "fr"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "TopicNode",
+              "dirname": "faafl54.4",
+              "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 5e\u0300me niveau/faafl54.4",
+              "title": "Travail d\u2019\u00e9quipe",
+              "description": "Education Sociale et Financi\u00e8re pour Enfants",
+              "language": "fr",
+              "children": [
+                {
+                  "kind": "DocumentNode",
+                  "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 5e\u0300me niveau/faafl54.4/02FAAfl54.4PlandeCours.pdf",
+                  "title": "Travail d\u2019\u00e9quipe",
+                  "author": "Aflatoun",
+                  "description": "\u00catre capable de r\u00e9partir les r\u00f4les et les t\u00e2ches au sein d\u2019un groupe de mani\u00e8re organis\u00e9e.",
+                  "language": "fr",
+                  "files": [
+                    {
+                      "file_type": "DocumentFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 5e\u0300me niveau/faafl54.4/02FAAfl54.4PlandeCours.pdf",
+                      "language": "fr"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "TopicNode",
+              "dirname": "faafl54.5",
+              "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 5e\u0300me niveau/faafl54.5",
+              "title": "Action collective",
+              "description": "Education Sociale et Financi\u00e8re pour Enfants",
+              "language": "fr",
+              "children": [
+                {
+                  "kind": "DocumentNode",
+                  "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 5e\u0300me niveau/faafl54.5/02FAAfl54.5PlandeCours.pdf",
+                  "title": "Action collective",
+                  "author": "Aflatoun",
+                  "description": "Participer \u00e0 des activit\u00e9s collectives pour am\u00e9liorer la vie de sa communaut\u00e9.",
+                  "language": "fr",
+                  "files": [
+                    {
+                      "file_type": "DocumentFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 5e\u0300me niveau/faafl54.5/02FAAfl54.5PlandeCours.pdf",
+                      "language": "fr"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "TopicNode",
+              "dirname": "faafl54.6",
+              "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 5e\u0300me niveau/faafl54.6",
+              "title": "Le march\u00e9 et les bases de l\u2019entreprise",
+              "description": "Education Sociale et Financi\u00e8re pour Enfants",
+              "language": "fr",
+              "children": [
+                {
+                  "kind": "DocumentNode",
+                  "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 5e\u0300me niveau/faafl54.6/02FAAfl54.6PlandeCours.pdf",
+                  "title": "Le march\u00e9 et les bases de l\u2019entreprise",
+                  "author": "Aflatoun",
+                  "description": "\u00catre capable de d\u00e9terminer les besoins du march\u00e9 \u00e0 l\u2019\u00e9cole.",
+                  "language": "fr",
+                  "files": [
+                    {
+                      "file_type": "DocumentFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 5e\u0300me niveau/faafl54.6/02FAAfl54.6PlandeCours.pdf",
+                      "language": "fr"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "TopicNode",
+              "dirname": "faafl54.7",
+              "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 5e\u0300me niveau/faafl54.7",
+              "title": "Comp\u00e9tences personnelles, int\u00e9r\u00eats et professionnalisme",
+              "description": "Education Sociale et Financi\u00e8re pour Enfants",
+              "language": "fr",
+              "children": [
+                {
+                  "kind": "DocumentNode",
+                  "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 5e\u0300me niveau/faafl54.7/02FAAfl54.7PlandeCours.pdf",
+                  "title": "Comp\u00e9tences personnelles, int\u00e9r\u00eats et professionnalisme",
+                  "author": "Aflatoun",
+                  "description": "Au-del\u00e0 des comp\u00e9tences techniques : les comp\u00e9tences individuelles n\u00e9cessaires pour faire carri\u00e8re.",
+                  "language": "fr",
+                  "files": [
+                    {
+                      "file_type": "DocumentFile",
+                      "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 5e\u0300me niveau/faafl54.7/02FAAfl54.7PlandeCours.pdf",
+                      "language": "fr"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "TopicNode",
+      "dirname": "Manuel de Formation",
+      "source_id": "aflotoun:French/Manuel de Formation",
+      "title": "Manuel de Formation",
+      "description": null,
+      "language": "fr",
+      "children": [
+        {
+          "kind": "DocumentNode",
+          "source_id": "aflotoun:French/Manuel de Formation/fr_manuel_de_formation.pdf",
+          "title": "Manuel de Formation",
+          "author": "Aflatoun",
+          "description": "Ce manuel de formation doit vous aider \u00e0 organiser des ateliers de 12-15 jours dans des IUFM ou dans d\u2019autres centres de formation d\u2019enseignants.",
+          "language": "fr",
+          "files": [
+            {
+              "file_type": "DocumentFile",
+              "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Manuel de Formation/fr_manuel_de_formation.pdf",
+              "language": "fr"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "TopicNode",
+      "dirname": "Modules de support pour la formation continue",
+      "source_id": "aflotoun:French/Modules de support pour la formation continue",
+      "title": "Modules de support pour la formation continue",
+      "description": null,
+      "language": "fr",
+      "children": [
+        {
+          "kind": "TopicNode",
+          "dirname": "01fr_les_origines_de_aflatoun",
+          "source_id": "aflotoun:French/Modules de support pour la formation continue/01fr_les_origines_de_aflatoun",
+          "title": "Les Origines de Aflatoun",
+          "description": "En tant qu\u2019enseignant impliqu\u00e9 dans le programme Aflatoun, vous devriez conna\u00eetre les origines de l\u2019organisation. Vous vous rappellerez que ce sujet a \u00e9t\u00e9 abord\u00e9 d\u00e8s le premier jour de l\u2019atelier sur la formation des  enseignants auquel  vous  avez particip\u00e9.En suivant cemodule,nous esp\u00e9rons vous rafra\u00eechir la m\u00e9moire.",
+          "language": "fr",
+          "children": [
+            {
+              "kind": "DocumentNode",
+              "source_id": "aflotoun:French/Modules de support pour la formation continue/01fr_les_origines_de_aflatoun/01_fr01_instruction.pdf",
+              "title": "Introduction et instructions",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "fr",
+              "files": [
+                {
+                  "file_type": "DocumentFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Modules de support pour la formation continue/01fr_les_origines_de_aflatoun/01_fr01_instruction.pdf",
+                  "language": "fr"
+                }
+              ]
+            },
+            {
+              "kind": "DocumentNode",
+              "source_id": "aflotoun:French/Modules de support pour la formation continue/01fr_les_origines_de_aflatoun/02_fr01_introduction.pdf",
+              "title": "Les Origines de Aflatoun",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "fr",
+              "files": [
+                {
+                  "file_type": "DocumentFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Modules de support pour la formation continue/01fr_les_origines_de_aflatoun/02_fr01_introduction.pdf",
+                  "language": "fr"
+                }
+              ]
+            },
+            {
+              "kind": "AudioNode",
+              "source_id": "aflotoun:French/Modules de support pour la formation continue/01fr_les_origines_de_aflatoun/04_fr01_interview.mp3",
+              "title": "Ecoutez l\u2019interview de Lata Narayan sur la cr\u00e9ation d\u2019Aflatoun",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "fr",
+              "files": [
+                {
+                  "file_type": "AudioFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Modules de support pour la formation continue/01fr_les_origines_de_aflatoun/04_fr01_interview.mp3",
+                  "language": "fr"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "TopicNode",
+          "dirname": "02fr_les_clubs_dans_la_programme",
+          "source_id": "aflotoun:French/Modules de support pour la formation continue/02fr_les_clubs_dans_la_programme",
+          "title": "Les Clubs dans la Programme Aflatoun",
+          "description": "Les clubs Aflatoun jouent un r\u00f4le central dans le programme Aflatoun. Lorsque vous avez particip\u00e9 \u00e0 l\u2019atelier de formation des enseignants, vous avez d\u00fb en entendre parler d\u00e8s le premier jour. En suivant ce module, nous esp\u00e9rons que vous en apprendrez davantage sur ces clubs et sur leur mise en place.",
+          "language": "fr",
+          "children": [
+            {
+              "kind": "DocumentNode",
+              "source_id": "aflotoun:French/Modules de support pour la formation continue/02fr_les_clubs_dans_la_programme/01_fr02_instruction.pdf",
+              "title": "Introduction et instructions",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "fr",
+              "files": [
+                {
+                  "file_type": "DocumentFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Modules de support pour la formation continue/02fr_les_clubs_dans_la_programme/01_fr02_instruction.pdf",
+                  "language": "fr"
+                }
+              ]
+            },
+            {
+              "kind": "DocumentNode",
+              "source_id": "aflotoun:French/Modules de support pour la formation continue/02fr_les_clubs_dans_la_programme/02_fr02_introduction.pdf",
+              "title": "Les Clubs dans la Programme Aflatoun",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "fr",
+              "files": [
+                {
+                  "file_type": "DocumentFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Modules de support pour la formation continue/02fr_les_clubs_dans_la_programme/02_fr02_introduction.pdf",
+                  "language": "fr"
+                }
+              ]
+            },
+            {
+              "kind": "DocumentNode",
+              "source_id": "aflotoun:French/Modules de support pour la formation continue/02fr_les_clubs_dans_la_programme/04_fr02_text.pdf",
+              "title": "Mettre en place un club",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "fr",
+              "files": [
+                {
+                  "file_type": "DocumentFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Modules de support pour la formation continue/02fr_les_clubs_dans_la_programme/04_fr02_text.pdf",
+                  "language": "fr"
+                }
+              ]
+            },
+            {
+              "kind": "AudioNode",
+              "source_id": "aflotoun:French/Modules de support pour la formation continue/02fr_les_clubs_dans_la_programme/06_fr02_audio_story.mp3",
+              "title": "Le club des incroyables enqu\u00eateurs",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "fr",
+              "files": [
+                {
+                  "file_type": "AudioFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Modules de support pour la formation continue/02fr_les_clubs_dans_la_programme/06_fr02_audio_story.mp3",
+                  "language": "fr"
+                }
+              ]
+            },
+            {
+              "kind": "AudioNode",
+              "source_id": "aflotoun:French/Modules de support pour la formation continue/02fr_les_clubs_dans_la_programme/08_fr02_audio_story.mp3",
+              "title": "Le club des super \u00e9pargnants",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "fr",
+              "files": [
+                {
+                  "file_type": "AudioFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Modules de support pour la formation continue/02fr_les_clubs_dans_la_programme/08_fr02_audio_story.mp3",
+                  "language": "fr"
+                }
+              ]
+            },
+            {
+              "kind": "DocumentNode",
+              "source_id": "aflotoun:French/Modules de support pour la formation continue/02fr_les_clubs_dans_la_programme/10_fr02_text.pdf",
+              "title": "Clubs et \u00e9lections dans le monde entier",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "fr",
+              "files": [
+                {
+                  "file_type": "DocumentFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Modules de support pour la formation continue/02fr_les_clubs_dans_la_programme/10_fr02_text.pdf",
+                  "language": "fr"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "TopicNode",
+          "dirname": "03fr_les_activities_programme_principal",
+          "source_id": "aflotoun:French/Modules de support pour la formation continue/03fr_les_activities_programme_principal",
+          "title": "Les activit\u00e9s du programme principal",
+          "description": "l est important de veiller \u00e0 ce que votre \u00e9tablissement organise diverses activit\u00e9s dans le cadre du programme Aflatoun. En fait,nous vous conseillons de recourir \u00e0 sept types d\u2019activit\u00e9s diff\u00e9rents pour obtenir un bon \u00e9quilibre. Vous avez probablement d\u00e9j\u00e0  abord\u00e9 cela lors du premier jour de l\u2019atelier de formation des enseignants d\u2019Aflatoun. Nous esp\u00e9rons que ce module vous aura rafra\u00eechi la m\u00e9moire et vous aura donn\u00e9 des id\u00e9es d\u2019activit\u00e9s\u00e0 effectuer avec vos \u00e9l\u00e8ves.",
+          "language": "fr",
+          "children": [
+            {
+              "kind": "DocumentNode",
+              "source_id": "aflotoun:French/Modules de support pour la formation continue/03fr_les_activities_programme_principal/01_fr03_instruction.pdf",
+              "title": "Introduction et instructions",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "fr",
+              "files": [
+                {
+                  "file_type": "DocumentFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Modules de support pour la formation continue/03fr_les_activities_programme_principal/01_fr03_instruction.pdf",
+                  "language": "fr"
+                }
+              ]
+            },
+            {
+              "kind": "VideoNode",
+              "source_id": "aflotoun:French/Modules de support pour la formation continue/03fr_les_activities_programme_principal/02_fr03_animation.mp4",
+              "title": "Les activit\u00e9s du programme principal",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "fr",
+              "derive_thumbnail": true,
+              "files": [
+                {
+                  "file_type": "VideoFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Modules de support pour la formation continue/03fr_les_activities_programme_principal/02_fr03_animation.mp4",
+                  "language": "fr"
+                }
+              ]
+            },
+            {
+              "kind": "DocumentNode",
+              "source_id": "aflotoun:French/Modules de support pour la formation continue/03fr_les_activities_programme_principal/04_fr03_text.pdf",
+              "title": "Activit\u00e9s-jeu du programme",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "fr",
+              "files": [
+                {
+                  "file_type": "DocumentFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Modules de support pour la formation continue/03fr_les_activities_programme_principal/04_fr03_text.pdf",
+                  "language": "fr"
+                }
+              ]
+            },
+            {
+              "kind": "DocumentNode",
+              "source_id": "aflotoun:French/Modules de support pour la formation continue/03fr_les_activities_programme_principal/06_fr03_text.pdf",
+              "title": "Les ressources relatives aux activit\u00e9s cl\u00e9s du programme",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "fr",
+              "files": [
+                {
+                  "file_type": "DocumentFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Modules de support pour la formation continue/03fr_les_activities_programme_principal/06_fr03_text.pdf",
+                  "language": "fr"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "TopicNode",
+          "dirname": "04fr_cde_la_qualite_de_leducation",
+          "source_id": "aflotoun:French/Modules de support pour la formation continue/04fr_cde_la_qualite_de_leducation",
+          "title": "CDE et la qualit\u00e9 de l\u2019\u00e9ducation",
+          "description": "La Convention des Droits de l\u2019Enfant des Nations Unies nous fournit, en tant qu\u2019enseignants, de pr\u00e9cieux conseils sur le type d\u2019\u00e9ducation que nous voulons d\u00e9livrer aux enfants. L\u2019accent est mis sur la qualit\u00e9de l\u2019enseignement. Nous esp\u00e9rons que vous trouverez ce module utile et qu\u2019il vous aidera \u00e0 d\u00e9velopper dans votre classe une mani\u00e8re propre \u00e0 vous d\u2019enseigner.",
+          "language": "fr",
+          "children": [
+            {
+              "kind": "DocumentNode",
+              "source_id": "aflotoun:French/Modules de support pour la formation continue/04fr_cde_la_qualite_de_leducation/01_fr04_instruction.pdf",
+              "title": "Introduction et instructions",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "fr",
+              "files": [
+                {
+                  "file_type": "DocumentFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Modules de support pour la formation continue/04fr_cde_la_qualite_de_leducation/01_fr04_instruction.pdf",
+                  "language": "fr"
+                }
+              ]
+            },
+            {
+              "kind": "DocumentNode",
+              "source_id": "aflotoun:French/Modules de support pour la formation continue/04fr_cde_la_qualite_de_leducation/02_fr04_introduction.pdf",
+              "title": "Une version courte de la CDE de l\u2019ONU",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "fr",
+              "files": [
+                {
+                  "file_type": "DocumentFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Modules de support pour la formation continue/04fr_cde_la_qualite_de_leducation/02_fr04_introduction.pdf",
+                  "language": "fr"
+                }
+              ]
+            },
+            {
+              "kind": "AudioNode",
+              "source_id": "aflotoun:French/Modules de support pour la formation continue/04fr_cde_la_qualite_de_leducation/04_fr04_interview.mp3",
+              "title": "Ecoutez l\u2019interview du professeur Jaap Doek.",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "fr",
+              "files": [
+                {
+                  "file_type": "AudioFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Modules de support pour la formation continue/04fr_cde_la_qualite_de_leducation/04_fr04_interview.mp3",
+                  "language": "fr"
+                }
+              ]
+            },
+            {
+              "kind": "DocumentNode",
+              "source_id": "aflotoun:French/Modules de support pour la formation continue/04fr_cde_la_qualite_de_leducation/06_fr04_text.pdf",
+              "title": "L\u2019article de Mary Joy Pigozzid\u2019UNICEF, New York",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "fr",
+              "files": [
+                {
+                  "file_type": "DocumentFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Modules de support pour la formation continue/04fr_cde_la_qualite_de_leducation/06_fr04_text.pdf",
+                  "language": "fr"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "TopicNode",
+          "dirname": "05fr_legalite_des_genres",
+          "source_id": "aflotoun:French/Modules de support pour la formation continue/05fr_legalite_des_genres",
+          "title": "L\u2019\u00e9galit\u00e9 des genres au sein du groupe classe",
+          "description": "Habituellement, lors du deuxi\u00e8me jour de l\u2019atelier Aflatoun sur la formation des enseignants, se d\u00e9roule une session d\u00e9di\u00e9e \u00e0 la question de la promotion de l\u2019\u00e9galit\u00e9 des genresau sein de la classe. Une petite session ne suffit pas, si on consid\u00e8re l\u2019\u00e9tendue de ce probl\u00e8me. Nous esp\u00e9rons que vous appr\u00e9cierez ce module et qu\u2019il vous aidera \u00e0 vous rafra\u00eechir la m\u00e9moire et \u00e0 trouver de nouvelles id\u00e9es.",
+          "language": "fr",
+          "children": [
+            {
+              "kind": "DocumentNode",
+              "source_id": "aflotoun:French/Modules de support pour la formation continue/05fr_legalite_des_genres/01_fa05_instruction.pdf",
+              "title": "Introduction et instructions",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "fr",
+              "files": [
+                {
+                  "file_type": "DocumentFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Modules de support pour la formation continue/05fr_legalite_des_genres/01_fa05_instruction.pdf",
+                  "language": "fr"
+                }
+              ]
+            },
+            {
+              "kind": "DocumentNode",
+              "source_id": "aflotoun:French/Modules de support pour la formation continue/05fr_legalite_des_genres/02_fa05_text.pdf",
+              "title": "Egalit\u00e9 des sexes dans la salle de classe",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "fr",
+              "files": [
+                {
+                  "file_type": "DocumentFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Modules de support pour la formation continue/05fr_legalite_des_genres/02_fa05_text.pdf",
+                  "language": "fr"
+                }
+              ]
+            },
+            {
+              "kind": "AudioNode",
+              "source_id": "aflotoun:French/Modules de support pour la formation continue/05fr_legalite_des_genres/06_fa05_interview.mp3",
+              "title": "L\u2019interview de Stacey Dixon de FHI 360",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "fr",
+              "files": [
+                {
+                  "file_type": "AudioFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Modules de support pour la formation continue/05fr_legalite_des_genres/06_fa05_interview.mp3",
+                  "language": "fr"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "TopicNode",
+          "dirname": "06fr_les_enfants_et_lespargne",
+          "source_id": "aflotoun:French/Modules de support pour la formation continue/06fr_les_enfants_et_lespargne",
+          "title": "Les enfants et l\u2019\u00e9pargne",
+          "description": "Il est \u00e9vident que l\u2019\u00e9pargne est un aspect essentiel de tous les ateliers Aflatoun sur la formation des enseignants.De quoi vous souvenez-vous \u00e0 propos de la session sur l\u2019\u00e9pargne? Nous esp\u00e9rons que vous allez profiter de ce module pour vous rafra\u00eechir la m\u00e9moire et pour trouver de nouvelles id\u00e9es.",
+          "language": "fr",
+          "children": [
+            {
+              "kind": "DocumentNode",
+              "source_id": "aflotoun:French/Modules de support pour la formation continue/06fr_les_enfants_et_lespargne/01_fr06_instruction.pdf",
+              "title": "Introduction et instructions",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "fr",
+              "files": [
+                {
+                  "file_type": "DocumentFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Modules de support pour la formation continue/06fr_les_enfants_et_lespargne/01_fr06_instruction.pdf",
+                  "language": "fr"
+                }
+              ]
+            },
+            {
+              "kind": "DocumentNode",
+              "source_id": "aflotoun:French/Modules de support pour la formation continue/06fr_les_enfants_et_lespargne/02_fr06_introduction.pdf",
+              "title": "Les enfants et l\u2019\u00e9pargne",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "fr",
+              "files": [
+                {
+                  "file_type": "DocumentFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Modules de support pour la formation continue/06fr_les_enfants_et_lespargne/02_fr06_introduction.pdf",
+                  "language": "fr"
+                }
+              ]
+            },
+            {
+              "kind": "DocumentNode",
+              "source_id": "aflotoun:French/Modules de support pour la formation continue/06fr_les_enfants_et_lespargne/04_fr06_text.pdf",
+              "title": "Six cat\u00e9gories d\u2019\u00e9pargne",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "fr",
+              "files": [
+                {
+                  "file_type": "DocumentFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Modules de support pour la formation continue/06fr_les_enfants_et_lespargne/04_fr06_text.pdf",
+                  "language": "fr"
+                }
+              ]
+            },
+            {
+              "kind": "DocumentNode",
+              "source_id": "aflotoun:French/Modules de support pour la formation continue/06fr_les_enfants_et_lespargne/06_fr06_text.pdf",
+              "title": "Les syst\u00e8mes d\u2019\u00e9pargne",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "fr",
+              "files": [
+                {
+                  "file_type": "DocumentFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Modules de support pour la formation continue/06fr_les_enfants_et_lespargne/06_fr06_text.pdf",
+                  "language": "fr"
+                }
+              ]
+            },
+            {
+              "kind": "DocumentNode",
+              "source_id": "aflotoun:French/Modules de support pour la formation continue/06fr_les_enfants_et_lespargne/08_fr06_text.pdf",
+              "title": "Les enfants qui \u00e9pargnent partout dans le monde",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "fr",
+              "files": [
+                {
+                  "file_type": "DocumentFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Modules de support pour la formation continue/06fr_les_enfants_et_lespargne/08_fr06_text.pdf",
+                  "language": "fr"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "TopicNode",
+          "dirname": "07fr_entreprises_sociales_financieres_des_enfants",
+          "source_id": "aflotoun:French/Modules de support pour la formation continue/07fr_entreprises_sociales_financieres_des_enfants",
+          "title": "Entreprises sociales et financi\u00e8res des enfants",
+          "description": "Aider les enfants \u00e0 cr\u00e9er et mettre en place leur propre petite entreprise sociale et financi\u00e8re est une des probl\u00e9matiquescentrales et uniques du programme Aflatoun. Au cours de la derni\u00e8re journ\u00e9e de l\u2019atelier Aflatoun sur la formation des enseignants, vous avez probablement d\u00fb travailler avec d\u2019autres enseignants etr\u00e9fl\u00e9chir \u00e0 une id\u00e9e d\u2019entreprise. Vous en rappelez-vous? Nous esp\u00e9rons que vous profiterez de ce module pour  vous rafra\u00eechir  la m\u00e9moire  et pour mieux comprendre les  diff\u00e9rents types de projets d\u2019entreprisesque les enfants mettent en place partout dans le monde. Ce module pourra \u00e9galement vous donner des id\u00e9es.",
+          "language": "fr",
+          "children": [
+            {
+              "kind": "DocumentNode",
+              "source_id": "aflotoun:French/Modules de support pour la formation continue/07fr_entreprises_sociales_financieres_des_enfants/01_fr07_instruction.pdf",
+              "title": "Introduction et instructions",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "fr",
+              "files": [
+                {
+                  "file_type": "DocumentFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Modules de support pour la formation continue/07fr_entreprises_sociales_financieres_des_enfants/01_fr07_instruction.pdf",
+                  "language": "fr"
+                }
+              ]
+            },
+            {
+              "kind": "DocumentNode",
+              "source_id": "aflotoun:French/Modules de support pour la formation continue/07fr_entreprises_sociales_financieres_des_enfants/02_fr07_introduction.pdf",
+              "title": "Entreprise sociale et financi\u00e8re des enfants",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "fr",
+              "files": [
+                {
+                  "file_type": "DocumentFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Modules de support pour la formation continue/07fr_entreprises_sociales_financieres_des_enfants/02_fr07_introduction.pdf",
+                  "language": "fr"
+                }
+              ]
+            },
+            {
+              "kind": "DocumentNode",
+              "source_id": "aflotoun:French/Modules de support pour la formation continue/07fr_entreprises_sociales_financieres_des_enfants/04_fr07_text.pdf",
+              "title": "La checklist de l\u2019entreprise sociale et financi\u00e8re de l\u2019enfant",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "fr",
+              "files": [
+                {
+                  "file_type": "DocumentFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Modules de support pour la formation continue/07fr_entreprises_sociales_financieres_des_enfants/04_fr07_text.pdf",
+                  "language": "fr"
+                }
+              ]
+            },
+            {
+              "kind": "AudioNode",
+              "source_id": "aflotoun:French/Modules de support pour la formation continue/07fr_entreprises_sociales_financieres_des_enfants/06_fr07_audio.mp3",
+              "title": "Entreprise sociale et financi\u00e8re des enfants",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "fr",
+              "files": [
+                {
+                  "file_type": "AudioFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Modules de support pour la formation continue/07fr_entreprises_sociales_financieres_des_enfants/06_fr07_audio.mp3",
+                  "language": "fr"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "TopicNode",
+          "dirname": "08fr_temps_de_parole_de_lenseignant",
+          "source_id": "aflotoun:French/Modules de support pour la formation continue/08fr_temps_de_parole_de_lenseignant",
+          "title": "Temps de parole de l\u2019enseignant VS temps de parole de l\u2019\u00e9l\u00e8ve",
+          "description": "Le  point  cl\u00e9 de  tout atelier de formation des enseignants Aflatoun  est bien entendu la pratique de l\u2019enseignement. Peut-\u00eatre  vous souvenez-vous de ces  s\u00e9ances? On fournit  aux enseignants  des plans  de  cours tir\u00e9s  des livres  Aflatoun et on  leur demander  de faire  un  faux cours. Les autres participants \u00e9mettent alors des critiques sur leur performance \u00e0 l\u2019aide d\u2019une liste \u00e9tablie de questions. L\u2019un des objectifs de ces s\u00e9ances de microformation est d\u2019aider les enseignants \u00e0 utiliser diverses m\u00e9thodes, et non seulement les cours magistraux. Dans ce module, nous abordons de plus pr\u00e8s l\u2019un des aspects de l\u2019enseignement en classe: le ratio entre le temps de parole del\u2019enseignant et le temps de parole de l\u2019\u00e9l\u00e8ve. Il s\u2019agit d\u2019un bon indicateur de l\u2019implication des \u00e9l\u00e8ves dans l\u2019apprentissage. Nous esp\u00e9rons que vous avez appr\u00e9ci\u00e9 ce module, qu\u2019il vous a permis de rafra\u00eechir votre m\u00e9moire,  de mieux comprendre cet aspect de l\u2019apprentissage actif, et qu\u2019il vous a peut-\u00eatre donn\u00e9 de nouvelles id\u00e9es.",
+          "language": "fr",
+          "children": [
+            {
+              "kind": "DocumentNode",
+              "source_id": "aflotoun:French/Modules de support pour la formation continue/08fr_temps_de_parole_de_lenseignant/01_fr08_instruction.pdf",
+              "title": "Introduction et instructions",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "fr",
+              "files": [
+                {
+                  "file_type": "DocumentFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Modules de support pour la formation continue/08fr_temps_de_parole_de_lenseignant/01_fr08_instruction.pdf",
+                  "language": "fr"
+                }
+              ]
+            },
+            {
+              "kind": "DocumentNode",
+              "source_id": "aflotoun:French/Modules de support pour la formation continue/08fr_temps_de_parole_de_lenseignant/02_fr08_introduction.pdf",
+              "title": "Les Forces et Faiblesses des Differents Types D\u2019Enseignant",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "fr",
+              "files": [
+                {
+                  "file_type": "DocumentFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Modules de support pour la formation continue/08fr_temps_de_parole_de_lenseignant/02_fr08_introduction.pdf",
+                  "language": "fr"
+                }
+              ]
+            },
+            {
+              "kind": "DocumentNode",
+              "source_id": "aflotoun:French/Modules de support pour la formation continue/08fr_temps_de_parole_de_lenseignant/04_fr08_text.pdf",
+              "title": "Pratique de l\u2019enseignement actif",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "fr",
+              "files": [
+                {
+                  "file_type": "DocumentFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Modules de support pour la formation continue/08fr_temps_de_parole_de_lenseignant/04_fr08_text.pdf",
+                  "language": "fr"
+                }
+              ]
+            },
+            {
+              "kind": "VideoNode",
+              "source_id": "aflotoun:French/Modules de support pour la formation continue/08fr_temps_de_parole_de_lenseignant/06_fr08_animation.mp4",
+              "title": "L\u2019animation intitul\u00e9e Temps de parole de l\u2019enseignant VS temps de parole de l\u2019\u00e9l\u00e8ve",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "fr",
+              "derive_thumbnail": true,
+              "files": [
+                {
+                  "file_type": "VideoFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Modules de support pour la formation continue/08fr_temps_de_parole_de_lenseignant/06_fr08_animation.mp4",
+                  "language": "fr"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "TopicNode",
+          "dirname": "09fr_brainstorming",
+          "source_id": "aflotoun:French/Modules de support pour la formation continue/09fr_brainstorming",
+          "title": "Brainstorming",
+          "description": "Dans un atelier Aflatoun sur la formation des enseignants, nous traitons de l\u2019exercice de brainstorming d\u00e8s  le  premier jour. Le brainstorming est  une m\u00e9thode,  \u00e0 premi\u00e8re vue, tr\u00e8s simple et pourtant beaucoup d\u2019enseignants trouvent que cette activit\u00e9 peut se r\u00e9v\u00e9ler plus compliqu\u00e9e que  pr\u00e9vu puisqu\u2019elle exigeque les enseignants fassent des choses qu\u2019ils n\u2019ont pas l\u2019habitude de faire, comme par exemple: laisser les enfants s\u2019exprimer sans les r\u00e9guler, sans les corriger, etc... Nous esp\u00e9rons que vous profiterez  de ce  module pour vousrafra\u00eechir la  m\u00e9moire  et pour  vous permettre  de mieux comprendre certains aspects de l\u2019apprentissage actif ainsi que pourtrouver de nouvelles id\u00e9es.",
+          "language": "fr",
+          "children": [
+            {
+              "kind": "DocumentNode",
+              "source_id": "aflotoun:French/Modules de support pour la formation continue/09fr_brainstorming/01_fr09_instruction.pdf",
+              "title": "Introduction et instructions",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "fr",
+              "files": [
+                {
+                  "file_type": "DocumentFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Modules de support pour la formation continue/09fr_brainstorming/01_fr09_instruction.pdf",
+                  "language": "fr"
+                }
+              ]
+            },
+            {
+              "kind": "AudioNode",
+              "source_id": "aflotoun:French/Modules de support pour la formation continue/09fr_brainstorming/02_fr09_interview.mp3",
+              "title": "L\u2019interview de April Coetzee de Warchild Holland",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "fr",
+              "files": [
+                {
+                  "file_type": "AudioFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Modules de support pour la formation continue/09fr_brainstorming/02_fr09_interview.mp3",
+                  "language": "fr"
+                }
+              ]
+            },
+            {
+              "kind": "VideoNode",
+              "source_id": "aflotoun:French/Modules de support pour la formation continue/09fr_brainstorming/04_fr09_animation.mp4",
+              "title": "Les avantages du brainstorming l\u2019animation",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "fr",
+              "derive_thumbnail": true,
+              "files": [
+                {
+                  "file_type": "VideoFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Modules de support pour la formation continue/09fr_brainstorming/04_fr09_animation.mp4",
+                  "language": "fr"
+                }
+              ]
+            },
+            {
+              "kind": "VideoNode",
+              "source_id": "aflotoun:French/Modules de support pour la formation continue/09fr_brainstorming/06_fr09_animation.mp4",
+              "title": "L\u2019animation conseils pour le brainstorming",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "fr",
+              "derive_thumbnail": true,
+              "files": [
+                {
+                  "file_type": "VideoFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Modules de support pour la formation continue/09fr_brainstorming/06_fr09_animation.mp4",
+                  "language": "fr"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "TopicNode",
+          "dirname": "10fr_larbre_probleme",
+          "source_id": "aflotoun:French/Modules de support pour la formation continue/10fr_larbre_probleme",
+          "title": "Arbre \u00e0 probl\u00e8mes",
+          "description": "Un arbre \u00e0 probl\u00e8mes est une fantastique m\u00e9thode d\u2019apprentissage actif qui permet aux enfants d\u2019examiner un probl\u00e8me en termes de causes et d\u2019effets. Les arbres \u00e0 probl\u00e8mes sont pr\u00e9sents dans de nombreux livres Aflatoun. Vous souvenez-vous avoir assist\u00e9 \u00e0 une s\u00e9ance consacr\u00e9e aux arbres \u00e0 probl\u00e8mes durant l\u2019atelier de formation des enseignants Aflatoun? Nous esp\u00e9rons que vous avez appr\u00e9ci\u00e9 ce module, qu\u2019il vous a permis de rafra\u00eechir votre m\u00e9moire, de  mieux comprendre cet aspect de l\u2019apprentissage actif, et qu\u2019il vous a peut-\u00eatre donn\u00e9 de nouvelles id\u00e9e.",
+          "language": "fr",
+          "children": [
+            {
+              "kind": "DocumentNode",
+              "source_id": "aflotoun:French/Modules de support pour la formation continue/10fr_larbre_probleme/01_fr10_instruction.pdf",
+              "title": "Introduction et instructions",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "fr",
+              "files": [
+                {
+                  "file_type": "DocumentFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Modules de support pour la formation continue/10fr_larbre_probleme/01_fr10_instruction.pdf",
+                  "language": "fr"
+                }
+              ]
+            },
+            {
+              "kind": "VideoNode",
+              "source_id": "aflotoun:French/Modules de support pour la formation continue/10fr_larbre_probleme/02_fr10_animation.mp4",
+              "title": "L\u2019animation Arbre \u00e0 probl\u00e8mes",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "fr",
+              "derive_thumbnail": true,
+              "files": [
+                {
+                  "file_type": "VideoFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Modules de support pour la formation continue/10fr_larbre_probleme/02_fr10_animation.mp4",
+                  "language": "fr"
+                }
+              ]
+            },
+            {
+              "kind": "DocumentNode",
+              "source_id": "aflotoun:French/Modules de support pour la formation continue/10fr_larbre_probleme/04_fr10_text.pdf",
+              "title": "Instructions et conseils sur les arbres \u00e0 probl\u00e8mes",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "fr",
+              "files": [
+                {
+                  "file_type": "DocumentFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Modules de support pour la formation continue/10fr_larbre_probleme/04_fr10_text.pdf",
+                  "language": "fr"
+                }
+              ]
+            },
+            {
+              "kind": "DocumentNode",
+              "source_id": "aflotoun:French/Modules de support pour la formation continue/10fr_larbre_probleme/06_fr10_text.pdf",
+              "title": "Les droits des enfants",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "fr",
+              "files": [
+                {
+                  "file_type": "DocumentFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Modules de support pour la formation continue/10fr_larbre_probleme/06_fr10_text.pdf",
+                  "language": "fr"
+                }
+              ]
+            },
+            {
+              "kind": "VideoNode",
+              "source_id": "aflotoun:French/Modules de support pour la formation continue/10fr_larbre_probleme/08_fr10_video.mp4",
+              "title": "Vid\u00e9o de Formation - L'arbre \u00e0 probl\u00e8mes",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "fr",
+              "derive_thumbnail": true,
+              "files": [
+                {
+                  "file_type": "VideoFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Modules de support pour la formation continue/10fr_larbre_probleme/08_fr10_video.mp4",
+                  "language": "fr"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "TopicNode",
+          "dirname": "11fr_theatre_image",
+          "source_id": "aflotoun:French/Modules de support pour la formation continue/11fr_theatre_image",
+          "title": "Le Th\u00e9\u00e2tre Image",
+          "description": "Le th\u00e9\u00e2tre d\u2019images offre aux enfants une m\u00e9thode d\u2019apprentissage actif cr\u00e9ative et ludique. Vous souvenez-vous avoir assist\u00e9 \u00e0 une s\u00e9ance consacr\u00e9e au th\u00e9\u00e2tre d\u2019images durant l\u2019atelier de formation des enseignants Aflatoun? Nous esp\u00e9rons que vous avez appr\u00e9ci\u00e9 ce module, qu\u2019il vous a permis de rafra\u00eechir votre m\u00e9moire, de mieux comprendre cet aspect de l\u2019apprentissage actif, et qu\u2019il vous a peut-\u00eatre donn\u00e9 de nouvelles id\u00e9es.",
+          "language": "fr",
+          "children": [
+            {
+              "kind": "DocumentNode",
+              "source_id": "aflotoun:French/Modules de support pour la formation continue/11fr_theatre_image/01_fr11_instruction.pdf",
+              "title": "Introduction et instructions",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "fr",
+              "files": [
+                {
+                  "file_type": "DocumentFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Modules de support pour la formation continue/11fr_theatre_image/01_fr11_instruction.pdf",
+                  "language": "fr"
+                }
+              ]
+            },
+            {
+              "kind": "VideoNode",
+              "source_id": "aflotoun:French/Modules de support pour la formation continue/11fr_theatre_image/02_fr11_animation.mp4",
+              "title": "L\u2019animation Th\u00e9\u00e2tre d\u2019images",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "fr",
+              "derive_thumbnail": true,
+              "files": [
+                {
+                  "file_type": "VideoFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Modules de support pour la formation continue/11fr_theatre_image/02_fr11_animation.mp4",
+                  "language": "fr"
+                }
+              ]
+            },
+            {
+              "kind": "DocumentNode",
+              "source_id": "aflotoun:French/Modules de support pour la formation continue/11fr_theatre_image/05_fr11_trainingmanual.pdf",
+              "title": "Texte pour le th\u00e9\u00e2tre d\u2019images",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "fr",
+              "files": [
+                {
+                  "file_type": "DocumentFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Modules de support pour la formation continue/11fr_theatre_image/05_fr11_trainingmanual.pdf",
+                  "language": "fr"
+                }
+              ]
+            },
+            {
+              "kind": "VideoNode",
+              "source_id": "aflotoun:French/Modules de support pour la formation continue/11fr_theatre_image/07_fr11_video.mp4",
+              "title": "Vid\u00e9o sur la formation des enseignants au Niger au moyen du Th\u00e9\u00e2tre d\u2019images",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "fr",
+              "derive_thumbnail": true,
+              "files": [
+                {
+                  "file_type": "VideoFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Modules de support pour la formation continue/11fr_theatre_image/07_fr11_video.mp4",
+                  "language": "fr"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "TopicNode",
+          "dirname": "12fr_tableau_cva",
+          "source_id": "aflotoun:French/Modules de support pour la formation continue/12fr_tableau_cva",
+          "title": "Le Tableau CVA",
+          "description": "Les tableaux CVA permettent de structurer votre cours et encouragent la participation directe  des enfants par le biais du remue-m\u00e9ninges. Nous sommes  certains que vous vous souvenez de ces tableaux pr\u00e9sent\u00e9s lors de l\u2019atelier de formation des enseignants d\u2019Aflatoun. Nous esp\u00e9rons que vous avez appr\u00e9ci\u00e9  ce module, qu\u2019il vous a permis de rafra\u00eechir votre m\u00e9moire, de mieux comprendre cette m\u00e9thode d\u2019apprentissage actif, et qu\u2019il vous a peut-\u00eatre donn\u00e9 de nouvelles id\u00e9es.",
+          "language": "fr",
+          "children": [
+            {
+              "kind": "DocumentNode",
+              "source_id": "aflotoun:French/Modules de support pour la formation continue/12fr_tableau_cva/01_fr12_instruction.pdf",
+              "title": "Introduction et instructions",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "fr",
+              "files": [
+                {
+                  "file_type": "DocumentFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Modules de support pour la formation continue/12fr_tableau_cva/01_fr12_instruction.pdf",
+                  "language": "fr"
+                }
+              ]
+            },
+            {
+              "kind": "VideoNode",
+              "source_id": "aflotoun:French/Modules de support pour la formation continue/12fr_tableau_cva/02_fr12_animation.mp4",
+              "title": "Le Tableau CVA",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "fr",
+              "derive_thumbnail": true,
+              "files": [
+                {
+                  "file_type": "VideoFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Modules de support pour la formation continue/12fr_tableau_cva/02_fr12_animation.mp4",
+                  "language": "fr"
+                }
+              ]
+            },
+            {
+              "kind": "VideoNode",
+              "source_id": "aflotoun:French/Modules de support pour la formation continue/12fr_tableau_cva/04_fr12_animation.mp4",
+              "title": "Vid\u00e9o sur la formation des enseignants au Niger sur Les Tableaux CVA.",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "fr",
+              "derive_thumbnail": true,
+              "files": [
+                {
+                  "file_type": "VideoFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Modules de support pour la formation continue/12fr_tableau_cva/04_fr12_animation.mp4",
+                  "language": "fr"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "TopicNode",
+          "dirname": "13fr_cartes_memoire",
+          "source_id": "aflotoun:French/Modules de support pour la formation continue/13fr_cartes_memoire",
+          "title": "Cartes m\u00e9moire",
+          "description": "Vous rappelez peut-\u00eatre avoir jou\u00e9 \u00e0 ce jeu de cartes lors d\u2019un atelier de formation des enseignants d\u2019Aflatoun dans le cadre d\u2019un exercice sur les droits et les responsabilit\u00e9s. Nous esp\u00e9rons que vous avez appr\u00e9ci\u00e9 ce module, qu\u2019il vous a permis de rafra\u00eechir votre m\u00e9moire, de mieux comprendre cette m\u00e9thode d\u2019apprentissage actif, et qu\u2019il vous  a  peut-\u00eatre  donn\u00e9   de nouvelles id\u00e9es.",
+          "language": "fr",
+          "children": [
+            {
+              "kind": "DocumentNode",
+              "source_id": "aflotoun:French/Modules de support pour la formation continue/13fr_cartes_memoire/01_fr13_instruction.pdf",
+              "title": "Introduction et instructions",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "fr",
+              "files": [
+                {
+                  "file_type": "DocumentFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Modules de support pour la formation continue/13fr_cartes_memoire/01_fr13_instruction.pdf",
+                  "language": "fr"
+                }
+              ]
+            },
+            {
+              "kind": "VideoNode",
+              "source_id": "aflotoun:French/Modules de support pour la formation continue/13fr_cartes_memoire/02_fr13_animation.mp4",
+              "title": "L\u2019animation Cartes m\u00e9moire",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "fr",
+              "derive_thumbnail": true,
+              "files": [
+                {
+                  "file_type": "VideoFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Modules de support pour la formation continue/13fr_cartes_memoire/02_fr13_animation.mp4",
+                  "language": "fr"
+                }
+              ]
+            },
+            {
+              "kind": "DocumentNode",
+              "source_id": "aflotoun:French/Modules de support pour la formation continue/13fr_cartes_memoire/05_fr13_text.pdf",
+              "title": "La s\u00e9ance du manuel de formation sur les cartes m\u00e9moire",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "fr",
+              "files": [
+                {
+                  "file_type": "DocumentFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Modules de support pour la formation continue/13fr_cartes_memoire/05_fr13_text.pdf",
+                  "language": "fr"
+                }
+              ]
+            },
+            {
+              "kind": "VideoNode",
+              "source_id": "aflotoun:French/Modules de support pour la formation continue/13fr_cartes_memoire/07_fr13_animation.mp4",
+              "title": "Vid\u00e9o sur la formation sur les carte memories",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "fr",
+              "derive_thumbnail": true,
+              "files": [
+                {
+                  "file_type": "VideoFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Modules de support pour la formation continue/13fr_cartes_memoire/07_fr13_animation.mp4",
+                  "language": "fr"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "TopicNode",
+          "dirname": "14fr_travail_de_groupe",
+          "source_id": "aflotoun:French/Modules de support pour la formation continue/14fr_travail_de_groupe",
+          "title": "Travail de groupe",
+          "description": "Travail de groupe.",
+          "language": "fr",
+          "children": [
+            {
+              "kind": "DocumentNode",
+              "source_id": "aflotoun:French/Modules de support pour la formation continue/14fr_travail_de_groupe/01_fr14_instruction.pdf",
+              "title": "Introduction et instructions.",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "fr",
+              "files": [
+                {
+                  "file_type": "DocumentFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Modules de support pour la formation continue/14fr_travail_de_groupe/01_fr14_instruction.pdf",
+                  "language": "fr"
+                }
+              ]
+            },
+            {
+              "kind": "VideoNode",
+              "source_id": "aflotoun:French/Modules de support pour la formation continue/14fr_travail_de_groupe/02_fr14_animation.mp4",
+              "title": "L\u2019animation M\u00e9thode puzzle",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "fr",
+              "derive_thumbnail": true,
+              "files": [
+                {
+                  "file_type": "VideoFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Modules de support pour la formation continue/14fr_travail_de_groupe/02_fr14_animation.mp4",
+                  "language": "fr"
+                }
+              ]
+            },
+            {
+              "kind": "DocumentNode",
+              "source_id": "aflotoun:French/Modules de support pour la formation continue/14fr_travail_de_groupe/04_fr14_text.pdf",
+              "title": "Quelques conseils pour le travail de groupe",
+              "author": "Aflatoun",
+              "description": null,
+              "language": "fr",
+              "files": [
+                {
+                  "file_type": "DocumentFile",
+                  "path": "/Users/ivan/Projects/FLECode/sushi-chef-aflatoun/content/aflatoun_tree/aflatoun/French/Modules de support pour la formation continue/14fr_travail_de_groupe/04_fr14_text.pdf",
+                  "language": "fr"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
