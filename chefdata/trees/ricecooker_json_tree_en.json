@@ -31,34 +31,6 @@
               "language": "en",
               "children": [
                 {
-                  "kind": "exercise",
-                  "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl41.1/01aaaflbk41.1wuq.exercise.zip",
-                  "title": "Warm up Quiz",
-                  "author": "Aflatoun",
-                  "description": "This is Aflatoun. Where did he comes from?  <zip||metadata> Quiz on introduction to aflatoun.",
-                  "language": "en",
-                  "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
-                  },
-                  "questions": [
-                    {
-                      "question_type": "single_selection",
-                      "id": "301",
-                      "question": "![](web+local://60b6c0cd92ca746a6f71e5f7c9d34b1c384021ab.png)\n\nAflatoun comes from:",
-                      "correct_answer": "outer space",
-                      "all_answers": [
-                        "**India**",
-                        "outer space",
-                        "Antarctica",
-                        "Amsterdam"
-                      ],
-                      "hints": []
-                    }
-                  ]
-                },
-                {
                   "kind": "document",
                   "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl41.1/02AAAflBk41.1IntroductionToAflatoun.pdf",
                   "title": "Introduction to Aflatoun",

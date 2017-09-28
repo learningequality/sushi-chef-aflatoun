@@ -31,34 +31,6 @@
               "language": "fr",
               "children": [
                 {
-                  "kind": "exercise",
-                  "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 4e\u0300me niveau/faafl41.1/01faafl41.1qp.exercise.zip",
-                  "title": "01faafl41.1qp.exercise.zip",
-                  "author": "Aflatoun",
-                  "description": "Quiz de pr\u00e9paration  <zip||metadata> None",
-                  "language": "fr",
-                  "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
-                  },
-                  "questions": [
-                    {
-                      "question_type": "single_selection",
-                      "id": "178",
-                      "question": "![](web+local://60b6c0cd92ca746a6f71e5f7c9d34b1c384021ab.png)\nVoici Aflatoun. Que connais-tu \u00e0 son sujet?\nAflatoun vient:",
-                      "correct_answer": "d\u2019Inde",
-                      "all_answers": [
-                        "d\u2019Inde",
-                        "de l\u2019espace",
-                        "d\u2019Antarctique",
-                        "d\u2019Amsterdam"
-                      ],
-                      "hints": []
-                    }
-                  ]
-                },
-                {
                   "kind": "document",
                   "source_id": "aflotoun:French/Les Se\u0301ries Aflatoun/Plan de lec\u0327on 4e\u0300me niveau/faafl41.1/02FAAfl41.1PlandeCours.pdf",
                   "title": "Introduction a Aflatoun",
