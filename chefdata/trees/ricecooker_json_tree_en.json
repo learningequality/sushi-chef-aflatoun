@@ -1,7 +1,7 @@
 {
   "source_domain": "aflatoun.org",
   "source_id": "aflatoun-en",
-  "title": "Aflatoun Academy (EN)",
+  "title": "Aflatoun Academy (en)",
   "thumbnail": "./content/images/aflatoun_logo.jpg",
   "description": "Aflatoun International offers social and financial education to millions of children and young people worldwide, empowering them to make a positive change for a more equitable world.",
   "language": "en",
@@ -38,9 +38,9 @@
                   "description": null,
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "files": [
                     {
@@ -55,12 +55,12 @@
                   "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl41.1/03aaaflbk41.1lbq.exercise.zip",
                   "title": "Looking Back Quiz",
                   "author": "Aflatoun",
-                  "description": "Fill in your answer or select the right option:  <zip||metadata> Quiz on introduction to aflatoun.",
+                  "description": "Quiz on introduction to aflatoun. Fill in your answer or select the right option:",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "questions": [
                     {
@@ -103,12 +103,12 @@
                   "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl41.2/01aaaflbk41.2wuq.exercise.zip",
                   "title": "Warm up Quiz",
                   "author": "Aflatoun",
-                  "description": "Looking forward to today\u2019s lesson! Just a question before we start  <zip||metadata> Quiz on the aflatoun movement.",
+                  "description": "Quiz on the aflatoun movement. Looking forward to today\u2019s lesson! Just a question before we start",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "questions": [
                     {
@@ -133,9 +133,9 @@
                   "description": null,
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "files": [
                     {
@@ -150,12 +150,12 @@
                   "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl41.2/03aaaflbk41.2lbq.exercise.zip",
                   "title": "Looking Back Quiz",
                   "author": "Aflatoun",
-                  "description": "Fill in your answer or select the right option.  <zip||metadata> Quiz on the aflatoun movement.",
+                  "description": "Quiz on the aflatoun movement. Fill in your answer or select the right option.",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "questions": [
                     {
@@ -188,12 +188,12 @@
                   "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl41.3/01aaaflbk41.3wuq.exercise.zip",
                   "title": "Warm up Quiz",
                   "author": "Aflatoun",
-                  "description": "Today we will talk about Aflatoun clubs.  <zip||metadata> Quiz on starting the club.",
+                  "description": "Quiz on starting the club. Today we will talk about Aflatoun clubs.",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "questions": [
                     {
@@ -218,9 +218,9 @@
                   "description": null,
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "files": [
                     {
@@ -235,12 +235,12 @@
                   "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl41.3/03aaaflbk41.3lbq.exercise.zip",
                   "title": "Looking Back Quiz",
                   "author": "Aflatoun",
-                  "description": "Quiz on starting the club.  <zip||metadata> Quiz on starting the club.",
+                  "description": "Quiz on starting the club.",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "questions": [
                     {
@@ -272,12 +272,12 @@
                   "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl41.4/01aaaflbk41.4wuq.exercise.zip",
                   "title": "Warm up Quiz",
                   "author": "Aflatoun",
-                  "description": "Before we start today\u2019s lesson let\u2019s take a moment for this question:  <zip||metadata> Quiz on institutions for social support.",
+                  "description": "Quiz on institutions for social support. Before we start today\u2019s lesson let\u2019s take a moment for this question:",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "questions": [
                     {
@@ -302,9 +302,9 @@
                   "description": null,
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "files": [
                     {
@@ -319,12 +319,12 @@
                   "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl41.4/03aaaflbk41.4lbq.exercise.zip",
                   "title": "Looking Back Quiz",
                   "author": "Aflatoun",
-                  "description": "Quiz on institutions for social support.  <zip||metadata> Quiz on institutions for social support.",
+                  "description": "Quiz on institutions for social support.",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "questions": [
                     {
@@ -350,9 +350,9 @@
                   "description": null,
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "derive_thumbnail": true,
                   "files": [
@@ -378,12 +378,12 @@
                   "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl41.5/01aaaflbk41.5wuq.exercise.zip",
                   "title": "Warm up Quiz",
                   "author": "Aflatoun",
-                  "description": "Today we will talk about our height and weight.  <zip||metadata> Quiz on knowing one\u2019s heights and weight.",
+                  "description": "Quiz on knowing one\u2019s heights and weight. Today we will talk about our height and weight.",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "questions": [
                     {
@@ -408,9 +408,9 @@
                   "description": null,
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "files": [
                     {
@@ -425,12 +425,12 @@
                   "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl41.5/03aaaflbk41.5lbq.exercise.zip",
                   "title": "Looking Back Quiz",
                   "author": "Aflatoun",
-                  "description": "We learned a lot about measuring today.  <zip||metadata> Quiz on knowing one\u2019s heights and weight.",
+                  "description": "Quiz on knowing one\u2019s heights and weight. We learned a lot about measuring today.",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "questions": [
                     {
@@ -463,12 +463,12 @@
                   "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl41.6/01aaaflbk41.6wuq.exercise.zip",
                   "title": "Warm up Quiz",
                   "author": "Aflatoun",
-                  "description": "The topic of today is dreams.  <zip||metadata> Quiz on  inspiring the young to meet their goals.",
+                  "description": "Quiz on  inspiring the young to meet their goals. The topic of today is dreams.",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "questions": [
                     {
@@ -493,9 +493,9 @@
                   "description": null,
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "files": [
                     {
@@ -510,12 +510,12 @@
                   "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl41.6/03aaaflbk41.6lbq.exercise.zip",
                   "title": "Looking Back Quiz",
                   "author": "Aflatoun",
-                  "description": "Select the right answer:  <zip||metadata> Quiz on  inspiring the young to meet their goals.",
+                  "description": "Quiz on  inspiring the young to meet their goals. Select the right answer:",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "questions": [
                     {
@@ -548,12 +548,12 @@
                   "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl42.1/01aaaflbk42.1wuq.exercise.zip",
                   "title": "Warm up Quiz",
                   "author": "Aflatoun",
-                  "description": "The topic of today is child rights. Maybe you have heard of them before?  <zip||metadata> Quiz on knowing one\u2019s rights and responsibilities.",
+                  "description": "Quiz on knowing one\u2019s rights and responsibilities. The topic of today is child rights. Maybe you have heard of them before?",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "questions": [
                     {
@@ -579,9 +579,9 @@
                   "description": null,
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "files": [
                     {
@@ -596,12 +596,12 @@
                   "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl42.1/03aaaflbk42.1lbq.exercise.zip",
                   "title": "Looking Back Quiz",
                   "author": "Aflatoun",
-                  "description": "Quiz on knowing one\u2019s rights and responsibilities.  <zip||metadata> Quiz on knowing one\u2019s rights and responsibilities.",
+                  "description": "Quiz on knowing one\u2019s rights and responsibilities.",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "questions": [
                     {
@@ -627,9 +627,9 @@
                   "description": null,
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "derive_thumbnail": true,
                   "files": [
@@ -655,12 +655,12 @@
                   "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl42.2/01aaaflbk42.2wuq.exercise.zip",
                   "title": "Warm up Quiz",
                   "author": "Aflatoun",
-                  "description": "Today we will talk about safety and risks.  <zip||metadata> Quiz on safety and risk.",
+                  "description": "Quiz on safety and risk. Today we will talk about safety and risks.",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "questions": [
                     {
@@ -691,9 +691,9 @@
                   "description": null,
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "files": [
                     {
@@ -708,12 +708,12 @@
                   "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl42.2/03aaaflbk42.2lbq.exercise.zip",
                   "title": "Looking Back Quiz",
                   "author": "Aflatoun",
-                  "description": "Quiz on safety and risk.  <zip||metadata> Quiz on safety and risk.",
+                  "description": "Quiz on safety and risk.",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "questions": [
                     {
@@ -738,9 +738,9 @@
                   "description": null,
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "derive_thumbnail": true,
                   "files": [
@@ -766,12 +766,12 @@
                   "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl42.3/01aaaflbk42.3wuq.exercise.zip",
                   "title": "Warm up Quiz",
                   "author": "Aflatoun",
-                  "description": "Select the right answer.  <zip||metadata> Quiz on analysing gender bias.",
+                  "description": "Quiz on analysing gender bias. Select the right answer.",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "questions": [
                     {
@@ -796,9 +796,9 @@
                   "description": null,
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "files": [
                     {
@@ -813,12 +813,12 @@
                   "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl42.3/03aaaflbk42.3lbq.exercise.zip",
                   "title": "Looking Back Quiz",
                   "author": "Aflatoun",
-                  "description": "Quiz on analysing gender bias.  <zip||metadata> Quiz on analysing gender bias.",
+                  "description": "Quiz on analysing gender bias.",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "questions": [
                     {
@@ -841,9 +841,9 @@
                   "description": "The benefits of brainstorming as a classroom tool.",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "derive_thumbnail": true,
                   "files": [
@@ -869,12 +869,12 @@
                   "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl42.4/01aaaflbk42.4wuq.exercise.zip",
                   "title": "Warm up Quiz",
                   "author": "Aflatoun",
-                  "description": "Today we talk about our history and about where we belong.  <zip||metadata> Quiz on our history - who we are.",
+                  "description": "Quiz on our history - who we are. Today we talk about our history and about where we belong.",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "questions": [
                     {
@@ -903,9 +903,9 @@
                   "description": null,
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "files": [
                     {
@@ -920,12 +920,12 @@
                   "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl42.4/03aaaflbk42.4lbq.exercise.zip",
                   "title": "Looking Back Quiz",
                   "author": "Aflatoun",
-                  "description": "Quiz on our history - who we are.  <zip||metadata> Quiz on our history - who we are.",
+                  "description": "Quiz on our history - who we are.",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "questions": [
                     {
@@ -958,12 +958,12 @@
                   "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl43.1/01aaaflbk43.1wuq.exercise.zip",
                   "title": "Warm up Quiz",
                   "author": "Aflatoun",
-                  "description": "Quiz on organising savings.  <zip||metadata> Quiz on organising savings.",
+                  "description": "Quiz on organising savings.",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "questions": [
                     {
@@ -990,9 +990,9 @@
                   "description": null,
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "files": [
                     {
@@ -1007,12 +1007,12 @@
                   "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl43.1/03aaaflbk43.1lbq.exercise.zip",
                   "title": "Looking Back Quiz",
                   "author": "Aflatoun",
-                  "description": "Quiz on organising savings.  <zip||metadata> Quiz on organising savings.",
+                  "description": "Quiz on organising savings.",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "questions": [
                     {
@@ -1045,12 +1045,12 @@
                   "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl43.2/01aaaflbk43.2wuq.exercise.zip",
                   "title": "Warm up Quiz",
                   "author": "Aflatoun",
-                  "description": "Today we will talk about saving options. Many people save at a bank.  <zip||metadata> Quiz on savings options.",
+                  "description": "Quiz on savings options. Today we will talk about saving options. Many people save at a bank.",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "questions": [
                     {
@@ -1078,9 +1078,9 @@
                   "description": null,
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "files": [
                     {
@@ -1095,12 +1095,12 @@
                   "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl43.2/03aaaflbk43.2lbq.exercise.zip",
                   "title": "Looking Back Quiz",
                   "author": "Aflatoun",
-                  "description": "Quiz on savings options.  <zip||metadata> Quiz on savings options.",
+                  "description": "Quiz on savings options.",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "questions": [
                     {
@@ -1126,9 +1126,9 @@
                   "description": "The benefits of brainstorming as a classroom tool.",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "derive_thumbnail": true,
                   "files": [
@@ -1154,12 +1154,12 @@
                   "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl43.3/01aaaflbk43.3wuq.exercise.zip",
                   "title": "Warm up Quiz",
                   "author": "Aflatoun",
-                  "description": "When we talk about managing our finances and other resources we talk about the difference between \u2018needs\u2019 and \u2018wants\u2019 today.  <zip||metadata> Quiz on managing one\u2019s finances and resources.",
+                  "description": "Quiz on managing one\u2019s finances and resources. When we talk about managing our finances and other resources we talk about the difference between \u2018needs\u2019 and \u2018wants\u2019 today.",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "questions": [
                     {
@@ -1184,9 +1184,9 @@
                   "description": null,
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "files": [
                     {
@@ -1201,12 +1201,12 @@
                   "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl43.3/03aaaflbk43.3lbq.exercise.zip",
                   "title": "Looking Back Quiz",
                   "author": "Aflatoun",
-                  "description": "Quiz on managing one\u2019s finances and resources.  <zip||metadata> Quiz on managing one\u2019s finances and resources.",
+                  "description": "Quiz on managing one\u2019s finances and resources.",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "questions": [
                     {
@@ -1239,12 +1239,12 @@
                   "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl43.4/01aaaflbk43.4wuq.exercise.zip",
                   "title": "Warm up Quiz",
                   "author": "Aflatoun",
-                  "description": "Let\u2019s see if you remember.  <zip||metadata> Quiz on saving as a way of life.",
+                  "description": "Quiz on saving as a way of life. Let\u2019s see if you remember.",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "questions": [
                     {
@@ -1269,9 +1269,9 @@
                   "description": null,
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "files": [
                     {
@@ -1286,12 +1286,12 @@
                   "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl43.4/03aaaflbk43.4lbq.exercise.zip",
                   "title": "Looking Back Quiz",
                   "author": "Aflatoun",
-                  "description": "Select the right answers.  <zip||metadata> Quiz on saving as a way of life.",
+                  "description": "Quiz on saving as a way of life. Select the right answers.",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "questions": [
                     {
@@ -1344,12 +1344,12 @@
                   "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl43.5/01aaaflbk43.5wuq.exercise.zip",
                   "title": "Warm up Quiz",
                   "author": "Aflatoun",
-                  "description": "True or false quiz on the benefits of trees.  <zip||metadata> Quiz on the benefits and damaging aspects of the environment.",
+                  "description": "Quiz on the benefits and damaging aspects of the environment. True or false quiz on the benefits of trees.",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "questions": [
                     {
@@ -1409,9 +1409,9 @@
                   "description": null,
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "files": [
                     {
@@ -1426,12 +1426,12 @@
                   "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl43.5/03aaaflbk43.5lbq.exercise.zip",
                   "title": "Looking Back Quiz",
                   "author": "Aflatoun",
-                  "description": "Quiz on the benefits and damaging aspects of the environment.  <zip||metadata> Quiz on the benefits and damaging aspects of the environment.",
+                  "description": "Quiz on the benefits and damaging aspects of the environment.",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "questions": [
                     {
@@ -1463,12 +1463,12 @@
                   "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl44.1/01aaaflbk44.1wuq.exercise.zip",
                   "title": "Warm up Quiz",
                   "author": "Aflatoun",
-                  "description": "In this lesson you will learn more about what projects or enterprises other Aflatoun clubs worked on.  <zip||metadata> Quiz on organising an enterprise.",
+                  "description": "Quiz on organising an enterprise. In this lesson you will learn more about what projects or enterprises other Aflatoun clubs worked on.",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "questions": [
                     {
@@ -1505,9 +1505,9 @@
                   "description": null,
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "files": [
                     {
@@ -1522,12 +1522,12 @@
                   "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl44.1/03aaaflbk44.1lbq.exercise.zip",
                   "title": "Looking Back Quiz",
                   "author": "Aflatoun",
-                  "description": "Quiz on organising an enterprise.  <zip||metadata> Quiz on organising an enterprise.",
+                  "description": "Quiz on organising an enterprise.",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "questions": [
                     {
@@ -1576,9 +1576,9 @@
                   "description": "The benefits of brainstorming as a classroom tool.",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "derive_thumbnail": true,
                   "files": [
@@ -1604,12 +1604,12 @@
                   "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl44.2/01aaaflbk44.2wuq.exercise.zip",
                   "title": "Warm up Quiz",
                   "author": "Aflatoun",
-                  "description": "Quiz on organising aflatoun day.  <zip||metadata> Quiz on organising aflatoun day.",
+                  "description": "Quiz on organising aflatoun day.",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "questions": [
                     {
@@ -1634,9 +1634,9 @@
                   "description": null,
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "files": [
                     {
@@ -1651,12 +1651,12 @@
                   "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl44.2/03aaaflbk44.2lbq.exercise.zip",
                   "title": "Looking Back Quiz",
                   "author": "Aflatoun",
-                  "description": "Quiz on organising Aflatoun day.  <zip||metadata> Quiz on organising aflatoun day.",
+                  "description": "Quiz on organising aflatoun day. Quiz on organising Aflatoun day.",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "questions": [
                     {
@@ -1681,9 +1681,9 @@
                   "description": "The benefits of brainstorming as a classroom tool.",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "derive_thumbnail": true,
                   "files": [
@@ -1709,12 +1709,12 @@
                   "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl44.3/01aaaflbk44.3wuq.exercise.zip",
                   "title": "Warm up Quiz",
                   "author": "Aflatoun",
-                  "description": "Select the right answer.  <zip||metadata> Quiz on long-, medium- and short-term goals.",
+                  "description": "Quiz on long-, medium- and short-term goals. Select the right answer.",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "questions": [
                     {
@@ -1739,9 +1739,9 @@
                   "description": null,
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "files": [
                     {
@@ -1756,12 +1756,12 @@
                   "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl44.3/03aaaflbk44.3lbq.exercise.zip",
                   "title": "Looking Back Quiz",
                   "author": "Aflatoun",
-                  "description": "Quiz on long-, medium- and short-term  <zip||metadata> Quiz on long-, medium- and short-term goals.",
+                  "description": "Quiz on long-, medium- and short-term goals. Quiz on long-, medium- and short-term",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "questions": [
                     {
@@ -1800,12 +1800,12 @@
                   "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl44.4/01aaaflbk44.4wuq.exercise.zip",
                   "title": "Warm up Quiz",
                   "author": "Aflatoun",
-                  "description": "Are you part of a team when you:  <zip||metadata> Quiz on collaboration skills and attributes for group work.",
+                  "description": "Quiz on collaboration skills and attributes for group work. Are you part of a team when you:",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "questions": [
                     {
@@ -1876,9 +1876,9 @@
                   "description": null,
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "files": [
                     {
@@ -1893,12 +1893,12 @@
                   "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl44.4/03aaaflbk44.4lbq.exercise.zip",
                   "title": "Looking Back Quiz",
                   "author": "Aflatoun",
-                  "description": "Quiz on organising an enterprise.  <zip||metadata> Quiz on collaboration skills and attributes for group work.",
+                  "description": "Quiz on collaboration skills and attributes for group work. Quiz on organising an enterprise.",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "questions": [
                     {
@@ -1923,9 +1923,9 @@
                   "description": "The benefits of brainstorming as a classroom tool.",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "derive_thumbnail": true,
                   "files": [
@@ -1951,12 +1951,12 @@
                   "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl44.5/01aaaflbk44.5wuq.exercise.zip",
                   "title": "Warm up Quiz",
                   "author": "Aflatoun",
-                  "description": "Test you knowledge on malaria here.  <zip||metadata> Quiz on social inclusion for improvement of livelihoods.",
+                  "description": "Quiz on social inclusion for improvement of livelihoods. Test you knowledge on malaria here.",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "questions": [
                     {
@@ -2002,9 +2002,9 @@
                   "description": null,
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "files": [
                     {
@@ -2019,12 +2019,12 @@
                   "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl44.5/03aaaflbk44.5lbq.exercise.zip",
                   "title": "Looking Back Quiz",
                   "author": "Aflatoun",
-                  "description": "Check your knowledge on malaria again.  <zip||metadata> Quiz on social inclusion for improvement of livelihoods.",
+                  "description": "Quiz on social inclusion for improvement of livelihoods. Check your knowledge on malaria again.",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "questions": [
                     {
@@ -2049,9 +2049,9 @@
                   "description": "The benefits of brainstorming as a classroom tool.",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "derive_thumbnail": true,
                   "files": [
@@ -2077,12 +2077,12 @@
                   "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl44.6/01aaaflbk44.6wuq.exercise.zip",
                   "title": "Warm up Quiz",
                   "author": "Aflatoun",
-                  "description": "Quiz on social inclusion for improvement of livelihoods.  <zip||metadata> Quiz on financial enterprises in a community.",
+                  "description": "Quiz on financial enterprises in a community. Quiz on social inclusion for improvement of livelihoods.",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "questions": [
                     {
@@ -2107,9 +2107,9 @@
                   "description": null,
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "files": [
                     {
@@ -2124,12 +2124,12 @@
                   "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl44.6/03aaaflbk44.6lbq.exercise.zip",
                   "title": "Looking Back Quiz",
                   "author": "Aflatoun",
-                  "description": "In the next lesson we will talk about entrepreneurship and enterprises. But before that it is important to know more about child labour. Test you knowledge here:  <zip||metadata> Quiz on financial enterprises in a community.",
+                  "description": "Quiz on financial enterprises in a community. In the next lesson we will talk about entrepreneurship and enterprises. But before that it is important to know more about child labour. Test you knowledge here:",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "questions": [
                     {
@@ -2161,12 +2161,12 @@
                   "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl44.7/01aaaflbk44.7wuq.exercise.zip",
                   "title": "Warm up Quiz",
                   "author": "Aflatoun",
-                  "description": "Quiz on career and occupation skills.  <zip||metadata> Quiz on career and occupation skills.",
+                  "description": "Quiz on career and occupation skills.",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "questions": [
                     {
@@ -2193,9 +2193,9 @@
                   "description": null,
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "files": [
                     {
@@ -2210,12 +2210,12 @@
                   "source_id": "aflotoun:English/Aflatoun Series/Book 4/aaafl44.7/03aaaflbk44.7lbq.exercise.zip",
                   "title": "Looking Back Quiz",
                   "author": "Aflatoun",
-                  "description": "Quiz on career and occupation skills.  <zip||metadata> Quiz on career and occupation skills.",
+                  "description": "Quiz on career and occupation skills.",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "questions": [
                     {
@@ -2258,12 +2258,12 @@
                   "source_id": "aflotoun:English/Aflatoun Series/Book 5/aaafl51.1/01aaafl51.1wuq.exercise.zip",
                   "title": "Warm up Quiz",
                   "author": "Aflatoun",
-                  "description": "Today we are going to talk about Aflatoun. Maybe you have already heard of him but maybe not. Here we are just testing what you know about him. Don\u2019t worry if you don\u2019t know the answer yet! You will learn all in the coming lesson.  <zip||metadata> Quiz on introduction to aflatoun.",
+                  "description": "Quiz on introduction to aflatoun. Today we are going to talk about Aflatoun. Maybe you have already heard of him but maybe not. Here we are just testing what you know about him. Don\u2019t worry if you don\u2019t know the answer yet! You will learn all in the coming lesson.",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "questions": [
                     {
@@ -2288,9 +2288,9 @@
                   "description": null,
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "files": [
                     {
@@ -2305,12 +2305,12 @@
                   "source_id": "aflotoun:English/Aflatoun Series/Book 5/aaafl51.1/03aaafl51.1lbq.exercise.zip",
                   "title": "Looking Back Quiz",
                   "author": "Aflatoun",
-                  "description": "Select the right option:  <zip||metadata> Quiz on introduction to aflatoun.",
+                  "description": "Quiz on introduction to aflatoun. Select the right option:",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "questions": [
                     {
@@ -2342,12 +2342,12 @@
                   "source_id": "aflotoun:English/Aflatoun Series/Book 5/aaafl51.2/01aaafl51.2wuq.exercise.zip",
                   "title": "Warm up Quiz",
                   "author": "Aflatoun",
-                  "description": "Looking forward to today's lesson! But before we start please fill in your answer or select the right option.  <zip||metadata> Quiz on the aflatoun movement.",
+                  "description": "Quiz on the aflatoun movement. Looking forward to today's lesson! But before we start please fill in your answer or select the right option.",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "questions": [
                     {
@@ -2373,9 +2373,9 @@
                   "description": null,
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "files": [
                     {
@@ -2390,12 +2390,12 @@
                   "source_id": "aflotoun:English/Aflatoun Series/Book 5/aaafl51.2/03aaafl51.2lbq.exercise.zip",
                   "title": "Looking Back Quiz",
                   "author": "Aflatoun",
-                  "description": "Fill in or select the right answer.  <zip||metadata> Quiz on the aflatoun movement.",
+                  "description": "Quiz on the aflatoun movement. Fill in or select the right answer.",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "questions": [
                     {
@@ -2427,12 +2427,12 @@
                   "source_id": "aflotoun:English/Aflatoun Series/Book 5/aaafl51.3/01aaafl51.3wuq.exercise.zip",
                   "title": "Warm up Quiz",
                   "author": "Aflatoun",
-                  "description": "Today we will talk about Aflatoun clubs. Let\u2019s start with some general questions about clubs: True or False?  <zip||metadata> Quiz on starting the club.",
+                  "description": "Quiz on starting the club. Today we will talk about Aflatoun clubs. Let\u2019s start with some general questions about clubs: True or False?",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "questions": [
                     {
@@ -2501,9 +2501,9 @@
                   "description": null,
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "files": [
                     {
@@ -2518,12 +2518,12 @@
                   "source_id": "aflotoun:English/Aflatoun Series/Book 5/aaafl51.3/03aaafl51.3lbq.exercise.zip",
                   "title": "Looking Back Quiz",
                   "author": "Aflatoun",
-                  "description": "Select the right answer:  <zip||metadata> Quiz on starting the club.",
+                  "description": "Quiz on starting the club. Select the right answer:",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "questions": [
                     {
@@ -2555,12 +2555,12 @@
                   "source_id": "aflotoun:English/Aflatoun Series/Book 5/aaafl51.4/01aaafl51.4wuq.exercise.zip",
                   "title": "Warm up Quiz",
                   "author": "Aflatoun",
-                  "description": "Before we start today\u2019s lesson let\u2019s take a moment for these questions: True or False?  <zip||metadata> Quiz on social inclusion And equality.",
+                  "description": "Quiz on social inclusion And equality. Before we start today\u2019s lesson let\u2019s take a moment for these questions: True or False?",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "questions": [
                     {
@@ -2642,9 +2642,9 @@
                   "description": null,
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "files": [
                     {
@@ -2659,12 +2659,12 @@
                   "source_id": "aflotoun:English/Aflatoun Series/Book 5/aaafl51.4/03aaafl51.4lbq.exercise.zip",
                   "title": "Looking Back Quiz",
                   "author": "Aflatoun",
-                  "description": "What did you learn about Social Networks? Test your knowledge here. \nWho can be part of your Social Network? True or False:  <zip||metadata> Quiz on social inclusion And equality.",
+                  "description": "Quiz on social inclusion And equality. What did you learn about Social Networks? Test your knowledge here. \nWho can be part of your Social Network? True or False:",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "questions": [
                     {
@@ -2723,12 +2723,12 @@
                   "source_id": "aflotoun:English/Aflatoun Series/Book 5/aaafl51.5/01aaafl51.5wuq.exercise.zip",
                   "title": "Warm up Quiz",
                   "author": "Aflatoun",
-                  "description": "Today we will talk about how you can deal with problems and find solutions. To do this it is important to know the cause and the effect of something. Let\u2019s try this out first and see if you can identify the effect of something:  <zip||metadata> Quiz on interpreting information gathered from a problem.",
+                  "description": "Quiz on interpreting information gathered from a problem. Today we will talk about how you can deal with problems and find solutions. To do this it is important to know the cause and the effect of something. Let\u2019s try this out first and see if you can identify the effect of something:",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "questions": [
                     {
@@ -2801,9 +2801,9 @@
                   "description": null,
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "files": [
                     {
@@ -2818,12 +2818,12 @@
                   "source_id": "aflotoun:English/Aflatoun Series/Book 5/aaafl51.5/03aaafl51.5lbq.exercise.zip",
                   "title": "Looking Back Quiz",
                   "author": "Aflatoun",
-                  "description": "Fill in the right answer:  <zip||metadata> Quiz on interpreting information gathered from a problem.",
+                  "description": "Quiz on interpreting information gathered from a problem. Fill in the right answer:",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "questions": [
                     {
@@ -2848,9 +2848,9 @@
                   "description": "It is a tool that trains children to think analytically, by encouraging children to identify the links between causes and effect.",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "derive_thumbnail": true,
                   "files": [
@@ -2876,12 +2876,12 @@
                   "source_id": "aflotoun:English/Aflatoun Series/Book 5/aaafl51.6/01aaafl51.6wuq.exercise.zip",
                   "title": "Warm up Quiz",
                   "author": "Aflatoun",
-                  "description": "Today we are talking about goals. There are short term, medium term and long term goals. To practice you can fill in the following quiz.  <zip||metadata> Quiz on milestones to achieving one\u2019s goals.",
+                  "description": "Quiz on milestones to achieving one\u2019s goals. Today we are talking about goals. There are short term, medium term and long term goals. To practice you can fill in the following quiz.",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "questions": [
                     {
@@ -2907,9 +2907,9 @@
                   "description": null,
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "files": [
                     {
@@ -2924,12 +2924,12 @@
                   "source_id": "aflotoun:English/Aflatoun Series/Book 5/aaafl51.6/03aaafl51.6lbq.exercise.zip",
                   "title": "Looking Back Quiz",
                   "author": "Aflatoun",
-                  "description": "Today you learned about short term and medium turn goals. Let\u2019s see if you can identify them now.  <zip||metadata> Quiz on milestones to achieving one\u2019s goals.",
+                  "description": "Quiz on milestones to achieving one\u2019s goals. Today you learned about short term and medium turn goals. Let\u2019s see if you can identify them now.",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "questions": [
                     {
@@ -2962,12 +2962,12 @@
                   "source_id": "aflotoun:English/Aflatoun Series/Book 5/aaafl52.1/01aaafl52.1wuq.exercise.zip",
                   "title": "Warm up Quiz",
                   "author": "Aflatoun",
-                  "description": "Children have rights. We will talk about them in the next module. Do you know some of them already? Which one is a right and which one is not?  <zip||metadata> Quiz on children\u2019s rights and barriers.",
+                  "description": "Quiz on children\u2019s rights and barriers. Children have rights. We will talk about them in the next module. Do you know some of them already? Which one is a right and which one is not?",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "questions": [
                     {
@@ -3016,9 +3016,9 @@
                   "description": null,
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "files": [
                     {
@@ -3033,12 +3033,12 @@
                   "source_id": "aflotoun:English/Aflatoun Series/Book 5/aaafl52.1/03aaafl52.1lbq.exercise.zip",
                   "title": "Looking Back Quiz",
                   "author": "Aflatoun",
-                  "description": "How would you help your friend? Select the correct answer.  <zip||metadata> Quiz on children\u2019s rights and barriers.",
+                  "description": "Quiz on children\u2019s rights and barriers. How would you help your friend? Select the correct answer.",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "questions": [
                     {
@@ -3118,12 +3118,12 @@
                   "source_id": "aflotoun:English/Aflatoun Series/Book 5/aaafl52.2/01aaafl52.2wuq.exercise.zip",
                   "title": "Warm up Quiz",
                   "author": "Aflatoun",
-                  "description": "This module is about who you trust and can go to for help.  <zip||metadata> Quiz on establishing positive relationships with trusted persons.",
+                  "description": "Quiz on establishing positive relationships with trusted persons. This module is about who you trust and can go to for help.",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "questions": [
                     {
@@ -3148,9 +3148,9 @@
                   "description": null,
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "files": [
                     {
@@ -3165,12 +3165,12 @@
                   "source_id": "aflotoun:English/Aflatoun Series/Book 5/aaafl52.2/03aaafl52.2lbq.exercise.zip",
                   "title": "Looking Back Quiz",
                   "author": "Aflatoun",
-                  "description": "True or False  <zip||metadata> Quiz on establishing positive relationships with trusted persons.",
+                  "description": "Quiz on establishing positive relationships with trusted persons. True or False",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "questions": [
                     {
@@ -3226,12 +3226,12 @@
                   "source_id": "aflotoun:English/Aflatoun Series/Book 5/aaafl52.3/01aaafl52.3wuq.exercise.zip",
                   "title": "Warm up Quiz",
                   "author": "Aflatoun",
-                  "description": "Today we will talk about gender.  <zip||metadata> Quiz on gender-based bias, discrimination and violence.",
+                  "description": "Quiz on gender-based bias, discrimination and violence. Today we will talk about gender.",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "questions": [
                     {
@@ -3268,9 +3268,9 @@
                   "description": null,
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "files": [
                     {
@@ -3285,12 +3285,12 @@
                   "source_id": "aflotoun:English/Aflatoun Series/Book 5/aaafl52.3/03aaafl52.3lbq.exercise.zip",
                   "title": "Looking Back Quiz",
                   "author": "Aflatoun",
-                  "description": "Which one is a gender stereotype? True or False?  <zip||metadata> Quiz on gender-based bias, discrimination and violence.",
+                  "description": "Quiz on gender-based bias, discrimination and violence. Which one is a gender stereotype? True or False?",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "questions": [
                     {
@@ -3343,12 +3343,12 @@
                   "source_id": "aflotoun:English/Aflatoun Series/Book 5/aaafl52.4/01aaafl52.4wuq.exercise.zip",
                   "title": "Warm up Quiz",
                   "author": "Aflatoun",
-                  "description": "Today we talk about diversity \u2013 or the difference between things. The opposite of diversity is uniformity \u2013 when things are somehow the same.\nWhich of the following statements represents uniformity? True or False  <zip||metadata> Quiz on new ways to look at things.",
+                  "description": "Quiz on new ways to look at things. Today we talk about diversity \u2013 or the difference between things. The opposite of diversity is uniformity \u2013 when things are somehow the same.\nWhich of the following statements represents uniformity? True or False",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "questions": [
                     {
@@ -3394,9 +3394,9 @@
                   "description": null,
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "files": [
                     {
@@ -3411,12 +3411,12 @@
                   "source_id": "aflotoun:English/Aflatoun Series/Book 5/aaafl52.4/03aaafl52.4lbq.exercise.zip",
                   "title": "Looking Back Quiz",
                   "author": "Aflatoun",
-                  "description": "True or False? Which of the examples is respectful behavior?  <zip||metadata> Quiz on new ways to look at things.",
+                  "description": "Quiz on new ways to look at things. True or False? Which of the examples is respectful behavior?",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "questions": [
                     {
@@ -3511,12 +3511,12 @@
                   "source_id": "aflotoun:English/Aflatoun Series/Book 5/aaafl53.1/01aaafl53.1wuq.exercise.zip",
                   "title": "Warm up Quiz",
                   "author": "Aflatoun",
-                  "description": "This module talks about saving. Most people think about money when they hear the word \u2018saving\u2019. But there are many other things you can save too.  <zip||metadata> Quiz on organising savings.",
+                  "description": "Quiz on organising savings. This module talks about saving. Most people think about money when they hear the word \u2018saving\u2019. But there are many other things you can save too.",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "questions": [
                     {
@@ -3548,9 +3548,9 @@
                   "description": null,
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "files": [
                     {
@@ -3565,12 +3565,12 @@
                   "source_id": "aflotoun:English/Aflatoun Series/Book 5/aaafl53.1/03aaafl53.1lbq.exercise.zip",
                   "title": "Looking Back Quiz",
                   "author": "Aflatoun",
-                  "description": "True or false?  <zip||metadata> Quiz on organising savings.",
+                  "description": "Quiz on organising savings. True or false?",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "questions": [
                     {
@@ -3615,12 +3615,12 @@
                   "source_id": "aflotoun:English/Aflatoun Series/Book 5/aaafl53.2/01aaafl53.2wuq.exercise.zip",
                   "title": "Warm up Quiz",
                   "author": "Aflatoun",
-                  "description": "Deciding how to spend your money  can be difficult. You could save it, spend it all as soon as you get it or share it.  <zip||metadata> Quiz on making financial choices.",
+                  "description": "Quiz on making financial choices. Deciding how to spend your money  can be difficult. You could save it, spend it all as soon as you get it or share it.",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "questions": [
                     {
@@ -3645,9 +3645,9 @@
                   "description": null,
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "files": [
                     {
@@ -3662,12 +3662,12 @@
                   "source_id": "aflotoun:English/Aflatoun Series/Book 5/aaafl53.2/03aaafl53.2lbq.exercise.zip",
                   "title": "Looking Back Quiz",
                   "author": "Aflatoun",
-                  "description": "Looking Back  <zip||metadata> Quiz on making financial choices.",
+                  "description": "Quiz on making financial choices. Looking Back",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "questions": [
                     {
@@ -3696,9 +3696,9 @@
                   "description": "The KWL Charts helps bring structure to your lesson and make it more efficient.",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "derive_thumbnail": true,
                   "files": [
@@ -3724,12 +3724,12 @@
                   "source_id": "aflotoun:English/Aflatoun Series/Book 5/aaafl53.3/01aaafl53.3wuq.exercise.zip",
                   "title": "Warm up Quiz",
                   "author": "Aflatoun",
-                  "description": "Select the right answer.  <zip||metadata> Quiz on personal budget.",
+                  "description": "Quiz on personal budget. Select the right answer.",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "questions": [
                     {
@@ -3755,9 +3755,9 @@
                   "description": null,
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "files": [
                     {
@@ -3772,12 +3772,12 @@
                   "source_id": "aflotoun:English/Aflatoun Series/Book 5/aaafl53.3/03aaafl53.3lbq.exercise.zip",
                   "title": "Looking Back Quiz",
                   "author": "Aflatoun",
-                  "description": "Select the right answer.  <zip||metadata> Quiz on personal budget.",
+                  "description": "Quiz on personal budget. Select the right answer.",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "questions": [
                     {
@@ -3833,12 +3833,12 @@
                   "source_id": "aflotoun:English/Aflatoun Series/Book 5/aaafl53.4/01aaafl53.4wuq.exercise.zip",
                   "title": "Warm up Quiz",
                   "author": "Aflatoun",
-                  "description": "Today we will discuss how we can make effective use of resources so let\u2019s get started! But first see how much you already know about the wasting of one natural resource: food. True or False?  <zip||metadata> Quiz on consumption habits of self, family and society.",
+                  "description": "Quiz on consumption habits of self, family and society. Today we will discuss how we can make effective use of resources so let\u2019s get started! But first see how much you already know about the wasting of one natural resource: food. True or False?",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "questions": [
                     {
@@ -3884,9 +3884,9 @@
                   "description": null,
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "files": [
                     {
@@ -3901,12 +3901,12 @@
                   "source_id": "aflotoun:English/Aflatoun Series/Book 5/aaafl53.4/03aaafl53.4lbq.exercise.zip",
                   "title": "Looking Back Quiz",
                   "author": "Aflatoun",
-                  "description": "Let\u2019s just think about the issue of food and food waste a bit more.\nWhich one of these statements is true, do you think?  <zip||metadata> Quiz on consumption habits of self, family and society.",
+                  "description": "Quiz on consumption habits of self, family and society. Let\u2019s just think about the issue of food and food waste a bit more.\nWhich one of these statements is true, do you think?",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "questions": [
                     {
@@ -3970,12 +3970,12 @@
                   "source_id": "aflotoun:English/Aflatoun Series/Book 5/aaafl53.5/01aaafl53.5wuq.exercise.zip",
                   "title": "Warm up Quiz",
                   "author": "Aflatoun",
-                  "description": "The earth provides us with natural resources. This will be the topic of today's lesson. Do you know already what natural resources are?  <zip||metadata> Quiz on natural and man-made environmental degradation.",
+                  "description": "Quiz on natural and man-made environmental degradation. The earth provides us with natural resources. This will be the topic of today's lesson. Do you know already what natural resources are?",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "questions": [
                     {
@@ -4004,9 +4004,9 @@
                   "description": null,
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "files": [
                     {
@@ -4021,12 +4021,12 @@
                   "source_id": "aflotoun:English/Aflatoun Series/Book 5/aaafl53.5/03aaafl53.5lbq.exercise.zip",
                   "title": "Looking Back Quiz",
                   "author": "Aflatoun",
-                  "description": "Select the right answer.  <zip||metadata> Quiz on natural and man-made environmental degradation.",
+                  "description": "Quiz on natural and man-made environmental degradation. Select the right answer.",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "questions": [
                     {
@@ -4051,9 +4051,9 @@
                   "description": "Image theatre is a tool that gives children the freedom to express their opinions and understanding of matteris in a quick and fun way.",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "derive_thumbnail": true,
                   "files": [
@@ -4079,12 +4079,12 @@
                   "source_id": "aflotoun:English/Aflatoun Series/Book 5/aaafl54.1/01aaafl54.1wuq.exercise.zip",
                   "title": "Warm up Quiz",
                   "author": "Aflatoun",
-                  "description": "Today we will make a plan together and carry it out. Before that let\u2019s think about making plans and planning in general by answering this question:  <zip||metadata> Quiz on organising an enterprise.",
+                  "description": "Quiz on organising an enterprise. Today we will make a plan together and carry it out. Before that let\u2019s think about making plans and planning in general by answering this question:",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "questions": [
                     {
@@ -4109,9 +4109,9 @@
                   "description": null,
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "files": [
                     {
@@ -4126,12 +4126,12 @@
                   "source_id": "aflotoun:English/Aflatoun Series/Book 5/aaafl54.1/03aaafl54.1lbq.exercise.zip",
                   "title": "Looking Back Quiz",
                   "author": "Aflatoun",
-                  "description": "Select the right answer.  <zip||metadata> Quiz on organising an enterprise.",
+                  "description": "Quiz on organising an enterprise. Select the right answer.",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "questions": [
                     {
@@ -4163,12 +4163,12 @@
                   "source_id": "aflotoun:English/Aflatoun Series/Book 5/aaafl54.2/01aaafl54.2wuq.exercise.zip",
                   "title": "Warm up Quiz",
                   "author": "Aflatoun",
-                  "description": "Your class has been doing all sorts of Aflatoun activities. The next thing you will do is to organize Aflatoun day.  <zip||metadata> Quiz on organising aflatoun day.",
+                  "description": "Quiz on organising aflatoun day. Your class has been doing all sorts of Aflatoun activities. The next thing you will do is to organize Aflatoun day.",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "questions": [
                     {
@@ -4193,9 +4193,9 @@
                   "description": null,
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "files": [
                     {
@@ -4210,12 +4210,12 @@
                   "source_id": "aflotoun:English/Aflatoun Series/Book 5/aaafl54.2/03aaafl54.2lbq.exercise.zip",
                   "title": "Looking Back Quiz",
                   "author": "Aflatoun",
-                  "description": "True or False? Which of these activities did other classes around the world organize on Aflatoun Day according to the examples given?  <zip||metadata> Quiz on organising aflatoun day.",
+                  "description": "Quiz on organising aflatoun day. True or False? Which of these activities did other classes around the world organize on Aflatoun Day according to the examples given?",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "questions": [
                     {
@@ -4282,12 +4282,12 @@
                   "source_id": "aflotoun:English/Aflatoun Series/Book 5/aaafl54.3/01aaafl54.3wuq.exercise.zip",
                   "title": "Warm up Quiz",
                   "author": "Aflatoun",
-                  "description": "Today we will talk again about long term and short term goals and plans. Let's see how much your remember. \n\nRead the following story:\nNaima is 12 years old. She wants to move to the regional capital when she is 17, after she has finished secondary school and start nursing college. She will be living with her aunt then. Naima wants to do well this year in school and pass to the next grade. She plans to go to her friend's house and study for the upcoming exams together. They also want to watch tv in the evening and paint their nails. When Naima is a nurse she plans to get married afterwards but continue working. She wants to help as many sick people as possible in her life.  <zip||metadata> Quiz on long-, medium- and short-term goals.",
+                  "description": "Quiz on long-, medium- and short-term goals. Today we will talk again about long term and short term goals and plans. Let's see how much your remember. \n\nRead the following story:\nNaima is 12 years old. She wants to move to the regional capital when she is 17, after she has finished secondary school and start nursing college. She will be living with her aunt then. Naima wants to do well this year in school and pass to the next grade. She plans to go to her friend's house and study for the upcoming exams together. They also want to watch tv in the evening and paint their nails. When Naima is a nurse she plans to get married afterwards but continue working. She wants to help as many sick people as possible in her life.",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "questions": [
                     {
@@ -4339,9 +4339,9 @@
                   "description": null,
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "files": [
                     {
@@ -4356,12 +4356,12 @@
                   "source_id": "aflotoun:English/Aflatoun Series/Book 5/aaafl54.3/03aaafl54.3lbq.exercise.zip",
                   "title": "Looking Back Quiz",
                   "author": "Aflatoun",
-                  "description": "True or False?  <zip||metadata> Quiz on long-, medium- and short-term goals.",
+                  "description": "Quiz on long-, medium- and short-term goals. True or False?",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "questions": [
                     {
@@ -4421,9 +4421,9 @@
                   "description": "The KWL Charts helps bring structure to your lesson and make it more efficient.",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "derive_thumbnail": true,
                   "files": [
@@ -4449,12 +4449,12 @@
                   "source_id": "aflotoun:English/Aflatoun Series/Book 5/aaafl54.4/01aaafl54.4wuq.exercise.zip",
                   "title": "Warm up Quiz",
                   "author": "Aflatoun",
-                  "description": "Today we talk about team work. What do you know already? Select True or False?  <zip||metadata> Quiz on team work.",
+                  "description": "Quiz on team work. Today we talk about team work. What do you know already? Select True or False?",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "questions": [
                     {
@@ -4503,9 +4503,9 @@
                   "description": null,
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "files": [
                     {
@@ -4520,12 +4520,12 @@
                   "source_id": "aflotoun:English/Aflatoun Series/Book 5/aaafl54.4/03aaafl54.4lbq.exercise.zip",
                   "title": "Looking Back Quiz",
                   "author": "Aflatoun",
-                  "description": "Select the right answer:  <zip||metadata> Quiz on team work.",
+                  "description": "Quiz on team work. Select the right answer:",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "questions": [
                     {
@@ -4557,12 +4557,12 @@
                   "source_id": "aflotoun:English/Aflatoun Series/Book 5/aaafl54.5/01aaafl54.5wuq.exercise.zip",
                   "title": "Warm up Quiz",
                   "author": "Aflatoun",
-                  "description": "Social Campaigns is the topic of this module.  <zip||metadata> Quiz on collective action.",
+                  "description": "Quiz on collective action. Social Campaigns is the topic of this module.",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "questions": [
                     {
@@ -4587,9 +4587,9 @@
                   "description": null,
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "files": [
                     {
@@ -4604,12 +4604,12 @@
                   "source_id": "aflotoun:English/Aflatoun Series/Book 5/aaafl54.5/03aaafl54.5lbq.exercise.zip",
                   "title": "Looking Back Quiz",
                   "author": "Aflatoun",
-                  "description": "True or False? When you are electing a committee to organize events for a Social Campaign it should include:  <zip||metadata> Quiz on collective action.",
+                  "description": "Quiz on collective action. True or False? When you are electing a committee to organize events for a Social Campaign it should include:",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "questions": [
                     {
@@ -4676,12 +4676,12 @@
                   "source_id": "aflotoun:English/Aflatoun Series/Book 5/aaafl54.6/01aaafl54.6wuq.exercise.zip",
                   "title": "Warm up Quiz",
                   "author": "Aflatoun",
-                  "description": "Today we are going to talk about setting up little enterprises in case any of you are thinking of doing that when you are older. It is important to finish school first though as this will give you many more opportunities in the future. When children don\u2019t go to school but work instead this is called child labour. When they do little chores for their parents or care givers after school this is not called child labour though. \n\nCan you identify the difference? Is this child labour? True or False  <zip||metadata> Quiz on the market and entrepreneur\u2019s basics.",
+                  "description": "Quiz on the market and entrepreneur\u2019s basics. Today we are going to talk about setting up little enterprises in case any of you are thinking of doing that when you are older. It is important to finish school first though as this will give you many more opportunities in the future. When children don\u2019t go to school but work instead this is called child labour. When they do little chores for their parents or care givers after school this is not called child labour though. \n\nCan you identify the difference? Is this child labour? True or False",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "questions": [
                     {
@@ -4744,9 +4744,9 @@
                   "description": null,
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "files": [
                     {
@@ -4761,12 +4761,12 @@
                   "source_id": "aflotoun:English/Aflatoun Series/Book 5/aaafl54.6/03aaafl54.6lbq.exercise.zip",
                   "title": "Looking Back Quiz",
                   "author": "Aflatoun",
-                  "description": "We learned a lot today about investigating what people want to buy before you start a business. Let\u2019s test if you can apply this by selecting True or False:  <zip||metadata> Quiz on the market and entrepreneur\u2019s basics.",
+                  "description": "Quiz on the market and entrepreneur\u2019s basics. We learned a lot today about investigating what people want to buy before you start a business. Let\u2019s test if you can apply this by selecting True or False:",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "questions": [
                     {
@@ -4822,12 +4822,12 @@
                   "source_id": "aflotoun:English/Aflatoun Series/Book 5/aaafl54.7/01aaafl54.7wuq.exercise.zip",
                   "title": "Warm up Quiz",
                   "author": "Aflatoun",
-                  "description": "Today we talk about types of jobs. What do you know already? Select True or False?  <zip||metadata> Quiz on personal skills, interests and professionalism.",
+                  "description": "Quiz on personal skills, interests and professionalism. Today we talk about types of jobs. What do you know already? Select True or False?",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "questions": [
                     {
@@ -4873,9 +4873,9 @@
                   "description": null,
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "files": [
                     {
@@ -4890,12 +4890,12 @@
                   "source_id": "aflotoun:English/Aflatoun Series/Book 5/aaafl54.7/03aaafl54.7lbq.exercise.zip",
                   "title": "Looking Back Quiz",
                   "author": "Aflatoun",
-                  "description": "What do you know already? Select True or False?  <zip||metadata> Quiz on personal skills, interests and professionalism.",
+                  "description": "Quiz on personal skills, interests and professionalism. What do you know already? Select True or False?",
                   "language": "en",
                   "license": {
-                    "license_id": "All Rights Reserved",
-                    "copyright_holder": "Aflatoun",
-                    "description": "Materials \u00a9 2015 Aflatoun"
+                    "license_id": "CC BY",
+                    "copyright_holder": "Aflatoun International",
+                    "description": null
                   },
                   "questions": [
                     {
@@ -4974,9 +4974,9 @@
               "description": null,
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "files": [
                 {
@@ -4994,9 +4994,9 @@
               "description": null,
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "files": [
                 {
@@ -5011,12 +5011,12 @@
               "source_id": "aflotoun:English/Teacher Refresher Modules/01en_origins_of_aflatoun/03_01_quiz_part1.exercise.zip",
               "title": "Take a quiz part 1",
               "author": "Aflatoun",
-              "description": "Part One\nFirst read the text titled Origins of Aflatoun and then answer the questions below.  <zip||metadata> None",
+              "description": "Part One\nFirst read the text titled Origins of Aflatoun and then answer the questions below.",
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "questions": [
                 {
@@ -5093,9 +5093,9 @@
               "description": null,
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "files": [
                 {
@@ -5110,12 +5110,12 @@
               "source_id": "aflotoun:English/Teacher Refresher Modules/01en_origins_of_aflatoun/05_01_quiz_part2.exercise.zip",
               "title": "Take a quiz part 2",
               "author": "Aflatoun",
-              "description": "Part Two\nNow listen to the audio file. You\u2019ll hear an interview with Lata Narayan. Lata works with Meljol, the Indian organization that created Aflatoun. She\u2019s also an Aflatoun Board Member. Here she\u2019s describing what Jeroo Billimoria and other members of Meljol were hoping to achieve when they set out.  <zip||metadata> None",
+              "description": "Part Two\nNow listen to the audio file. You\u2019ll hear an interview with Lata Narayan. Lata works with Meljol, the Indian organization that created Aflatoun. She\u2019s also an Aflatoun Board Member. Here she\u2019s describing what Jeroo Billimoria and other members of Meljol were hoping to achieve when they set out.",
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "questions": [
                 {
@@ -5210,9 +5210,9 @@
               "description": null,
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "files": [
                 {
@@ -5230,9 +5230,9 @@
               "description": null,
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "files": [
                 {
@@ -5247,12 +5247,12 @@
               "source_id": "aflotoun:English/Teacher Refresher Modules/02en_clubs_in_the_aflatoun_program/03_02_quiz_part1.exercise.zip",
               "title": "Take a quiz part 1",
               "author": "Aflatoun",
-              "description": "Part One\nRead the accompanying text (Clubs in the Aflatoun Programme) and then answer the following question.  <zip||metadata> None",
+              "description": "Part One\nRead the accompanying text (Clubs in the Aflatoun Programme) and then answer the following question.",
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "questions": [
                 {
@@ -5305,9 +5305,9 @@
               "description": null,
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "files": [
                 {
@@ -5322,12 +5322,12 @@
               "source_id": "aflotoun:English/Teacher Refresher Modules/02en_clubs_in_the_aflatoun_program/05_02_quiz_part2.exercise.zip",
               "title": "Take a quiz part 2",
               "author": "Aflatoun",
-              "description": "Part Two \nFor this exercise you will either need to access the resources section on your tablet or the Partner Resource section on the Aflatoun website.  <zip||metadata> None",
+              "description": "Part Two \nFor this exercise you will either need to access the resources section on your tablet or the Partner Resource section on the Aflatoun website.",
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "questions": [
                 {
@@ -5365,9 +5365,9 @@
               "description": null,
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "files": [
                 {
@@ -5382,12 +5382,12 @@
               "source_id": "aflotoun:English/Teacher Refresher Modules/02en_clubs_in_the_aflatoun_program/07_02_quiz_part3.exercise.zip",
               "title": "Take a quiz part 3",
               "author": "Aflatoun",
-              "description": "Part Three\nListen to Audio File One and answer the following questions.  <zip||metadata> None",
+              "description": "Part Three\nListen to Audio File One and answer the following questions.",
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "questions": [
                 {
@@ -5436,9 +5436,9 @@
               "description": null,
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "files": [
                 {
@@ -5453,12 +5453,12 @@
               "source_id": "aflotoun:English/Teacher Refresher Modules/02en_clubs_in_the_aflatoun_program/09_02_quiz_part4.exercise.zip",
               "title": "Take a quiz part 4",
               "author": "Aflatoun",
-              "description": "Listen to Audio File Two and answer the following questions  <zip||metadata> None",
+              "description": "Listen to Audio File Two and answer the following questions",
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "questions": [
                 {
@@ -5519,9 +5519,9 @@
               "description": null,
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "files": [
                 {
@@ -5536,12 +5536,12 @@
               "source_id": "aflotoun:English/Teacher Refresher Modules/02en_clubs_in_the_aflatoun_program/11_02_quiz_part5.exercise.zip",
               "title": "Take a quiz part 5",
               "author": "Aflatoun",
-              "description": "Part Five\nRead the document titled Aflatoun Clubs and Elections Around the World and answer the following questions.  <zip||metadata> None",
+              "description": "Part Five\nRead the document titled Aflatoun Clubs and Elections Around the World and answer the following questions.",
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "questions": [
                 {
@@ -5634,9 +5634,9 @@
               "description": null,
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "files": [
                 {
@@ -5654,9 +5654,9 @@
               "description": null,
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "derive_thumbnail": true,
               "files": [
@@ -5672,12 +5672,12 @@
               "source_id": "aflotoun:English/Teacher Refresher Modules/03en_core_programme_activites/03_03_quiz_part1.exercise.zip",
               "title": "Take a quiz part 1",
               "author": "Aflatoun",
-              "description": "Part One\nWatch the Core Program Activities animation then answer the following questions.  <zip||metadata> None",
+              "description": "Part One\nWatch the Core Program Activities animation then answer the following questions.",
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "questions": [
                 {
@@ -5762,9 +5762,9 @@
               "description": null,
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "files": [
                 {
@@ -5779,12 +5779,12 @@
               "source_id": "aflotoun:English/Teacher Refresher Modules/03en_core_programme_activites/05_03_quiz_part2.exercise.zip",
               "title": "Take a quiz part 2",
               "author": "Aflatoun",
-              "description": "Part Two\nRead the instructions for Program Activities Quiz and answer the following questions  <zip||metadata> None",
+              "description": "Part Two\nRead the instructions for Program Activities Quiz and answer the following questions",
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "questions": [
                 {
@@ -5821,9 +5821,9 @@
               "description": null,
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "files": [
                 {
@@ -5838,12 +5838,12 @@
               "source_id": "aflotoun:English/Teacher Refresher Modules/03en_core_programme_activites/07_03_quiz_part3.exercise.zip",
               "title": "Take a quiz part 3",
               "author": "Aflatoun",
-              "description": "Part Three\nLook at the resource materials from Appendix V and answer the following questions.  <zip||metadata> None",
+              "description": "Part Three\nLook at the resource materials from Appendix V and answer the following questions.",
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "questions": [
                 {
@@ -5974,9 +5974,9 @@
               "description": null,
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "files": [
                 {
@@ -5994,9 +5994,9 @@
               "description": null,
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "files": [
                 {
@@ -6011,12 +6011,12 @@
               "source_id": "aflotoun:English/Teacher Refresher Modules/04en_crc_and_quality_of_education/03_04_quiz_part1.exercise.zip",
               "title": "Take a quiz part 1",
               "author": "Aflatoun",
-              "description": "How the United Nations Committee on the Rights of the Child (UNCRC) wants to help us become better teachers.\n\nBy studying this module you will find out more about the advice the United Nations Committee on the Rights of the Child gives to teachers. Much of this advice is contained in the United Nations Convention on the Rights of the Child (UNCRC). We want you to read an edited version of that. We also invite you to listen to part of an interview with Professor Jaap Doek in which he talks about the UNCRC. And finally we offer you part of an article by Mary Joy Pigozzi of UNICEF, New York, explaining in more detail the sort of education that will best help children.\n\nPart One\nRead the shortened version of the UNCRC and then answer these questions.  <zip||metadata> None",
+              "description": "How the United Nations Committee on the Rights of the Child (UNCRC) wants to help us become better teachers.\n\nBy studying this module you will find out more about the advice the United Nations Committee on the Rights of the Child gives to teachers. Much of this advice is contained in the United Nations Convention on the Rights of the Child (UNCRC). We want you to read an edited version of that. We also invite you to listen to part of an interview with Professor Jaap Doek in which he talks about the UNCRC. And finally we offer you part of an article by Mary Joy Pigozzi of UNICEF, New York, explaining in more detail the sort of education that will best help children.\n\nPart One\nRead the shortened version of the UNCRC and then answer these questions.",
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "questions": [
                 {
@@ -6067,9 +6067,9 @@
               "description": null,
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "files": [
                 {
@@ -6084,12 +6084,12 @@
               "source_id": "aflotoun:English/Teacher Refresher Modules/04en_crc_and_quality_of_education/05_04_quiz_part2.exercise.zip",
               "title": "Take a quiz part 2",
               "author": "Aflatoun",
-              "description": "Part Two\nNow please listen to the interview with Professor Doek as he explains what the UNCRC has to say on the provision of education and the aims of education at Articles 28 and 29.  <zip||metadata> None",
+              "description": "Part Two\nNow please listen to the interview with Professor Doek as he explains what the UNCRC has to say on the provision of education and the aims of education at Articles 28 and 29.",
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "questions": [
                 {
@@ -6152,9 +6152,9 @@
               "description": null,
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "files": [
                 {
@@ -6169,12 +6169,12 @@
               "source_id": "aflotoun:English/Teacher Refresher Modules/04en_crc_and_quality_of_education/07_04_quiz_part3.exercise.zip",
               "title": "Take a quiz part 3",
               "author": "Aflatoun",
-              "description": "Part Three\nNow please read the extract from an article by Mary Joy Pigozzi of UNICEF, New York. In this article Mary Joy describes the sort of education that the CRC is promoting.  <zip||metadata> None",
+              "description": "Part Three\nNow please read the extract from an article by Mary Joy Pigozzi of UNICEF, New York. In this article Mary Joy describes the sort of education that the CRC is promoting.",
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "questions": [
                 {
@@ -6222,9 +6222,9 @@
               "description": null,
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "files": [
                 {
@@ -6242,9 +6242,9 @@
               "description": null,
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "files": [
                 {
@@ -6259,12 +6259,12 @@
               "source_id": "aflotoun:English/Teacher Refresher Modules/05en_gender_equality_in_the_classroom/03_05_quiz_part1.exercise.zip",
               "title": "Take a quiz part 1",
               "author": "Aflatoun",
-              "description": "Quiz part 1\n\nRead the document titled 'Gender Equality in The Classroom' before taking the quiz.\nAnswer the following questions, indicating whether each of the following statements is True or False.  <zip||metadata> None",
+              "description": "Quiz part 1\n\nRead the document titled 'Gender Equality in The Classroom' before taking the quiz.\nAnswer the following questions, indicating whether each of the following statements is True or False.",
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "questions": [
                 {
@@ -6307,12 +6307,12 @@
               "source_id": "aflotoun:English/Teacher Refresher Modules/05en_gender_equality_in_the_classroom/04_05_quiz_part2.exercise.zip",
               "title": "Take a quiz part 2",
               "author": "Aflatoun",
-              "description": "Quiz part 2\n\nRead part two - Gender Bias Checklist in the document titled 'Gender Equality in The Classroom' before taking the quiz.\nComplete the gender bias checklist. This is not a test. There are no correct or incorrect answers. This is simply an opportunity for you to think about any possible gender bias in your own teaching. Once you have completed the checklist please answer the following questions.  <zip||metadata> None",
+              "description": "Quiz part 2\n\nRead part two - Gender Bias Checklist in the document titled 'Gender Equality in The Classroom' before taking the quiz.\nComplete the gender bias checklist. This is not a test. There are no correct or incorrect answers. This is simply an opportunity for you to think about any possible gender bias in your own teaching. Once you have completed the checklist please answer the following questions.",
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "questions": [
                 {
@@ -6361,12 +6361,12 @@
               "source_id": "aflotoun:English/Teacher Refresher Modules/05en_gender_equality_in_the_classroom/05_05_quiz_part3.exercise.zip",
               "title": "Take a quiz part 3",
               "author": "Aflatoun",
-              "description": "Quiz part 3\n\nRead the document titled 'Gender Equality in The Classroom' before taking the quiz.  <zip||metadata> None",
+              "description": "Quiz part 3\n\nRead the document titled 'Gender Equality in The Classroom' before taking the quiz.",
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "questions": [
                 {
@@ -6415,9 +6415,9 @@
               "description": null,
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "files": [
                 {
@@ -6432,12 +6432,12 @@
               "source_id": "aflotoun:English/Teacher Refresher Modules/05en_gender_equality_in_the_classroom/07_05_quiz_part4.exercise.zip",
               "title": "Take a quiz part 4",
               "author": "Aflatoun",
-              "description": "Quiz part 4 \u2013 Interview with Stacey Dixson of FHI360\nListen to the short interview with Stacey Dixson. Stacey works with NGO, FHI360. She is their Education and Literacy Specialist. She works on FHI360\u2019s \u2018Mentorship Community of Practice Project\u2019.  <zip||metadata> None",
+              "description": "Quiz part 4 \u2013 Interview with Stacey Dixson of FHI360\nListen to the short interview with Stacey Dixson. Stacey works with NGO, FHI360. She is their Education and Literacy Specialist. She works on FHI360\u2019s \u2018Mentorship Community of Practice Project\u2019.",
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "questions": [
                 {
@@ -6521,9 +6521,9 @@
               "description": null,
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "files": [
                 {
@@ -6541,9 +6541,9 @@
               "description": null,
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "files": [
                 {
@@ -6558,12 +6558,12 @@
               "source_id": "aflotoun:English/Teacher Refresher Modules/06en_children_and_saving/03_06_quiz_part1.exercise.zip",
               "title": "Take a quiz part 1",
               "author": "Aflatoun",
-              "description": "Part One \u2013 Children and Youth Stories\nRead the five \u2018children and youth stories\u2019 to learn more about how and why children participating in Aflatoun programmes around the world save. Then answer the following questions;  <zip||metadata> None",
+              "description": "Part One \u2013 Children and Youth Stories\nRead the five \u2018children and youth stories\u2019 to learn more about how and why children participating in Aflatoun programmes around the world save. Then answer the following questions;",
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "questions": [
                 {
@@ -6660,9 +6660,9 @@
               "description": null,
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "files": [
                 {
@@ -6677,12 +6677,12 @@
               "source_id": "aflotoun:English/Teacher Refresher Modules/06en_children_and_saving/05_06_quiz_part2.exercise.zip",
               "title": "Take a quiz part 2",
               "author": "Aflatoun",
-              "description": "Part Two \u2013 Six Categories of Saving\nOnce you\u2019ve finished reading the Six Categories of Saving exercise, answer the following questions.  <zip||metadata> None",
+              "description": "Part Two \u2013 Six Categories of Saving\nOnce you\u2019ve finished reading the Six Categories of Saving exercise, answer the following questions.",
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "questions": [
                 {
@@ -6765,9 +6765,9 @@
               "description": null,
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "files": [
                 {
@@ -6782,12 +6782,12 @@
               "source_id": "aflotoun:English/Teacher Refresher Modules/06en_children_and_saving/07_06_quiz_part3.exercise.zip",
               "title": "Take a quiz part 3",
               "author": "Aflatoun",
-              "description": "Part Three \u2013 Savings Systems\nRead the document titled Savings Systems and answer these questions  <zip||metadata> None",
+              "description": "Part Three \u2013 Savings Systems\nRead the document titled Savings Systems and answer these questions",
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "questions": [
                 {
@@ -6871,9 +6871,9 @@
               "description": null,
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "files": [
                 {
@@ -6888,12 +6888,12 @@
               "source_id": "aflotoun:English/Teacher Refresher Modules/06en_children_and_saving/09_06_quiz_part4.exercise.zip",
               "title": "Take a quiz part 4",
               "author": "Aflatoun",
-              "description": "Part Four \u2013 Children Savings System  Around the World\nAfter reading the document, answer the following questions.  <zip||metadata> None",
+              "description": "Part Four \u2013 Children Savings System  Around the World\nAfter reading the document, answer the following questions.",
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "questions": [
                 {
@@ -6952,9 +6952,9 @@
               "description": null,
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "files": [
                 {
@@ -6972,9 +6972,9 @@
               "description": null,
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "files": [
                 {
@@ -6989,12 +6989,12 @@
               "source_id": "aflotoun:English/Teacher Refresher Modules/07en_child_social_and_financial_enterprise/03_07_quiz_part1.exercise.zip",
               "title": "Take a quiz part 1",
               "author": "Aflatoun",
-              "description": "Part I\nRead the document titled Child Social and Financial Enterprise: Case Studies and answer the following questions.  <zip||metadata> None",
+              "description": "Part I\nRead the document titled Child Social and Financial Enterprise: Case Studies and answer the following questions.",
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "questions": [
                 {
@@ -7075,9 +7075,9 @@
               "description": null,
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "files": [
                 {
@@ -7092,12 +7092,12 @@
               "source_id": "aflotoun:English/Teacher Refresher Modules/07en_child_social_and_financial_enterprise/05_07_quiz_part2.exercise.zip",
               "title": "Take a quiz part 2",
               "author": "Aflatoun",
-              "description": "Part Two\nRead the Child Social and Financial Enterprise Checklist. Then complete the Broken Sentences exercise below  <zip||metadata> None",
+              "description": "Part Two\nRead the Child Social and Financial Enterprise Checklist. Then complete the Broken Sentences exercise below",
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "questions": [
                 {
@@ -7158,9 +7158,9 @@
               "description": null,
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "files": [
                 {
@@ -7175,12 +7175,12 @@
               "source_id": "aflotoun:English/Teacher Refresher Modules/07en_child_social_and_financial_enterprise/07_07_quiz_part3.exercise.zip",
               "title": "Take a quiz part 3",
               "author": "Aflatoun",
-              "description": "Part Three\nListen to the audio file and then say in which country children chose to do the following social and financial enterprise projects?  <zip||metadata> None",
+              "description": "Part Three\nListen to the audio file and then say in which country children chose to do the following social and financial enterprise projects?",
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "questions": [
                 {
@@ -7255,9 +7255,9 @@
               "description": null,
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "files": [
                 {
@@ -7275,9 +7275,9 @@
               "description": null,
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "files": [
                 {
@@ -7292,12 +7292,12 @@
               "source_id": "aflotoun:English/Teacher Refresher Modules/08en_teacher_talking_time_versus_student_talking_time/03_08_quiz_part1.exercise.zip",
               "title": "Take a quiz part 1",
               "author": "Aflatoun",
-              "description": "Part One\nStudy at the table titled Strengths and Weaknesses of Different Teaching Styles and then answer the following questions. In which of the four squares do the following belong, according to our table?  <zip||metadata> None",
+              "description": "Part One\nStudy at the table titled Strengths and Weaknesses of Different Teaching Styles and then answer the following questions. In which of the four squares do the following belong, according to our table?",
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "questions": [
                 {
@@ -7378,9 +7378,9 @@
               "description": null,
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "files": [
                 {
@@ -7395,12 +7395,12 @@
               "source_id": "aflotoun:English/Teacher Refresher Modules/08en_teacher_talking_time_versus_student_talking_time/05_08_quiz_part2.exercise.zip",
               "title": "Take a quiz part 2",
               "author": "Aflatoun",
-              "description": "Part Two\nRead the document titled Active Teaching Practice (taken from our Training Manual) and answer the following questions.  <zip||metadata> None",
+              "description": "Part Two\nRead the document titled Active Teaching Practice (taken from our Training Manual) and answer the following questions.",
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "questions": [
                 {
@@ -7426,9 +7426,9 @@
               "description": null,
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "derive_thumbnail": true,
               "files": [
@@ -7444,12 +7444,12 @@
               "source_id": "aflotoun:English/Teacher Refresher Modules/08en_teacher_talking_time_versus_student_talking_time/07_08_quiz_part3.exercise.zip",
               "title": "Take a quiz part 3",
               "author": "Aflatoun",
-              "description": "Part Three\nWatch the animation and answer the following questions.  <zip||metadata> None",
+              "description": "Part Three\nWatch the animation and answer the following questions.",
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "questions": [
                 {
@@ -7522,9 +7522,9 @@
               "description": null,
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "files": [
                 {
@@ -7542,9 +7542,9 @@
               "description": null,
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "files": [
                 {
@@ -7559,12 +7559,12 @@
               "source_id": "aflotoun:English/Teacher Refresher Modules/09en_brainstorming/03_09_quiz_part1.exercise.zip",
               "title": "Take a quiz part 1",
               "author": "Aflatoun",
-              "description": "Part 1\nListen to this interview with April Coetzee, Senior Educational Adviser at War Child Holland. She\u2019s talking about brainstorming. Then answer the following questions.  <zip||metadata> None",
+              "description": "Part 1\nListen to this interview with April Coetzee, Senior Educational Adviser at War Child Holland. She\u2019s talking about brainstorming. Then answer the following questions.",
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "questions": [
                 {
@@ -7702,9 +7702,9 @@
               "description": null,
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "derive_thumbnail": true,
               "files": [
@@ -7720,12 +7720,12 @@
               "source_id": "aflotoun:English/Teacher Refresher Modules/09en_brainstorming/05_09_quiz_part2.exercise.zip",
               "title": "Take a quiz part 2",
               "author": "Aflatoun",
-              "description": "Part Two \u2013 Benefits of Brainstorming animation\nWatch the animation and then answer the following questions.  <zip||metadata> None",
+              "description": "Part Two \u2013 Benefits of Brainstorming animation\nWatch the animation and then answer the following questions.",
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "questions": [
                 {
@@ -7822,9 +7822,9 @@
               "description": null,
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "derive_thumbnail": true,
               "files": [
@@ -7840,12 +7840,12 @@
               "source_id": "aflotoun:English/Teacher Refresher Modules/09en_brainstorming/07_09_quiz_part3.exercise.zip",
               "title": "Take a quiz part 3",
               "author": "Aflatoun",
-              "description": "Part Three\nWatch the second piece of animation titled, Brainstorming Tips and answer the following questions.  <zip||metadata> None",
+              "description": "Part Three\nWatch the second piece of animation titled, Brainstorming Tips and answer the following questions.",
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "questions": [
                 {
@@ -7930,9 +7930,9 @@
               "description": null,
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "files": [
                 {
@@ -7950,9 +7950,9 @@
               "description": null,
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "derive_thumbnail": true,
               "files": [
@@ -7968,12 +7968,12 @@
               "source_id": "aflotoun:English/Teacher Refresher Modules/10en_problem_trees/03_10_quiz_part1.exercise.zip",
               "title": "Take a quiz part 1",
               "author": "Aflatoun",
-              "description": "Part One\nWatch the animation called \u2018Problem Trees\u2019 and answer the following questions.  <zip||metadata> None",
+              "description": "Part One\nWatch the animation called \u2018Problem Trees\u2019 and answer the following questions.",
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "questions": [
                 {
@@ -8061,9 +8061,9 @@
               "description": null,
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "files": [
                 {
@@ -8078,12 +8078,12 @@
               "source_id": "aflotoun:English/Teacher Refresher Modules/10en_problem_trees/05_10_quiz_part2.exercise.zip",
               "title": "Take a quiz part 2",
               "author": "Aflatoun",
-              "description": "Read the instructions on how to use a Problem Tree (Problem Tree Instructions and Advice) and then answer the following questions.  <zip||metadata> None",
+              "description": "Read the instructions on how to use a Problem Tree (Problem Tree Instructions and Advice) and then answer the following questions.",
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "questions": [
                 {
@@ -8135,9 +8135,9 @@
               "description": null,
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "files": [
                 {
@@ -8152,12 +8152,12 @@
               "source_id": "aflotoun:English/Teacher Refresher Modules/10en_problem_trees/07_10_quiz_part3.exercise.zip",
               "title": "Take a quiz part 3",
               "author": "Aflatoun",
-              "description": "Part Three\nLook at Book 5, Module 2.1. Look at the Problem Tree exercise there then answer the following questions.  <zip||metadata> None",
+              "description": "Part Three\nLook at Book 5, Module 2.1. Look at the Problem Tree exercise there then answer the following questions.",
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "questions": [
                 {
@@ -8219,9 +8219,9 @@
               "description": null,
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "files": [
                 {
@@ -8239,9 +8239,9 @@
               "description": null,
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "derive_thumbnail": true,
               "files": [
@@ -8257,12 +8257,12 @@
               "source_id": "aflotoun:English/Teacher Refresher Modules/11en_image_theatre/03_11_quiz_part1.exercise.zip",
               "title": "Take a quiz part 1",
               "author": "Aflatoun",
-              "description": "Part One\nWatch the animation and answer the following questions.  <zip||metadata> None",
+              "description": "Part One\nWatch the animation and answer the following questions.",
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "questions": [
                 {
@@ -8359,12 +8359,12 @@
               "source_id": "aflotoun:English/Teacher Refresher Modules/11en_image_theatre/04_11_quiz_part2.exercise.zip",
               "title": "Take a quiz part 2",
               "author": "Aflatoun",
-              "description": "Part Two\nFor this exercise you need to access the resources section on your tablet or on the Partner Resource section of the Aflatoun website.  <zip||metadata> None",
+              "description": "Part Two\nFor this exercise you need to access the resources section on your tablet or on the Partner Resource section of the Aflatoun website.",
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "questions": [
                 {
@@ -8441,9 +8441,9 @@
               "description": null,
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "files": [
                 {
@@ -8458,12 +8458,12 @@
               "source_id": "aflotoun:English/Teacher Refresher Modules/11en_image_theatre/06_11_quiz_part3.exercise.zip",
               "title": "Take a quiz part 3",
               "author": "Aflatoun",
-              "description": "Part Three\nRead Image Theatre text and answer the following questions.  <zip||metadata> None",
+              "description": "Part Three\nRead Image Theatre text and answer the following questions.",
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "questions": [
                 {
@@ -8541,9 +8541,9 @@
               "description": null,
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "files": [
                 {
@@ -8558,12 +8558,12 @@
               "source_id": "aflotoun:English/Teacher Refresher Modules/11en_image_theatre/08_11_quiz_part4.exercise.zip",
               "title": "Take a quiz part 4",
               "author": "Aflatoun",
-              "description": "Part Four\nListen to the audio file and answer the following questions  <zip||metadata> None",
+              "description": "Part Four\nListen to the audio file and answer the following questions",
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "questions": [
                 {
@@ -8620,9 +8620,9 @@
               "description": null,
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "files": [
                 {
@@ -8640,9 +8640,9 @@
               "description": null,
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "derive_thumbnail": true,
               "files": [
@@ -8658,12 +8658,12 @@
               "source_id": "aflotoun:English/Teacher Refresher Modules/12en_kwl_charts/03_12_quiz_part1.exercise.zip",
               "title": "Take a quiz part 1",
               "author": "Aflatoun",
-              "description": "Part 1\nWatch the animated film and then answer the following questions;  <zip||metadata> None",
+              "description": "Part 1\nWatch the animated film and then answer the following questions;",
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "questions": [
                 {
@@ -8770,12 +8770,12 @@
               "source_id": "aflotoun:English/Teacher Refresher Modules/12en_kwl_charts/04_12_quiz_part2.exercise.zip",
               "title": "Take a quiz part 2",
               "author": "Aflatoun",
-              "description": "Part Three  <zip||metadata> None",
+              "description": "Part Three",
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "questions": [
                 {
@@ -8822,9 +8822,9 @@
               "description": null,
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "files": [
                 {
@@ -8842,9 +8842,9 @@
               "description": null,
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "derive_thumbnail": true,
               "files": [
@@ -8860,12 +8860,12 @@
               "source_id": "aflotoun:English/Teacher Refresher Modules/13en_memory_cards/03_13_quiz_part1.exercise.zip",
               "title": "Take a quiz part 1",
               "author": "Aflatoun",
-              "description": "Part one\nWatch the Memory Cards animation and answer the following questions.  <zip||metadata> None",
+              "description": "Part one\nWatch the Memory Cards animation and answer the following questions.",
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "questions": [
                 {
@@ -8911,12 +8911,12 @@
               "source_id": "aflotoun:English/Teacher Refresher Modules/13en_memory_cards/04_13_quiz_part2.exercise.zip",
               "title": "Take a quiz part 2",
               "author": "Aflatoun",
-              "description": "Part two  <zip||metadata> None",
+              "description": "Part two",
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "questions": [
                 {
@@ -8941,9 +8941,9 @@
               "description": null,
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "files": [
                 {
@@ -8958,12 +8958,12 @@
               "source_id": "aflotoun:English/Teacher Refresher Modules/13en_memory_cards/06_13_quiz_part3.exercise.zip",
               "title": "Take a quiz part 3",
               "author": "Aflatoun",
-              "description": "Part three\nRead the text on Making Your Own Memory Card Games (taken from Session 13 of the Training Manual) and answer the following questions.  <zip||metadata> None",
+              "description": "Part three\nRead the text on Making Your Own Memory Card Games (taken from Session 13 of the Training Manual) and answer the following questions.",
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "questions": [
                 {
@@ -9010,9 +9010,9 @@
               "description": null,
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "files": [
                 {
@@ -9030,9 +9030,9 @@
               "description": null,
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "derive_thumbnail": true,
               "files": [
@@ -9048,12 +9048,12 @@
               "source_id": "aflotoun:English/Teacher Refresher Modules/14en_group_work/03_14_quiz_part1.exercise.zip",
               "title": "Take a quiz part 1",
               "author": "Aflatoun",
-              "description": "Part One\nWatch the Jigsaw Method animation and answer the following questions.  <zip||metadata> None",
+              "description": "Part One\nWatch the Jigsaw Method animation and answer the following questions.",
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "questions": [
                 {
@@ -9138,9 +9138,9 @@
               "description": null,
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "files": [
                 {
@@ -9155,12 +9155,12 @@
               "source_id": "aflotoun:English/Teacher Refresher Modules/14en_group_work/05_14_quiz_part2.exercise.zip",
               "title": "Take a quiz part 2",
               "author": "Aflatoun",
-              "description": "Part Two\nNow listen to the audio file. Paul from Aflatoun is interviewing James Lawrie of Save the Children UK on the subject of structured group work in general.  <zip||metadata> None",
+              "description": "Part Two\nNow listen to the audio file. Paul from Aflatoun is interviewing James Lawrie of Save the Children UK on the subject of structured group work in general.",
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "questions": [
                 {
@@ -9235,9 +9235,9 @@
               "description": null,
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "files": [
                 {
@@ -9252,12 +9252,12 @@
               "source_id": "aflotoun:English/Teacher Refresher Modules/14en_group_work/07_14_quiz_part3.exercise.zip",
               "title": "Take a quiz part 3",
               "author": "Aflatoun",
-              "description": "Part Three\nRead the text titled Some Advice on Group Work. This article is adapted from one on the TESSA.  <zip||metadata> None",
+              "description": "Part Three\nRead the text titled Some Advice on Group Work. This article is adapted from one on the TESSA.",
               "language": "en",
               "license": {
-                "license_id": "All Rights Reserved",
-                "copyright_holder": "Aflatoun",
-                "description": "Materials \u00a9 2015 Aflatoun"
+                "license_id": "CC BY",
+                "copyright_holder": "Aflatoun International",
+                "description": null
               },
               "questions": [
                 {
@@ -9318,9 +9318,9 @@
           "description": "The Training Manual seeks to familiarize the reader not only with the core themes of Aflatoun's educational materials, but also with Aflatoun's preferred child-centered pedagogical approach.",
           "language": "en",
           "license": {
-            "license_id": "All Rights Reserved",
-            "copyright_holder": "Aflatoun",
-            "description": "Materials \u00a9 2015 Aflatoun"
+            "license_id": "CC BY",
+            "copyright_holder": "Aflatoun International",
+            "description": null
           },
           "files": [
             {
